@@ -1,0 +1,2366 @@
+match_id,season,inning,batting_team,winner,total_runs,total_wickets,powerplay_runs,powerplay_wickets,middle_overs_runs,middle_overs_wickets,death_overs_runs,death_overs_wickets
+335982,2008,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,222,3,61,1,93,1,68,1
+335982,2008,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,82,10,26,4,55,5,1,1
+335983,2008,1st innings,Chennai Super Kings,Chennai Super Kings,240,5,53,1,108,3,79,1
+335983,2008,2nd innings,Kings XI Punjab,Chennai Super Kings,207,4,63,1,102,2,42,1
+335984,2008,1st innings,Rajasthan Royals,Delhi Daredevils,129,8,40,2,56,5,33,1
+335984,2008,2nd innings,Delhi Daredevils,Delhi Daredevils,132,1,55,1,73,0,4,0
+335985,2008,1st innings,Mumbai Indians,Royal Challengers Bangalore,165,7,47,3,58,1,60,3
+335985,2008,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,166,5,40,1,78,3,48,1
+335986,2008,1st innings,Deccan Chargers,Kolkata Knight Riders,110,10,39,2,38,4,33,4
+335986,2008,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,112,5,26,3,55,1,31,1
+335987,2008,1st innings,Kings XI Punjab,Rajasthan Royals,166,8,54,1,61,3,51,4
+335987,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,168,4,53,3,89,1,26,0
+335988,2008,1st innings,Deccan Chargers,Delhi Daredevils,142,8,25,2,48,3,69,3
+335988,2008,2nd innings,Delhi Daredevils,Delhi Daredevils,143,1,48,1,95,0,0,0
+335989,2008,1st innings,Chennai Super Kings,Chennai Super Kings,208,5,53,2,90,1,65,2
+335989,2008,2nd innings,Mumbai Indians,Chennai Super Kings,202,7,52,2,82,3,68,2
+335990,2008,1st innings,Deccan Chargers,Rajasthan Royals,214,5,58,2,90,1,66,2
+335990,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,217,7,73,1,86,2,58,4
+335991,2008,1st innings,Kings XI Punjab,Kings XI Punjab,182,10,60,1,78,3,44,6
+335991,2008,2nd innings,Mumbai Indians,Kings XI Punjab,116,9,39,2,62,5,15,2
+335992,2008,1st innings,Royal Challengers Bangalore,Rajasthan Royals,135,8,57,2,38,5,40,1
+335992,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,138,3,45,2,76,0,17,1
+335993,2008,1st innings,Kolkata Knight Riders,Chennai Super Kings,147,9,61,3,43,3,43,3
+335993,2008,2nd innings,Chennai Super Kings,Chennai Super Kings,152,1,45,0,76,1,31,0
+335994,2008,1st innings,Mumbai Indians,Deccan Chargers,154,7,27,3,72,2,55,2
+335994,2008,2nd innings,Deccan Chargers,Deccan Chargers,155,0,60,0,95,0,0,0
+335995,2008,1st innings,Delhi Daredevils,Kings XI Punjab,158,8,45,3,62,2,51,3
+335995,2008,2nd innings,Kings XI Punjab,Kings XI Punjab,162,6,55,2,68,2,39,2
+335996,2008,1st innings,Chennai Super Kings,Chennai Super Kings,178,5,36,1,66,2,76,2
+335996,2008,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,165,10,45,1,87,2,33,7
+335997,2008,1st innings,Kolkata Knight Riders,Mumbai Indians,137,8,40,3,47,3,50,2
+335997,2008,2nd innings,Mumbai Indians,Mumbai Indians,138,3,38,3,72,0,28,0
+335998,2008,1st innings,Delhi Daredevils,Delhi Daredevils,191,5,58,1,93,1,40,3
+335998,2008,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,181,5,55,3,79,0,47,2
+335999,2008,1st innings,Deccan Chargers,Kings XI Punjab,164,8,50,1,61,5,53,2
+335999,2008,2nd innings,Kings XI Punjab,Kings XI Punjab,167,3,41,1,88,2,38,0
+336000,2008,1st innings,Rajasthan Royals,Rajasthan Royals,196,7,45,1,97,3,54,3
+336000,2008,2nd innings,Kolkata Knight Riders,Rajasthan Royals,151,10,51,3,77,2,23,5
+336001,2008,1st innings,Chennai Super Kings,Delhi Daredevils,169,6,47,1,79,2,43,3
+336001,2008,2nd innings,Delhi Daredevils,Delhi Daredevils,172,2,64,0,78,2,30,0
+336002,2008,1st innings,Deccan Chargers,Royal Challengers Bangalore,165,10,41,0,82,4,42,6
+336002,2008,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,171,5,43,1,63,2,65,2
+336003,2008,1st innings,Kings XI Punjab,Kings XI Punjab,178,6,49,1,70,4,59,1
+336003,2008,2nd innings,Kolkata Knight Riders,Kings XI Punjab,169,6,31,4,70,1,68,1
+336004,2008,1st innings,Mumbai Indians,Mumbai Indians,162,8,50,2,62,3,50,3
+336004,2008,2nd innings,Delhi Daredevils,Mumbai Indians,133,10,37,2,77,3,19,5
+336005,2008,1st innings,Chennai Super Kings,Rajasthan Royals,109,10,38,4,53,3,18,3
+336005,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,110,2,44,0,66,2,0,0
+336006,2008,1st innings,Royal Challengers Bangalore,Kings XI Punjab,126,10,26,3,71,1,29,6
+336006,2008,2nd innings,Kings XI Punjab,Kings XI Punjab,127,4,52,1,57,3,18,0
+336007,2008,1st innings,Chennai Super Kings,Deccan Chargers,144,7,34,3,52,3,58,1
+336007,2008,2nd innings,Deccan Chargers,Deccan Chargers,148,3,50,1,65,1,33,1
+336008,2008,1st innings,Rajasthan Royals,Mumbai Indians,103,10,48,2,54,5,1,3
+336008,2008,2nd innings,Mumbai Indians,Mumbai Indians,104,3,34,0,68,3,2,0
+336009,2008,1st innings,Delhi Daredevils,Chennai Super Kings,187,5,50,2,83,0,54,3
+336009,2008,2nd innings,Chennai Super Kings,Chennai Super Kings,188,6,62,0,80,4,46,2
+336010,2008,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,129,7,41,2,74,4,14,1
+336010,2008,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,124,4,35,2,76,2,13,0
+336011,2008,1st innings,Deccan Chargers,Rajasthan Royals,140,8,50,0,53,4,37,4
+336011,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,141,2,50,0,79,1,12,1
+336012,2008,1st innings,Royal Challengers Bangalore,Mumbai Indians,122,9,36,2,56,5,30,2
+336012,2008,2nd innings,Mumbai Indians,Mumbai Indians,126,1,39,0,78,1,9,0
+336013,2008,1st innings,Chennai Super Kings,Chennai Super Kings,181,4,53,2,91,1,37,1
+336013,2008,2nd innings,Kings XI Punjab,Chennai Super Kings,163,9,35,2,80,4,48,3
+336014,2008,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,204,4,43,1,75,1,86,2
+336014,2008,2nd innings,Deccan Chargers,Kolkata Knight Riders,181,7,55,3,70,3,56,1
+336015,2008,1st innings,Delhi Daredevils,Rajasthan Royals,156,7,47,1,49,4,60,2
+336015,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,159,7,21,2,99,2,39,3
+336016,2008,1st innings,Royal Challengers Bangalore,Kings XI Punjab,143,8,50,3,52,2,41,3
+336016,2008,2nd innings,Kings XI Punjab,Kings XI Punjab,144,1,42,0,99,1,3,0
+336017,2008,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,133,6,35,1,60,2,38,3
+336017,2008,2nd innings,Delhi Daredevils,Kolkata Knight Riders,110,10,37,4,60,2,13,4
+336018,2008,1st innings,Chennai Super Kings,Mumbai Indians,156,6,28,2,61,2,67,2
+336018,2008,2nd innings,Mumbai Indians,Mumbai Indians,158,1,78,0,80,1,0,0
+336019,2008,1st innings,Kings XI Punjab,Kings XI Punjab,221,3,51,0,93,1,77,2
+336019,2008,2nd innings,Rajasthan Royals,Kings XI Punjab,180,7,38,2,102,3,40,2
+336020,2008,1st innings,Delhi Daredevils,Delhi Daredevils,194,4,48,1,90,0,56,3
+336020,2008,2nd innings,Deccan Chargers,Delhi Daredevils,182,9,71,1,57,3,54,5
+336021,2008,1st innings,Kolkata Knight Riders,Mumbai Indians,67,10,27,3,40,6,0,1
+336021,2008,2nd innings,Mumbai Indians,Mumbai Indians,68,2,68,2,0,0,0,0
+336022,2008,1st innings,Delhi Daredevils,Kings XI Punjab,118,4,68,0,50,4,0,0
+336022,2008,2nd innings,Kings XI Punjab,Kings XI Punjab,94,3,73,3,21,0,0,0
+336023,2008,1st innings,Rajasthan Royals,Rajasthan Royals,197,1,51,0,92,1,54,0
+336023,2008,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,132,9,23,3,60,4,49,2
+336024,2008,1st innings,Mumbai Indians,Mumbai Indians,178,7,57,1,57,3,64,3
+336024,2008,2nd innings,Deccan Chargers,Mumbai Indians,153,7,32,3,74,1,47,3
+336025,2008,1st innings,Kolkata Knight Riders,Chennai Super Kings,149,5,35,2,66,0,48,3
+336025,2008,2nd innings,Chennai Super Kings,Chennai Super Kings,55,0,43,0,12,0,0,0
+336026,2008,1st innings,Royal Challengers Bangalore,Delhi Daredevils,154,7,41,1,61,2,52,4
+336026,2008,2nd innings,Delhi Daredevils,Delhi Daredevils,158,5,71,0,56,4,31,1
+336027,2008,1st innings,Kolkata Knight Riders,Rajasthan Royals,147,8,32,1,70,3,45,4
+336027,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,150,4,42,3,86,1,22,0
+336028,2008,1st innings,Kings XI Punjab,Kings XI Punjab,189,4,43,1,91,1,55,2
+336028,2008,2nd innings,Mumbai Indians,Kings XI Punjab,188,10,68,1,76,2,44,7
+336029,2008,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,126,8,23,2,53,3,50,3
+336029,2008,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,112,8,44,0,48,4,20,4
+336031,2008,1st innings,Deccan Chargers,Kings XI Punjab,175,4,42,0,69,2,64,2
+336031,2008,2nd innings,Kings XI Punjab,Kings XI Punjab,178,4,74,0,61,2,43,2
+336032,2008,1st innings,Mumbai Indians,Delhi Daredevils,176,8,60,0,63,4,53,4
+336032,2008,2nd innings,Delhi Daredevils,Delhi Daredevils,179,5,56,2,74,3,49,0
+336033,2008,1st innings,Rajasthan Royals,Rajasthan Royals,211,5,67,0,100,2,44,3
+336033,2008,2nd innings,Chennai Super Kings,Rajasthan Royals,201,7,65,1,92,2,44,4
+336034,2008,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,156,8,46,1,68,4,42,3
+336034,2008,2nd innings,Deccan Chargers,Royal Challengers Bangalore,153,6,33,2,79,0,41,4
+336035,2008,1st innings,Kings XI Punjab,Kolkata Knight Riders,174,6,47,1,86,2,41,3
+336035,2008,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,175,7,51,2,53,3,71,2
+336036,2008,1st innings,Mumbai Indians,Rajasthan Royals,145,7,29,0,68,2,48,5
+336036,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,146,5,36,2,54,3,56,0
+336037,2008,1st innings,Deccan Chargers,Chennai Super Kings,147,8,26,2,67,1,54,5
+336037,2008,2nd innings,Chennai Super Kings,Chennai Super Kings,148,3,44,1,70,1,34,1
+336038,2008,1st innings,Rajasthan Royals,Rajasthan Royals,192,9,58,0,84,4,50,5
+336038,2008,2nd innings,Delhi Daredevils,Rajasthan Royals,87,10,28,3,54,5,5,2
+336039,2008,1st innings,Kings XI Punjab,Chennai Super Kings,112,8,35,4,33,3,44,1
+336039,2008,2nd innings,Chennai Super Kings,Chennai Super Kings,116,1,35,1,81,0,0,0
+336040,2008,1st innings,Chennai Super Kings,Rajasthan Royals,163,5,42,1,75,2,46,2
+336040,2008,2nd innings,Rajasthan Royals,Rajasthan Royals,164,7,41,1,71,3,52,3
+392181,2009,1st innings,Mumbai Indians,Mumbai Indians,165,7,40,1,65,3,60,3
+392181,2009,2nd innings,Chennai Super Kings,Mumbai Indians,146,7,40,2,68,3,38,2
+392182,2009,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,133,8,29,3,58,2,46,3
+392182,2009,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,58,10,14,2,44,7,0,1
+392183,2009,1st innings,Kings XI Punjab,Delhi Daredevils,104,7,67,1,37,6,0,0
+392183,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,58,0,58,0,0,0,0,0
+392184,2009,1st innings,Kolkata Knight Riders,Deccan Chargers,101,10,21,3,43,2,37,5
+392184,2009,2nd innings,Deccan Chargers,Deccan Chargers,104,2,37,2,67,0,0,0
+392185,2009,1st innings,Chennai Super Kings,Chennai Super Kings,179,5,68,0,67,2,44,3
+392185,2009,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,87,10,46,2,39,7,2,1
+392186,2009,1st innings,Kings XI Punjab,Kolkata Knight Riders,158,6,46,1,71,3,41,2
+392186,2009,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,79,1,60,1,19,0,0,0
+392188,2009,1st innings,Deccan Chargers,Deccan Chargers,184,6,62,1,77,2,45,3
+392188,2009,2nd innings,Royal Challengers Bangalore,Deccan Chargers,160,8,31,2,78,2,51,4
+392189,2009,1st innings,Delhi Daredevils,Delhi Daredevils,189,5,59,2,64,2,66,1
+392189,2009,2nd innings,Chennai Super Kings,Delhi Daredevils,180,9,61,1,87,3,32,5
+392190,2009,1st innings,Rajasthan Royals,,150,6,54,2,53,2,43,2
+392190,2009,2nd innings,Kolkata Knight Riders,,150,8,38,1,60,4,52,3
+392190,2009,Kolkata Knight Riders Super Over,Kolkata Knight Riders,,15,1,15,1,0,0,0,0
+392190,2009,Rajasthan Royals Super Over,Rajasthan Royals,,18,0,18,0,0,0,0,0
+392191,2009,1st innings,Royal Challengers Bangalore,Kings XI Punjab,168,9,49,3,69,1,50,5
+392191,2009,2nd innings,Kings XI Punjab,Kings XI Punjab,173,3,44,0,65,2,64,1
+392192,2009,1st innings,Deccan Chargers,Deccan Chargers,168,9,55,0,82,4,31,5
+392192,2009,2nd innings,Mumbai Indians,Deccan Chargers,156,7,50,1,58,3,48,3
+392194,2009,1st innings,Royal Challengers Bangalore,Delhi Daredevils,149,7,45,2,55,2,49,3
+392194,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,150,4,43,2,56,1,51,1
+392195,2009,1st innings,Kings XI Punjab,Kings XI Punjab,139,6,38,2,60,2,41,2
+392195,2009,2nd innings,Rajasthan Royals,Kings XI Punjab,112,7,32,4,50,2,30,1
+392196,2009,1st innings,Chennai Super Kings,Deccan Chargers,165,6,62,1,51,3,52,2
+392196,2009,2nd innings,Deccan Chargers,Deccan Chargers,169,4,69,1,60,2,40,1
+392197,2009,1st innings,Mumbai Indians,Mumbai Indians,187,6,61,0,90,3,36,3
+392197,2009,2nd innings,Kolkata Knight Riders,Mumbai Indians,95,9,47,2,48,5,0,2
+392198,2009,1st innings,Delhi Daredevils,Rajasthan Royals,143,7,42,3,59,1,42,3
+392198,2009,2nd innings,Rajasthan Royals,Rajasthan Royals,147,5,33,2,63,3,51,0
+392199,2009,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,139,6,45,2,49,2,45,2
+392199,2009,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,143,5,46,0,52,2,45,3
+392200,2009,1st innings,Kings XI Punjab,Kings XI Punjab,119,8,26,2,60,3,33,3
+392200,2009,2nd innings,Mumbai Indians,Kings XI Punjab,116,7,23,3,58,1,35,3
+392201,2009,1st innings,Deccan Chargers,Delhi Daredevils,148,9,37,2,81,3,30,4
+392201,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,150,4,41,2,60,1,49,1
+392202,2009,1st innings,Chennai Super Kings,Chennai Super Kings,164,5,40,2,64,2,60,1
+392202,2009,2nd innings,Rajasthan Royals,Chennai Super Kings,126,9,38,2,60,3,28,4
+392203,2009,1st innings,Mumbai Indians,Mumbai Indians,148,6,40,2,48,2,60,2
+392203,2009,2nd innings,Kolkata Knight Riders,Mumbai Indians,139,6,26,2,72,1,41,3
+392204,2009,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,145,9,38,2,62,4,45,3
+392204,2009,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,137,7,35,0,60,3,42,4
+392205,2009,1st innings,Deccan Chargers,Rajasthan Royals,141,5,39,2,63,1,39,2
+392205,2009,2nd innings,Rajasthan Royals,Rajasthan Royals,142,7,30,3,68,3,44,1
+392206,2009,1st innings,Chennai Super Kings,Chennai Super Kings,163,10,53,2,77,2,33,6
+392206,2009,2nd innings,Delhi Daredevils,Chennai Super Kings,145,8,49,2,71,1,25,5
+392207,2009,1st innings,Kolkata Knight Riders,Kings XI Punjab,153,3,28,1,64,1,61,1
+392207,2009,2nd innings,Kings XI Punjab,Kings XI Punjab,154,4,51,2,65,2,38,0
+392208,2009,1st innings,Mumbai Indians,Royal Challengers Bangalore,149,4,25,3,61,1,63,0
+392208,2009,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,150,1,51,1,71,0,28,0
+392209,2009,1st innings,Chennai Super Kings,Chennai Super Kings,178,3,53,0,77,2,48,1
+392209,2009,2nd innings,Deccan Chargers,Chennai Super Kings,100,10,52,3,48,7,0,0
+392210,2009,1st innings,Rajasthan Royals,Rajasthan Royals,211,4,57,0,79,1,75,3
+392210,2009,2nd innings,Kings XI Punjab,Rajasthan Royals,133,8,29,4,67,2,37,2
+392211,2009,1st innings,Kolkata Knight Riders,Delhi Daredevils,154,3,54,0,49,2,51,1
+392211,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,157,1,57,0,57,1,43,0
+392212,2009,1st innings,Deccan Chargers,Deccan Chargers,145,6,37,2,62,2,46,2
+392212,2009,2nd innings,Mumbai Indians,Deccan Chargers,126,8,41,2,59,2,26,4
+392213,2009,1st innings,Royal Challengers Bangalore,Rajasthan Royals,105,10,29,3,47,3,29,4
+392213,2009,2nd innings,Rajasthan Royals,Rajasthan Royals,107,3,31,1,76,2,0,0
+392214,2009,1st innings,Chennai Super Kings,Chennai Super Kings,185,3,57,1,88,1,40,1
+392214,2009,2nd innings,Kings XI Punjab,Chennai Super Kings,174,3,53,1,95,2,26,0
+392215,2009,1st innings,Mumbai Indians,Delhi Daredevils,116,10,30,3,44,1,42,6
+392215,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,118,3,36,0,38,2,44,1
+392216,2009,1st innings,Deccan Chargers,Kings XI Punjab,168,5,52,1,48,3,68,1
+392216,2009,2nd innings,Kings XI Punjab,Kings XI Punjab,169,7,45,2,74,3,50,2
+392217,2009,1st innings,Rajasthan Royals,Chennai Super Kings,140,7,34,1,65,3,41,3
+392217,2009,2nd innings,Chennai Super Kings,Chennai Super Kings,141,3,37,2,60,0,44,1
+392218,2009,1st innings,Mumbai Indians,Mumbai Indians,157,2,46,1,58,1,53,0
+392218,2009,2nd innings,Royal Challengers Bangalore,Mumbai Indians,141,7,39,2,61,4,41,1
+392219,2009,1st innings,Kolkata Knight Riders,Delhi Daredevils,123,8,37,3,40,3,46,2
+392219,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,125,3,47,0,53,3,25,0
+392220,2009,1st innings,Deccan Chargers,Deccan Chargers,166,7,42,2,66,2,58,3
+392220,2009,2nd innings,Rajasthan Royals,Deccan Chargers,113,10,30,2,65,4,18,4
+392221,2009,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,173,4,38,2,64,1,71,1
+392221,2009,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,176,4,46,0,73,3,57,1
+392222,2009,1st innings,Kings XI Punjab,Mumbai Indians,119,9,51,3,41,4,27,2
+392222,2009,2nd innings,Mumbai Indians,Mumbai Indians,122,2,42,2,71,0,9,0
+392223,2009,1st innings,Delhi Daredevils,Delhi Daredevils,173,7,56,1,53,3,64,3
+392223,2009,2nd innings,Deccan Chargers,Delhi Daredevils,161,10,50,2,84,1,27,7
+392224,2009,1st innings,Chennai Super Kings,Royal Challengers Bangalore,129,10,52,2,53,2,24,6
+392224,2009,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,132,8,33,3,58,1,41,4
+392225,2009,1st innings,Rajasthan Royals,Rajasthan Royals,145,7,42,0,81,2,22,5
+392225,2009,2nd innings,Mumbai Indians,Rajasthan Royals,143,10,26,3,72,2,45,5
+392226,2009,1st innings,Delhi Daredevils,Kings XI Punjab,120,9,38,2,59,2,23,5
+392226,2009,2nd innings,Kings XI Punjab,Kings XI Punjab,123,4,37,3,49,0,37,1
+392227,2009,1st innings,Mumbai Indians,Chennai Super Kings,147,5,49,2,47,1,51,2
+392227,2009,2nd innings,Chennai Super Kings,Chennai Super Kings,151,3,35,2,67,1,49,0
+392228,2009,1st innings,Kolkata Knight Riders,Deccan Chargers,160,5,31,1,58,1,71,3
+392228,2009,2nd innings,Deccan Chargers,Deccan Chargers,166,4,50,0,55,2,61,2
+392229,2009,1st innings,Kings XI Punjab,Kings XI Punjab,134,7,39,3,55,1,40,3
+392229,2009,2nd innings,Deccan Chargers,Kings XI Punjab,133,8,46,2,40,3,47,3
+392230,2009,1st innings,Delhi Daredevils,Delhi Daredevils,150,3,35,2,60,0,55,1
+392230,2009,2nd innings,Rajasthan Royals,Delhi Daredevils,136,9,24,2,69,3,43,4
+392231,2009,1st innings,Chennai Super Kings,Kolkata Knight Riders,188,3,54,0,69,2,65,1
+392231,2009,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,189,3,56,1,75,1,58,1
+392232,2009,1st innings,Delhi Daredevils,Royal Challengers Bangalore,134,7,37,3,52,2,45,2
+392232,2009,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,135,3,27,1,75,2,33,0
+392233,2009,1st innings,Rajasthan Royals,Kolkata Knight Riders,101,9,46,4,33,3,22,2
+392233,2009,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,102,6,29,3,36,3,37,0
+392234,2009,1st innings,Chennai Super Kings,Chennai Super Kings,116,9,50,1,46,5,20,3
+392234,2009,2nd innings,Kings XI Punjab,Chennai Super Kings,92,8,29,1,30,3,33,4
+392235,2009,1st innings,Mumbai Indians,Delhi Daredevils,165,8,30,3,79,2,56,3
+392235,2009,2nd innings,Delhi Daredevils,Delhi Daredevils,166,6,60,1,86,3,20,2
+392236,2009,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,170,4,33,1,83,2,54,1
+392236,2009,2nd innings,Deccan Chargers,Royal Challengers Bangalore,158,6,64,0,55,3,39,3
+392237,2009,1st innings,Delhi Daredevils,Deccan Chargers,153,8,49,2,60,1,44,5
+392237,2009,2nd innings,Deccan Chargers,Deccan Chargers,154,4,84,1,62,3,8,0
+392238,2009,1st innings,Chennai Super Kings,Royal Challengers Bangalore,146,5,52,0,55,3,39,2
+392238,2009,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,149,4,59,2,51,1,39,1
+392239,2009,1st innings,Deccan Chargers,Deccan Chargers,143,6,31,2,70,1,42,3
+392239,2009,2nd innings,Royal Challengers Bangalore,Deccan Chargers,137,9,36,1,67,5,34,3
+419106,2010,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,161,4,38,4,54,0,69,0
+419106,2010,2nd innings,Deccan Chargers,Kolkata Knight Riders,150,7,62,1,60,3,28,3
+419107,2010,1st innings,Mumbai Indians,Mumbai Indians,212,7,69,1,90,2,53,4
+419107,2010,2nd innings,Rajasthan Royals,Mumbai Indians,208,7,39,2,104,2,65,3
+419108,2010,1st innings,Kings XI Punjab,Delhi Daredevils,142,9,44,3,69,3,29,3
+419108,2010,2nd innings,Delhi Daredevils,Delhi Daredevils,146,5,39,2,66,2,41,1
+419109,2010,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,135,7,24,3,65,2,46,2
+419109,2010,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,136,3,61,0,55,2,20,1
+419110,2010,1st innings,Deccan Chargers,Deccan Chargers,190,4,57,2,70,0,63,2
+419110,2010,2nd innings,Chennai Super Kings,Deccan Chargers,159,9,34,4,74,2,51,3
+419111,2010,1st innings,Rajasthan Royals,Delhi Daredevils,141,6,47,3,44,1,50,2
+419111,2010,2nd innings,Delhi Daredevils,Delhi Daredevils,142,4,60,2,71,2,11,0
+419112,2010,1st innings,Kings XI Punjab,Royal Challengers Bangalore,203,3,50,0,83,1,70,2
+419112,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,204,2,61,0,88,2,55,0
+419113,2010,1st innings,Chennai Super Kings,Chennai Super Kings,164,3,31,1,65,2,68,0
+419113,2010,2nd innings,Kolkata Knight Riders,Chennai Super Kings,109,10,45,3,45,6,19,1
+419114,2010,1st innings,Mumbai Indians,Mumbai Indians,218,7,67,1,98,2,53,4
+419114,2010,2nd innings,Delhi Daredevils,Mumbai Indians,120,9,56,1,63,7,1,1
+419115,2010,1st innings,Rajasthan Royals,Royal Challengers Bangalore,92,10,31,1,47,3,14,6
+419115,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,93,0,59,0,34,0,0,0
+419116,2010,1st innings,Delhi Daredevils,Chennai Super Kings,185,6,52,1,87,3,46,2
+419116,2010,2nd innings,Chennai Super Kings,Chennai Super Kings,190,5,56,1,97,2,37,2
+419117,2010,1st innings,Deccan Chargers,Deccan Chargers,170,8,56,2,69,3,45,3
+419117,2010,2nd innings,Kings XI Punjab,Deccan Chargers,164,8,27,3,71,3,66,2
+419118,2010,1st innings,Rajasthan Royals,Rajasthan Royals,168,7,56,2,68,2,44,3
+419118,2010,2nd innings,Kolkata Knight Riders,Rajasthan Royals,134,5,38,1,61,2,35,2
+419119,2010,1st innings,Mumbai Indians,Royal Challengers Bangalore,151,9,45,2,57,4,49,3
+419119,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,155,3,55,0,62,2,38,1
+419120,2010,1st innings,Deccan Chargers,Deccan Chargers,171,6,47,2,68,2,56,2
+419120,2010,2nd innings,Delhi Daredevils,Deccan Chargers,161,9,48,1,68,3,45,5
+419121,2010,1st innings,Kings XI Punjab,,136,8,38,1,60,3,38,4
+419121,2010,2nd innings,Chennai Super Kings,,136,7,42,0,67,4,27,3
+419121,2010,Chennai Super Kings Super Over,Chennai Super Kings,,9,2,9,2,0,0,0,0
+419121,2010,Kings XI Punjab Super Over,Kings XI Punjab,,10,1,10,1,0,0,0,0
+419122,2010,1st innings,Kolkata Knight Riders,Mumbai Indians,155,3,41,0,61,1,53,2
+419122,2010,2nd innings,Mumbai Indians,Mumbai Indians,156,3,57,0,65,2,34,1
+419123,2010,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,171,5,38,1,66,2,67,2
+419123,2010,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,135,7,29,1,66,4,40,2
+419124,2010,1st innings,Rajasthan Royals,Rajasthan Royals,183,5,53,1,80,2,50,2
+419124,2010,2nd innings,Kings XI Punjab,Rajasthan Royals,152,10,76,1,51,5,25,4
+419125,2010,1st innings,Chennai Super Kings,Mumbai Indians,180,2,51,2,75,0,54,0
+419125,2010,2nd innings,Mumbai Indians,Mumbai Indians,181,5,63,0,70,3,48,2
+419126,2010,1st innings,Deccan Chargers,Rajasthan Royals,148,9,55,2,53,4,40,3
+419126,2010,2nd innings,Rajasthan Royals,Rajasthan Royals,151,2,54,0,85,2,12,0
+419127,2010,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,183,5,50,2,76,1,57,2
+419127,2010,2nd innings,Kings XI Punjab,Kolkata Knight Riders,144,6,42,2,60,3,42,1
+419128,2010,1st innings,Delhi Daredevils,Delhi Daredevils,183,4,64,2,64,1,55,1
+419128,2010,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,166,9,46,0,75,5,45,4
+419129,2010,1st innings,Rajasthan Royals,Rajasthan Royals,177,8,58,1,71,2,48,5
+419129,2010,2nd innings,Chennai Super Kings,Rajasthan Royals,160,6,58,1,61,2,41,3
+419130,2010,1st innings,Mumbai Indians,Mumbai Indians,172,7,52,1,48,5,72,1
+419130,2010,2nd innings,Deccan Chargers,Mumbai Indians,131,10,50,4,72,3,9,3
+419131,2010,1st innings,Delhi Daredevils,Delhi Daredevils,177,4,62,3,73,0,42,1
+419131,2010,2nd innings,Kolkata Knight Riders,Delhi Daredevils,137,9,36,3,62,2,39,4
+419132,2010,1st innings,Kings XI Punjab,Mumbai Indians,163,10,48,2,70,2,45,6
+419132,2010,2nd innings,Mumbai Indians,Mumbai Indians,164,6,45,1,73,2,46,3
+419133,2010,1st innings,Royal Challengers Bangalore,Chennai Super Kings,161,4,52,1,65,1,44,2
+419133,2010,2nd innings,Chennai Super Kings,Chennai Super Kings,162,5,56,0,69,2,37,3
+419134,2010,1st innings,Delhi Daredevils,Delhi Daredevils,188,6,52,3,68,1,68,2
+419134,2010,2nd innings,Rajasthan Royals,Delhi Daredevils,121,10,39,4,68,4,14,2
+419135,2010,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,181,6,46,2,70,1,65,3
+419135,2010,2nd innings,Deccan Chargers,Kolkata Knight Riders,157,5,59,1,66,2,32,2
+419136,2010,1st innings,Kings XI Punjab,Royal Challengers Bangalore,181,5,41,1,78,2,62,2
+419136,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,184,4,51,1,71,1,62,2
+419137,2010,1st innings,Chennai Super Kings,Chennai Super Kings,246,5,66,1,104,1,76,3
+419137,2010,2nd innings,Rajasthan Royals,Chennai Super Kings,223,5,62,0,113,2,48,3
+419138,2010,1st innings,Mumbai Indians,Mumbai Indians,178,5,53,0,61,3,64,2
+419138,2010,2nd innings,Deccan Chargers,Mumbai Indians,115,10,40,2,58,4,17,4
+419139,2010,1st innings,Kolkata Knight Riders,Kings XI Punjab,200,3,53,0,96,1,51,2
+419139,2010,2nd innings,Kings XI Punjab,Kings XI Punjab,204,2,69,1,87,1,48,0
+419140,2010,1st innings,Delhi Daredevils,Delhi Daredevils,184,5,54,2,71,3,59,0
+419140,2010,2nd innings,Royal Challengers Bangalore,Delhi Daredevils,147,9,38,1,73,3,36,5
+419141,2010,1st innings,Rajasthan Royals,Rajasthan Royals,159,10,48,2,80,2,31,6
+419141,2010,2nd innings,Deccan Chargers,Rajasthan Royals,157,10,52,2,66,2,39,6
+419142,2010,1st innings,Chennai Super Kings,Chennai Super Kings,165,4,42,1,82,3,41,0
+419142,2010,2nd innings,Mumbai Indians,Chennai Super Kings,141,9,46,0,46,7,49,2
+419143,2010,1st innings,Kings XI Punjab,Rajasthan Royals,153,6,52,1,74,3,27,2
+419143,2010,2nd innings,Rajasthan Royals,Rajasthan Royals,157,1,70,0,87,1,0,0
+419144,2010,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,181,3,50,0,76,3,55,0
+419144,2010,2nd innings,Delhi Daredevils,Kolkata Knight Riders,167,8,44,1,91,3,32,4
+419145,2010,1st innings,Royal Challengers Bangalore,Deccan Chargers,184,6,46,1,61,3,77,2
+419145,2010,2nd innings,Deccan Chargers,Deccan Chargers,186,3,32,1,93,2,61,0
+419146,2010,1st innings,Mumbai Indians,Kings XI Punjab,154,9,51,2,58,3,45,4
+419146,2010,2nd innings,Kings XI Punjab,Kings XI Punjab,158,4,56,1,60,1,42,2
+419147,2010,1st innings,Chennai Super Kings,Deccan Chargers,138,8,55,1,55,3,28,4
+419147,2010,2nd innings,Deccan Chargers,Deccan Chargers,139,4,37,2,65,1,37,1
+419148,2010,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,160,9,61,1,63,3,36,5
+419148,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,162,3,48,1,72,2,42,0
+419149,2010,1st innings,Delhi Daredevils,Kings XI Punjab,111,10,45,3,36,4,30,3
+419149,2010,2nd innings,Kings XI Punjab,Kings XI Punjab,112,3,39,0,49,2,24,1
+419150,2010,1st innings,Mumbai Indians,Mumbai Indians,174,5,47,3,59,1,68,1
+419150,2010,2nd innings,Rajasthan Royals,Mumbai Indians,137,8,34,3,55,4,48,1
+419151,2010,1st innings,Deccan Chargers,Deccan Chargers,151,6,35,3,76,1,40,2
+419151,2010,2nd innings,Royal Challengers Bangalore,Deccan Chargers,138,10,38,1,64,3,36,6
+419152,2010,1st innings,Mumbai Indians,Mumbai Indians,183,4,44,1,64,2,75,1
+419152,2010,2nd innings,Delhi Daredevils,Mumbai Indians,144,7,69,1,39,5,36,1
+419153,2010,1st innings,Kolkata Knight Riders,Chennai Super Kings,139,8,22,4,71,1,46,3
+419153,2010,2nd innings,Chennai Super Kings,Chennai Super Kings,143,1,67,1,76,0,0,0
+419154,2010,1st innings,Rajasthan Royals,Royal Challengers Bangalore,130,6,30,3,57,3,43,0
+419154,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,132,5,59,2,65,3,8,0
+419155,2010,1st innings,Chennai Super Kings,Delhi Daredevils,112,9,39,3,35,4,38,2
+419155,2010,2nd innings,Delhi Daredevils,Delhi Daredevils,113,4,33,3,47,1,33,0
+419156,2010,1st innings,Kings XI Punjab,Deccan Chargers,174,3,43,1,55,1,76,1
+419156,2010,2nd innings,Deccan Chargers,Deccan Chargers,178,5,45,1,86,3,47,1
+419157,2010,1st innings,Mumbai Indians,Mumbai Indians,191,4,34,1,104,1,53,2
+419157,2010,2nd innings,Royal Challengers Bangalore,Mumbai Indians,134,9,34,2,64,4,36,3
+419158,2010,1st innings,Rajasthan Royals,Kolkata Knight Riders,132,9,46,0,55,5,31,4
+419158,2010,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,133,2,42,2,76,0,15,0
+419159,2010,1st innings,Kings XI Punjab,Chennai Super Kings,192,3,49,1,82,2,61,0
+419159,2010,2nd innings,Chennai Super Kings,Chennai Super Kings,195,4,49,2,81,1,65,1
+419160,2010,1st innings,Deccan Chargers,Deccan Chargers,145,7,38,2,79,3,28,2
+419160,2010,2nd innings,Delhi Daredevils,Deccan Chargers,134,7,39,3,47,3,48,1
+419161,2010,1st innings,Mumbai Indians,Kolkata Knight Riders,133,8,42,2,44,2,47,4
+419161,2010,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,135,1,44,0,63,1,28,0
+419162,2010,1st innings,Mumbai Indians,Mumbai Indians,184,5,54,2,53,2,77,1
+419162,2010,2nd innings,Royal Challengers Bangalore,Mumbai Indians,149,9,44,1,74,6,31,2
+419163,2010,1st innings,Chennai Super Kings,Chennai Super Kings,142,7,39,3,57,2,46,2
+419163,2010,2nd innings,Deccan Chargers,Chennai Super Kings,104,10,23,2,58,3,23,5
+419164,2010,1st innings,Deccan Chargers,Royal Challengers Bangalore,82,10,27,3,51,2,4,5
+419164,2010,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,86,1,33,0,53,1,0,0
+419165,2010,1st innings,Chennai Super Kings,Chennai Super Kings,168,5,40,0,68,3,60,2
+419165,2010,2nd innings,Mumbai Indians,Chennai Super Kings,146,9,33,1,68,4,45,4
+501198,2011,1st innings,Chennai Super Kings,Chennai Super Kings,153,4,45,1,62,1,46,2
+501198,2011,2nd innings,Kolkata Knight Riders,Chennai Super Kings,151,7,52,0,59,2,40,5
+501199,2011,1st innings,Deccan Chargers,Rajasthan Royals,137,8,44,2,46,3,47,3
+501199,2011,2nd innings,Rajasthan Royals,Rajasthan Royals,141,2,31,1,62,1,48,0
+501200,2011,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,161,5,61,0,63,2,37,3
+501200,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,162,4,48,2,70,1,44,1
+501201,2011,1st innings,Delhi Daredevils,Mumbai Indians,95,10,38,3,49,3,8,4
+501201,2011,2nd innings,Mumbai Indians,Mumbai Indians,99,2,31,1,54,1,14,0
+501202,2011,1st innings,Kings XI Punjab,Pune Warriors,112,8,36,5,32,1,44,2
+501202,2011,2nd innings,Pune Warriors,Pune Warriors,113,3,44,1,69,2,0,0
+501203,2011,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,163,4,46,0,72,2,45,2
+501203,2011,2nd innings,Deccan Chargers,Kolkata Knight Riders,154,8,30,2,71,3,53,3
+501204,2011,1st innings,Delhi Daredevils,Rajasthan Royals,151,6,30,2,59,2,62,2
+501204,2011,2nd innings,Rajasthan Royals,Rajasthan Royals,152,4,57,1,64,2,31,1
+501205,2011,1st innings,Royal Challengers Bangalore,Mumbai Indians,140,4,24,2,67,0,49,2
+501205,2011,2nd innings,Mumbai Indians,Mumbai Indians,143,1,40,1,76,0,27,0
+501206,2011,1st innings,Chennai Super Kings,Kings XI Punjab,188,4,31,2,95,1,62,1
+501206,2011,2nd innings,Kings XI Punjab,Kings XI Punjab,193,4,65,1,73,3,55,0
+501207,2011,1st innings,Kochi Tuskers Kerala,Pune Warriors,148,8,37,4,74,0,37,4
+501207,2011,2nd innings,Pune Warriors,Pune Warriors,151,6,44,1,71,4,36,1
+501208,2011,1st innings,Deccan Chargers,Deccan Chargers,175,5,41,1,73,2,61,2
+501208,2011,2nd innings,Royal Challengers Bangalore,Deccan Chargers,142,9,28,3,64,2,50,4
+501209,2011,1st innings,Rajasthan Royals,Kolkata Knight Riders,159,4,31,1,71,2,57,1
+501209,2011,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,160,1,62,1,68,0,30,0
+501210,2011,1st innings,Mumbai Indians,Kochi Tuskers Kerala,182,2,44,0,81,1,57,1
+501210,2011,2nd innings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,184,2,50,0,84,1,50,1
+501211,2011,1st innings,Chennai Super Kings,Chennai Super Kings,183,5,45,0,81,2,57,3
+501211,2011,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,162,7,33,3,79,2,50,2
+501212,2011,1st innings,Deccan Chargers,Kings XI Punjab,165,8,48,1,65,3,52,4
+501212,2011,2nd innings,Kings XI Punjab,Kings XI Punjab,166,2,62,0,77,1,27,1
+501213,2011,1st innings,Pune Warriors,Delhi Daredevils,187,5,63,1,65,3,59,1
+501213,2011,2nd innings,Delhi Daredevils,Delhi Daredevils,190,7,67,0,61,5,62,2
+501214,2011,1st innings,Rajasthan Royals,Kolkata Knight Riders,81,10,36,2,44,7,1,1
+501214,2011,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,85,2,26,1,59,1,0,0
+501215,2011,1st innings,Chennai Super Kings,Kochi Tuskers Kerala,131,4,42,1,67,2,22,1
+501215,2011,2nd innings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,135,3,49,1,86,2,0,0
+501216,2011,1st innings,Deccan Chargers,Deccan Chargers,168,4,43,1,86,2,39,1
+501216,2011,2nd innings,Delhi Daredevils,Deccan Chargers,152,7,38,3,69,2,45,2
+501218,2011,1st innings,Pune Warriors,Mumbai Indians,118,10,33,4,67,3,18,3
+501218,2011,2nd innings,Mumbai Indians,Mumbai Indians,124,3,32,1,57,2,35,0
+501219,2011,1st innings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,132,7,45,0,55,5,32,2
+501219,2011,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,126,9,37,3,49,2,40,4
+501220,2011,1st innings,Kings XI Punjab,Kings XI Punjab,195,7,77,1,92,1,26,5
+501220,2011,2nd innings,Rajasthan Royals,Kings XI Punjab,147,7,45,2,68,3,34,2
+501221,2011,1st innings,Mumbai Indians,Mumbai Indians,164,4,40,2,67,1,57,1
+501221,2011,2nd innings,Chennai Super Kings,Mumbai Indians,156,9,44,2,75,2,37,5
+501222,2011,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,171,5,50,1,64,1,57,3
+501222,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,175,1,57,0,95,1,23,0
+501223,2011,1st innings,Delhi Daredevils,Delhi Daredevils,231,4,70,0,103,2,58,2
+501223,2011,2nd innings,Kings XI Punjab,Delhi Daredevils,202,6,46,1,101,2,55,3
+501224,2011,1st innings,Mumbai Indians,Mumbai Indians,172,4,57,1,45,3,70,0
+501224,2011,2nd innings,Deccan Chargers,Mumbai Indians,135,8,41,2,59,4,35,2
+501225,2011,1st innings,Kochi Tuskers Kerala,Rajasthan Royals,109,10,32,2,56,1,21,7
+501225,2011,2nd innings,Rajasthan Royals,Rajasthan Royals,111,2,38,0,73,2,0,0
+501226,2011,1st innings,Chennai Super Kings,Chennai Super Kings,142,6,45,0,54,2,43,4
+501226,2011,2nd innings,Pune Warriors,Chennai Super Kings,117,9,40,4,53,1,24,4
+501227,2011,1st innings,Delhi Daredevils,Royal Challengers Bangalore,160,6,42,1,73,2,45,3
+501227,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,161,7,65,1,52,4,44,2
+501228,2011,1st innings,Pune Warriors,Chennai Super Kings,141,6,37,3,54,2,50,1
+501228,2011,2nd innings,Chennai Super Kings,Chennai Super Kings,145,2,28,1,76,1,41,0
+501229,2011,1st innings,Deccan Chargers,Deccan Chargers,129,7,20,3,70,0,39,4
+501229,2011,2nd innings,Kochi Tuskers Kerala,Deccan Chargers,74,10,29,6,44,1,1,3
+501230,2011,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,148,7,42,1,63,4,43,2
+501230,2011,2nd innings,Delhi Daredevils,Kolkata Knight Riders,131,9,41,1,45,5,45,3
+501231,2011,1st innings,Mumbai Indians,Rajasthan Royals,94,8,31,2,36,2,27,4
+501231,2011,2nd innings,Rajasthan Royals,Rajasthan Royals,95,3,18,1,55,1,22,1
+501232,2011,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,181,5,57,0,61,2,63,3
+501232,2011,2nd innings,Pune Warriors,Royal Challengers Bangalore,155,5,42,1,66,2,47,2
+501233,2011,1st innings,Delhi Daredevils,Delhi Daredevils,157,7,34,2,60,2,63,3
+501233,2011,2nd innings,Kochi Tuskers Kerala,Delhi Daredevils,119,10,37,3,55,2,27,5
+501234,2011,1st innings,Kings XI Punjab,Kolkata Knight Riders,119,6,40,2,46,3,33,1
+501234,2011,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,120,2,45,2,57,0,18,0
+501235,2011,1st innings,Pune Warriors,Rajasthan Royals,143,7,49,1,53,3,41,3
+501235,2011,2nd innings,Rajasthan Royals,Rajasthan Royals,144,4,34,1,58,3,52,0
+501236,2011,1st innings,Chennai Super Kings,Chennai Super Kings,165,5,34,1,62,1,69,3
+501236,2011,2nd innings,Deccan Chargers,Chennai Super Kings,146,8,64,0,54,3,28,5
+501237,2011,1st innings,Mumbai Indians,Mumbai Indians,159,5,35,1,79,1,45,3
+501237,2011,2nd innings,Kings XI Punjab,Mumbai Indians,136,8,24,1,77,3,35,4
+501238,2011,1st innings,Delhi Daredevils,Kochi Tuskers Kerala,140,6,42,2,56,2,42,2
+501238,2011,2nd innings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,141,3,67,1,74,2,0,0
+501239,2011,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,169,4,41,1,69,2,59,1
+501239,2011,2nd innings,Deccan Chargers,Kolkata Knight Riders,149,6,41,2,67,2,41,2
+501240,2011,1st innings,Rajasthan Royals,Chennai Super Kings,147,6,47,0,66,3,34,3
+501240,2011,2nd innings,Chennai Super Kings,Chennai Super Kings,149,2,43,1,75,0,31,1
+501241,2011,1st innings,Mumbai Indians,Mumbai Indians,160,7,49,1,48,3,63,3
+501241,2011,2nd innings,Pune Warriors,Mumbai Indians,139,7,31,2,59,2,49,3
+501242,2011,1st innings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,156,5,35,2,63,2,58,1
+501242,2011,2nd innings,Kolkata Knight Riders,Kochi Tuskers Kerala,139,7,43,0,57,3,39,4
+501243,2011,1st innings,Deccan Chargers,Delhi Daredevils,175,5,43,1,82,2,50,2
+501243,2011,2nd innings,Delhi Daredevils,Delhi Daredevils,179,6,29,3,120,1,30,2
+501244,2011,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,205,6,48,1,107,2,50,3
+501244,2011,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,120,9,38,4,51,3,31,2
+501245,2011,1st innings,Chennai Super Kings,Kolkata Knight Riders,114,4,15,2,62,1,37,1
+501245,2011,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,61,2,33,2,28,0,0,0
+501246,2011,1st innings,Mumbai Indians,Mumbai Indians,178,4,50,1,79,1,49,2
+501246,2011,2nd innings,Delhi Daredevils,Mumbai Indians,146,10,23,4,76,1,47,5
+501247,2011,1st innings,Kochi Tuskers Kerala,Royal Challengers Bangalore,125,9,49,1,48,4,28,4
+501247,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,128,1,79,1,49,0,0,0
+501248,2011,1st innings,Kings XI Punjab,Pune Warriors,119,8,34,1,62,3,23,4
+501248,2011,2nd innings,Pune Warriors,Pune Warriors,120,5,40,1,74,2,6,2
+501249,2011,1st innings,Chennai Super Kings,Chennai Super Kings,196,3,55,0,81,2,60,1
+501249,2011,2nd innings,Rajasthan Royals,Chennai Super Kings,133,10,48,2,66,3,19,5
+501250,2011,1st innings,Deccan Chargers,Pune Warriors,136,8,50,0,50,4,36,4
+501250,2011,2nd innings,Pune Warriors,Pune Warriors,137,4,52,0,60,3,25,1
+501251,2011,1st innings,Kings XI Punjab,Kings XI Punjab,163,8,39,1,85,1,39,6
+501251,2011,2nd innings,Mumbai Indians,Kings XI Punjab,87,10,33,3,54,7,0,0
+501252,2011,1st innings,Rajasthan Royals,Royal Challengers Bangalore,146,6,43,0,69,3,34,3
+501252,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,151,1,66,0,60,1,25,0
+501253,2011,1st innings,Chennai Super Kings,Chennai Super Kings,176,4,42,2,63,1,71,1
+501253,2011,2nd innings,Delhi Daredevils,Chennai Super Kings,158,6,52,1,55,2,51,3
+501254,2011,1st innings,Kochi Tuskers Kerala,Kings XI Punjab,178,7,62,0,68,3,48,4
+501254,2011,2nd innings,Kings XI Punjab,Kings XI Punjab,181,4,49,2,96,2,36,0
+501255,2011,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,89,4,33,3,56,1,0,0
+501255,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,105,6,65,2,40,4,0,0
+501256,2011,1st innings,Deccan Chargers,Deccan Chargers,135,6,32,1,50,4,53,1
+501256,2011,2nd innings,Mumbai Indians,Deccan Chargers,125,8,26,3,50,1,49,4
+501257,2011,1st innings,Kings XI Punjab,Kings XI Punjab,170,6,43,1,83,2,44,3
+501257,2011,2nd innings,Delhi Daredevils,Kings XI Punjab,141,8,42,0,55,5,44,3
+501258,2011,1st innings,Rajasthan Royals,Kochi Tuskers Kerala,97,10,32,3,55,5,10,2
+501258,2011,2nd innings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,98,2,87,2,11,0,0,0
+501259,2011,1st innings,Pune Warriors,Deccan Chargers,136,9,39,2,53,5,44,2
+501259,2011,2nd innings,Deccan Chargers,Deccan Chargers,138,4,57,0,51,2,30,2
+501260,2011,1st innings,Kings XI Punjab,Kings XI Punjab,232,2,30,1,143,0,59,1
+501260,2011,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,121,10,34,3,63,5,24,2
+501261,2011,1st innings,Chennai Super Kings,Chennai Super Kings,152,5,41,2,60,2,51,1
+501261,2011,2nd innings,Kochi Tuskers Kerala,Chennai Super Kings,141,5,40,1,50,2,51,2
+501262,2011,1st innings,Pune Warriors,Kolkata Knight Riders,118,7,29,2,52,3,37,2
+501262,2011,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,119,3,44,1,70,1,5,1
+501263,2011,1st innings,Mumbai Indians,Rajasthan Royals,133,5,26,2,68,1,39,2
+501263,2011,2nd innings,Rajasthan Royals,Rajasthan Royals,134,0,52,0,82,0,0,0
+501264,2011,1st innings,Deccan Chargers,Deccan Chargers,198,2,58,0,89,1,51,1
+501264,2011,2nd innings,Kings XI Punjab,Deccan Chargers,116,10,45,2,54,3,17,5
+501265,2011,1st innings,Delhi Daredevils,,56,3,33,2,23,1,0,0
+501266,2011,1st innings,Chennai Super Kings,Royal Challengers Bangalore,128,8,23,4,56,1,49,3
+501266,2011,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,129,2,44,1,60,1,25,0
+501267,2011,1st innings,Kolkata Knight Riders,Mumbai Indians,175,7,46,2,75,1,54,4
+501267,2011,2nd innings,Mumbai Indians,Mumbai Indians,178,5,54,1,56,3,68,1
+501268,2011,1st innings,Royal Challengers Bangalore,Chennai Super Kings,175,4,44,1,78,2,53,1
+501268,2011,2nd innings,Chennai Super Kings,Chennai Super Kings,177,4,25,2,85,1,67,1
+501269,2011,1st innings,Kolkata Knight Riders,Mumbai Indians,147,7,25,4,77,1,45,2
+501269,2011,2nd innings,Mumbai Indians,Mumbai Indians,148,6,62,0,58,4,28,2
+501270,2011,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,185,4,68,0,82,2,35,2
+501270,2011,2nd innings,Mumbai Indians,Royal Challengers Bangalore,142,8,52,2,51,5,39,1
+501271,2011,1st innings,Chennai Super Kings,Chennai Super Kings,205,5,56,0,105,1,44,4
+501271,2011,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,147,8,47,2,60,5,40,1
+548306,2012,1st innings,Chennai Super Kings,Mumbai Indians,112,10,42,2,53,3,17,5
+548306,2012,2nd innings,Mumbai Indians,Mumbai Indians,115,3,53,0,47,3,15,0
+548307,2012,1st innings,Kolkata Knight Riders,Delhi Daredevils,97,9,46,4,51,5,0,0
+548307,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,100,2,48,0,52,2,0,0
+548308,2012,1st innings,Pune Warriors,Pune Warriors,129,9,30,3,61,1,38,5
+548308,2012,2nd innings,Mumbai Indians,Pune Warriors,101,9,27,3,47,2,27,4
+548309,2012,1st innings,Rajasthan Royals,Rajasthan Royals,191,4,57,0,70,2,64,2
+548309,2012,2nd innings,Kings XI Punjab,Rajasthan Royals,160,9,45,2,72,3,43,4
+548310,2012,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,157,8,46,2,62,4,49,2
+548310,2012,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,137,7,46,1,45,4,46,2
+548311,2012,1st innings,Chennai Super Kings,Chennai Super Kings,193,6,44,2,77,3,72,1
+548311,2012,2nd innings,Deccan Chargers,Chennai Super Kings,119,10,45,1,56,7,18,2
+548312,2012,1st innings,Rajasthan Royals,Rajasthan Royals,164,5,37,1,79,2,48,2
+548312,2012,2nd innings,Kolkata Knight Riders,Rajasthan Royals,142,10,27,4,67,3,48,3
+548313,2012,1st innings,Pune Warriors,Pune Warriors,166,6,38,2,75,1,53,3
+548313,2012,2nd innings,Kings XI Punjab,Pune Warriors,144,8,19,2,80,3,45,3
+548314,2012,1st innings,Deccan Chargers,Mumbai Indians,138,9,45,2,51,2,42,5
+548314,2012,2nd innings,Mumbai Indians,Mumbai Indians,142,5,29,2,56,1,57,2
+548315,2012,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,165,8,60,0,68,3,37,5
+548315,2012,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,123,9,20,3,61,4,42,2
+548316,2012,1st innings,Chennai Super Kings,Delhi Daredevils,110,8,41,2,39,3,30,3
+548316,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,111,2,50,2,61,0,0,0
+548317,2012,1st innings,Mumbai Indians,Mumbai Indians,197,6,54,1,83,2,60,3
+548317,2012,2nd innings,Rajasthan Royals,Mumbai Indians,170,10,44,2,92,3,34,5
+548318,2012,1st innings,Royal Challengers Bangalore,Chennai Super Kings,205,8,56,1,93,0,56,7
+548318,2012,2nd innings,Chennai Super Kings,Chennai Super Kings,208,5,52,0,79,3,77,2
+548319,2012,1st innings,Pune Warriors,Kings XI Punjab,115,10,29,3,67,2,19,5
+548319,2012,2nd innings,Kings XI Punjab,Kings XI Punjab,116,3,38,1,50,2,28,0
+548320,2012,1st innings,Rajasthan Royals,Kolkata Knight Riders,131,5,45,0,40,3,46,2
+548320,2012,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,137,5,36,1,59,2,42,2
+548321,2012,1st innings,Deccan Chargers,Delhi Daredevils,157,8,50,1,70,3,37,4
+548321,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,162,5,34,3,81,2,47,0
+548322,2012,1st innings,Chennai Super Kings,Pune Warriors,155,5,43,0,71,3,41,2
+548322,2012,2nd innings,Pune Warriors,Pune Warriors,156,3,56,1,50,2,50,0
+548323,2012,1st innings,Kings XI Punjab,Kings XI Punjab,134,9,26,2,61,2,47,5
+548323,2012,2nd innings,Kolkata Knight Riders,Kings XI Punjab,132,7,48,2,46,4,38,1
+548324,2012,1st innings,Rajasthan Royals,Rajasthan Royals,195,2,43,0,70,1,82,1
+548324,2012,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,136,10,54,2,51,4,31,4
+548325,2012,1st innings,Mumbai Indians,Delhi Daredevils,92,10,23,2,56,5,13,3
+548325,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,93,3,41,1,52,2,0,0
+548326,2012,1st innings,Deccan Chargers,Rajasthan Royals,196,2,57,0,62,2,77,0
+548326,2012,2nd innings,Rajasthan Royals,Rajasthan Royals,197,5,62,1,72,2,63,2
+548327,2012,1st innings,Pune Warriors,Royal Challengers Bangalore,182,6,58,0,76,3,48,3
+548327,2012,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,186,4,42,2,75,1,69,1
+548328,2012,1st innings,Kings XI Punjab,Kolkata Knight Riders,124,7,45,1,44,3,35,3
+548328,2012,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,127,2,53,1,54,1,20,0
+548329,2012,1st innings,Deccan Chargers,Delhi Daredevils,187,4,33,2,94,0,60,2
+548329,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,193,1,64,1,103,0,26,0
+548330,2012,1st innings,Chennai Super Kings,Chennai Super Kings,164,5,42,0,73,0,49,5
+548330,2012,2nd innings,Pune Warriors,Chennai Super Kings,151,7,53,2,54,3,44,2
+548331,2012,1st innings,Kings XI Punjab,Royal Challengers Bangalore,163,6,41,2,64,3,58,1
+548331,2012,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,166,5,36,3,80,0,50,2
+548332,2012,1st innings,Rajasthan Royals,Chennai Super Kings,146,4,41,1,66,1,39,2
+548332,2012,2nd innings,Chennai Super Kings,Chennai Super Kings,147,3,45,0,59,1,43,2
+548333,2012,1st innings,Pune Warriors,Pune Warriors,192,3,52,1,73,1,67,1
+548333,2012,2nd innings,Delhi Daredevils,Pune Warriors,172,7,49,1,82,4,41,2
+548334,2012,1st innings,Mumbai Indians,Kings XI Punjab,163,6,39,0,90,2,34,4
+548334,2012,2nd innings,Kings XI Punjab,Kings XI Punjab,164,4,48,0,71,2,45,2
+548335,2012,1st innings,Deccan Chargers,Kolkata Knight Riders,126,7,39,1,59,2,28,4
+548335,2012,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,127,5,42,1,55,3,30,1
+548336,2012,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,189,3,37,1,70,2,82,0
+548336,2012,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,143,7,48,0,55,5,40,2
+548337,2012,1st innings,Pune Warriors,Delhi Daredevils,146,2,28,2,67,0,51,0
+548337,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,148,2,61,1,73,1,14,0
+548339,2012,1st innings,Kings XI Punjab,Mumbai Indians,168,3,44,1,56,2,68,0
+548339,2012,2nd innings,Mumbai Indians,Mumbai Indians,171,6,40,0,66,4,65,2
+548341,2012,1st innings,Deccan Chargers,Deccan Chargers,177,4,50,2,72,1,55,1
+548341,2012,2nd innings,Pune Warriors,Deccan Chargers,159,7,44,2,57,3,58,2
+548342,2012,1st innings,Delhi Daredevils,Delhi Daredevils,207,5,54,0,99,1,54,4
+548342,2012,2nd innings,Mumbai Indians,Delhi Daredevils,170,9,49,3,90,1,31,5
+548343,2012,1st innings,Kings XI Punjab,Kings XI Punjab,156,8,43,0,78,2,35,6
+548343,2012,2nd innings,Chennai Super Kings,Kings XI Punjab,149,8,48,1,51,5,50,2
+548344,2012,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,190,4,46,0,88,1,56,3
+548344,2012,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,143,6,35,3,52,1,56,2
+548345,2012,1st innings,Delhi Daredevils,Delhi Daredevils,152,6,42,2,63,2,47,2
+548345,2012,2nd innings,Rajasthan Royals,Delhi Daredevils,151,3,40,0,68,1,43,2
+548346,2012,1st innings,Deccan Chargers,Mumbai Indians,100,10,38,1,44,5,18,4
+548346,2012,2nd innings,Mumbai Indians,Mumbai Indians,101,5,31,2,46,2,24,1
+548347,2012,1st innings,Chennai Super Kings,Kolkata Knight Riders,139,5,43,2,55,2,41,1
+548347,2012,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,140,5,37,1,66,1,37,3
+548348,2012,1st innings,Deccan Chargers,Deccan Chargers,186,4,33,2,77,0,76,2
+548348,2012,2nd innings,Pune Warriors,Deccan Chargers,173,5,48,1,68,2,57,2
+548349,2012,1st innings,Rajasthan Royals,Delhi Daredevils,141,6,56,0,48,5,37,1
+548349,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,144,4,61,1,73,3,10,0
+548350,2012,1st innings,Royal Challengers Bangalore,Kings XI Punjab,158,5,33,1,89,0,36,4
+548350,2012,2nd innings,Kings XI Punjab,Kings XI Punjab,163,6,53,1,79,1,31,4
+548351,2012,1st innings,Mumbai Indians,Mumbai Indians,120,9,42,0,50,5,28,4
+548351,2012,2nd innings,Pune Warriors,Mumbai Indians,119,6,37,1,39,3,43,2
+548352,2012,1st innings,Chennai Super Kings,Chennai Super Kings,160,6,56,1,68,3,36,2
+548352,2012,2nd innings,Deccan Chargers,Chennai Super Kings,150,5,47,1,55,2,48,2
+548353,2012,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,150,5,68,0,53,2,29,3
+548353,2012,2nd innings,Pune Warriors,Kolkata Knight Riders,143,8,45,2,64,3,34,3
+548354,2012,1st innings,Rajasthan Royals,Rajasthan Royals,177,6,64,1,62,2,51,3
+548354,2012,2nd innings,Kings XI Punjab,Rajasthan Royals,134,8,33,2,64,3,37,3
+548355,2012,1st innings,Chennai Super Kings,Mumbai Indians,173,8,52,1,71,2,50,5
+548355,2012,2nd innings,Mumbai Indians,Mumbai Indians,174,8,46,1,85,0,43,7
+548356,2012,1st innings,Deccan Chargers,Royal Challengers Bangalore,181,2,46,0,71,1,64,1
+548356,2012,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,185,5,46,0,67,3,72,2
+548357,2012,1st innings,Delhi Daredevils,Kolkata Knight Riders,153,9,50,2,58,2,45,5
+548357,2012,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,154,4,60,0,68,1,26,3
+548358,2012,1st innings,Pune Warriors,Rajasthan Royals,125,6,35,1,56,3,34,2
+548358,2012,2nd innings,Rajasthan Royals,Rajasthan Royals,126,3,49,2,63,1,14,0
+548359,2012,1st innings,Kings XI Punjab,Kings XI Punjab,170,5,51,0,78,3,41,2
+548359,2012,2nd innings,Deccan Chargers,Kings XI Punjab,145,8,40,2,59,3,46,3
+548360,2012,1st innings,Mumbai Indians,Royal Challengers Bangalore,141,6,25,2,70,2,46,2
+548360,2012,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,142,1,35,0,76,1,31,0
+548361,2012,1st innings,Rajasthan Royals,Chennai Super Kings,126,6,28,2,61,2,37,2
+548361,2012,2nd innings,Chennai Super Kings,Chennai Super Kings,127,6,36,2,41,2,50,2
+548362,2012,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,173,3,66,0,63,2,44,1
+548362,2012,2nd innings,Pune Warriors,Royal Challengers Bangalore,138,9,50,3,55,3,33,3
+548363,2012,1st innings,Mumbai Indians,Mumbai Indians,182,1,49,1,83,0,50,0
+548363,2012,2nd innings,Kolkata Knight Riders,Mumbai Indians,155,4,32,2,74,1,49,1
+548364,2012,1st innings,Delhi Daredevils,Chennai Super Kings,114,5,27,4,51,1,36,0
+548364,2012,2nd innings,Chennai Super Kings,Chennai Super Kings,115,1,45,0,67,1,3,0
+548365,2012,1st innings,Rajasthan Royals,Rajasthan Royals,170,4,45,1,81,1,44,2
+548365,2012,2nd innings,Pune Warriors,Rajasthan Royals,125,9,33,4,64,2,28,3
+548366,2012,1st innings,Deccan Chargers,Kings XI Punjab,190,4,47,1,79,1,64,2
+548366,2012,2nd innings,Kings XI Punjab,Kings XI Punjab,194,6,44,2,86,2,64,2
+548367,2012,1st innings,Royal Challengers Bangalore,Mumbai Indians,171,6,40,2,67,2,64,2
+548367,2012,2nd innings,Mumbai Indians,Mumbai Indians,173,5,32,3,74,2,67,0
+548368,2012,1st innings,Kolkata Knight Riders,Chennai Super Kings,158,6,50,0,62,3,46,3
+548368,2012,2nd innings,Chennai Super Kings,Chennai Super Kings,160,5,51,0,64,3,45,2
+548369,2012,1st innings,Kings XI Punjab,Delhi Daredevils,136,8,47,2,52,4,37,2
+548369,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,140,5,37,4,66,1,37,0
+548370,2012,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,140,7,32,2,62,3,46,2
+548370,2012,2nd innings,Mumbai Indians,Kolkata Knight Riders,108,10,26,1,54,2,28,7
+548371,2012,1st innings,Chennai Super Kings,Kings XI Punjab,120,7,25,2,52,2,43,3
+548371,2012,2nd innings,Kings XI Punjab,Kings XI Punjab,123,4,43,0,71,3,9,1
+548372,2012,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,215,1,42,1,95,0,78,0
+548372,2012,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,194,9,51,2,98,2,45,5
+548373,2012,1st innings,Rajasthan Royals,Deccan Chargers,126,8,41,1,52,3,33,4
+548373,2012,2nd innings,Deccan Chargers,Deccan Chargers,128,5,58,0,41,3,29,2
+548374,2012,1st innings,Kings XI Punjab,Delhi Daredevils,141,8,20,4,64,1,57,3
+548374,2012,2nd innings,Delhi Daredevils,Delhi Daredevils,145,4,44,0,74,3,27,1
+548375,2012,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,136,4,27,1,74,1,35,2
+548375,2012,2nd innings,Pune Warriors,Kolkata Knight Riders,102,8,40,1,42,3,20,4
+548376,2012,1st innings,Deccan Chargers,Deccan Chargers,132,7,23,3,52,1,57,3
+548376,2012,2nd innings,Royal Challengers Bangalore,Deccan Chargers,123,9,40,2,49,2,34,5
+548377,2012,1st innings,Rajasthan Royals,Mumbai Indians,162,6,31,2,75,2,56,2
+548377,2012,2nd innings,Mumbai Indians,Mumbai Indians,163,0,44,0,96,0,23,0
+548378,2012,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,162,4,48,1,51,2,63,1
+548378,2012,2nd innings,Delhi Daredevils,Kolkata Knight Riders,144,8,49,2,60,2,35,4
+548379,2012,1st innings,Chennai Super Kings,Chennai Super Kings,187,5,30,2,84,2,73,1
+548379,2012,2nd innings,Mumbai Indians,Chennai Super Kings,149,9,54,1,58,6,37,2
+548380,2012,1st innings,Chennai Super Kings,Chennai Super Kings,222,5,52,0,110,2,60,3
+548380,2012,2nd innings,Delhi Daredevils,Chennai Super Kings,136,10,46,2,82,5,8,3
+548381,2012,1st innings,Chennai Super Kings,Kolkata Knight Riders,190,3,54,0,82,1,54,2
+548381,2012,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,192,5,56,1,85,1,51,3
+597998,2013,1st innings,Delhi Daredevils,Kolkata Knight Riders,128,10,45,2,51,3,32,5
+597998,2013,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,129,4,46,1,54,3,29,0
+597999,2013,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,156,5,31,2,69,3,56,0
+597999,2013,2nd innings,Mumbai Indians,Royal Challengers Bangalore,154,5,38,0,58,3,58,2
+598000,2013,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,126,6,38,1,49,3,39,2
+598000,2013,2nd innings,Pune Warriors,Sunrisers Hyderabad,104,10,27,0,51,4,26,6
+598001,2013,1st innings,Rajasthan Royals,Rajasthan Royals,165,7,45,1,82,1,38,5
+598001,2013,2nd innings,Delhi Daredevils,Rajasthan Royals,160,6,39,1,81,1,40,4
+598002,2013,1st innings,Mumbai Indians,Mumbai Indians,148,6,41,2,55,4,52,0
+598002,2013,2nd innings,Chennai Super Kings,Mumbai Indians,139,9,36,2,57,3,46,4
+598003,2013,1st innings,Pune Warriors,Kings XI Punjab,99,9,24,2,40,4,35,3
+598003,2013,2nd innings,Kings XI Punjab,Kings XI Punjab,100,2,56,1,44,1,0,0
+598004,2013,1st innings,Royal Challengers Bangalore,,130,8,40,2,54,2,36,4
+598004,2013,2nd innings,Sunrisers Hyderabad,,130,7,37,2,54,2,39,3
+598004,2013,Royal Challengers Bangalore Super Over,Royal Challengers Bangalore,,15,0,15,0,0,0,0,0
+598004,2013,Sunrisers Hyderabad Super Over,Sunrisers Hyderabad,,20,0,20,0,0,0,0,0
+598005,2013,1st innings,Rajasthan Royals,Rajasthan Royals,144,6,35,1,65,2,44,3
+598005,2013,2nd innings,Kolkata Knight Riders,Rajasthan Royals,125,10,40,2,59,5,26,3
+598006,2013,1st innings,Mumbai Indians,Mumbai Indians,209,5,38,2,100,1,71,2
+598006,2013,2nd innings,Delhi Daredevils,Mumbai Indians,165,9,46,2,80,3,39,4
+598007,2013,1st innings,Kings XI Punjab,Chennai Super Kings,138,10,43,2,73,2,22,6
+598007,2013,2nd innings,Chennai Super Kings,Chennai Super Kings,139,0,38,0,65,0,36,0
+598008,2013,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,154,8,44,1,69,2,41,5
+598008,2013,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,158,2,43,1,74,1,41,0
+598009,2013,1st innings,Rajasthan Royals,Pune Warriors,145,5,44,1,58,3,43,1
+598009,2013,2nd innings,Pune Warriors,Pune Warriors,148,3,64,1,53,1,31,1
+598010,2013,1st innings,Delhi Daredevils,Sunrisers Hyderabad,114,8,29,3,43,2,42,3
+598010,2013,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,115,7,38,1,38,4,39,2
+598011,2013,1st innings,Mumbai Indians,Mumbai Indians,183,3,48,0,67,2,68,1
+598011,2013,2nd innings,Pune Warriors,Mumbai Indians,142,8,40,4,78,2,24,2
+598012,2013,1st innings,Royal Challengers Bangalore,Chennai Super Kings,165,6,33,1,82,1,50,4
+598012,2013,2nd innings,Chennai Super Kings,Chennai Super Kings,166,6,31,2,70,2,65,2
+598013,2013,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,180,4,48,0,61,2,71,2
+598013,2013,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,132,7,39,0,65,3,28,4
+598014,2013,1st innings,Kings XI Punjab,Rajasthan Royals,124,10,34,3,54,3,36,4
+598014,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,126,4,48,1,46,3,32,0
+598015,2013,1st innings,Pune Warriors,Pune Warriors,159,5,48,0,58,2,53,3
+598015,2013,2nd innings,Chennai Super Kings,Pune Warriors,135,8,38,2,61,3,36,3
+598016,2013,1st innings,Kings XI Punjab,Kings XI Punjab,157,9,35,1,64,5,58,3
+598016,2013,2nd innings,Kolkata Knight Riders,Kings XI Punjab,153,9,45,2,71,2,37,5
+598017,2013,1st innings,Delhi Daredevils,,152,5,43,1,51,3,58,1
+598017,2013,2nd innings,Royal Challengers Bangalore,,152,7,48,2,78,0,26,5
+598017,2013,Delhi Daredevils Super Over,Delhi Daredevils,,11,2,11,2,0,0,0,0
+598017,2013,Royal Challengers Bangalore Super Over,Royal Challengers Bangalore,,15,0,15,0,0,0,0,0
+598018,2013,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,119,8,25,4,50,3,44,1
+598018,2013,2nd innings,Pune Warriors,Sunrisers Hyderabad,108,10,41,2,46,2,21,6
+598019,2013,1st innings,Rajasthan Royals,Rajasthan Royals,179,3,58,0,67,2,54,1
+598019,2013,2nd innings,Mumbai Indians,Rajasthan Royals,92,10,26,2,45,5,21,3
+598020,2013,1st innings,Chennai Super Kings,Chennai Super Kings,169,4,39,1,77,1,53,2
+598020,2013,2nd innings,Delhi Daredevils,Chennai Super Kings,83,10,32,4,48,3,3,3
+598021,2013,1st innings,Kings XI Punjab,Sunrisers Hyderabad,123,9,36,1,56,3,31,5
+598021,2013,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,127,5,33,1,54,2,40,2
+598022,2013,1st innings,Kolkata Knight Riders,Chennai Super Kings,119,9,47,1,42,5,30,3
+598022,2013,2nd innings,Chennai Super Kings,Chennai Super Kings,124,6,27,1,43,3,54,2
+598023,2013,1st innings,Rajasthan Royals,Royal Challengers Bangalore,117,10,31,2,70,2,16,6
+598023,2013,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,123,3,48,0,50,3,25,0
+598024,2013,1st innings,Mumbai Indians,Delhi Daredevils,161,4,24,2,83,0,54,2
+598024,2013,2nd innings,Delhi Daredevils,Delhi Daredevils,165,1,60,0,84,0,21,1
+598025,2013,1st innings,Pune Warriors,Kings XI Punjab,185,4,48,0,76,1,61,3
+598025,2013,2nd innings,Kings XI Punjab,Kings XI Punjab,186,3,55,2,74,1,57,0
+598026,2013,1st innings,Rajasthan Royals,Chennai Super Kings,185,4,55,0,76,3,54,1
+598026,2013,2nd innings,Chennai Super Kings,Chennai Super Kings,186,5,58,1,82,1,46,3
+598027,2013,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,263,5,62,0,134,1,67,4
+598027,2013,2nd innings,Pune Warriors,Royal Challengers Bangalore,133,9,43,4,68,1,22,4
+598028,2013,1st innings,Kings XI Punjab,Kings XI Punjab,171,4,53,0,50,2,68,2
+598028,2013,2nd innings,Delhi Daredevils,Kings XI Punjab,164,7,21,3,79,1,64,3
+598029,2013,1st innings,Kolkata Knight Riders,Mumbai Indians,159,6,61,1,51,2,47,3
+598029,2013,2nd innings,Mumbai Indians,Mumbai Indians,162,5,42,1,74,2,46,2
+598030,2013,1st innings,Sunrisers Hyderabad,Chennai Super Kings,159,6,40,3,56,1,63,2
+598030,2013,2nd innings,Chennai Super Kings,Chennai Super Kings,160,5,58,0,56,3,46,2
+598031,2013,1st innings,Kings XI Punjab,Kolkata Knight Riders,149,6,45,0,66,4,38,2
+598031,2013,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,150,4,45,2,73,1,32,1
+598032,2013,1st innings,Sunrisers Hyderabad,Rajasthan Royals,144,9,29,5,63,2,52,2
+598032,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,146,2,30,1,79,1,37,0
+598033,2013,1st innings,Mumbai Indians,Mumbai Indians,194,7,52,1,91,2,51,4
+598033,2013,2nd innings,Royal Challengers Bangalore,Mumbai Indians,136,7,35,1,59,6,42,0
+598034,2013,1st innings,Chennai Super Kings,Chennai Super Kings,200,3,67,0,84,1,49,2
+598034,2013,2nd innings,Kolkata Knight Riders,Chennai Super Kings,186,4,63,2,63,1,60,1
+598035,2013,1st innings,Delhi Daredevils,Delhi Daredevils,164,5,37,1,64,3,63,1
+598035,2013,2nd innings,Pune Warriors,Delhi Daredevils,149,4,43,0,67,2,39,2
+598036,2013,1st innings,Royal Challengers Bangalore,Rajasthan Royals,171,6,55,1,61,2,55,3
+598036,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,173,6,45,1,75,2,53,3
+598037,2013,1st innings,Mumbai Indians,Mumbai Indians,174,3,36,1,66,2,72,0
+598037,2013,2nd innings,Kings XI Punjab,Mumbai Indians,170,10,55,2,63,5,52,3
+598038,2013,1st innings,Chennai Super Kings,Chennai Super Kings,164,3,29,2,73,0,62,1
+598038,2013,2nd innings,Pune Warriors,Chennai Super Kings,127,9,46,4,47,3,34,2
+598039,2013,1st innings,Mumbai Indians,Sunrisers Hyderabad,129,4,41,2,48,2,40,0
+598039,2013,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,130,3,36,1,70,1,24,1
+598040,2013,1st innings,Kolkata Knight Riders,Delhi Daredevils,136,7,37,3,46,2,53,2
+598040,2013,2nd innings,Delhi Daredevils,Delhi Daredevils,137,3,34,2,66,0,37,1
+598041,2013,1st innings,Chennai Super Kings,Chennai Super Kings,186,4,36,1,80,2,70,1
+598041,2013,2nd innings,Kings XI Punjab,Chennai Super Kings,171,6,36,2,86,1,49,3
+598042,2013,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,187,3,30,0,89,2,68,1
+598042,2013,2nd innings,Pune Warriors,Royal Challengers Bangalore,170,9,39,1,83,3,48,5
+598043,2013,1st innings,Rajasthan Royals,Kolkata Knight Riders,132,6,34,2,68,2,30,2
+598043,2013,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,133,2,48,1,66,1,19,0
+598044,2013,1st innings,Delhi Daredevils,Sunrisers Hyderabad,80,10,26,1,44,5,10,4
+598044,2013,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,81,4,41,2,40,2,0,0
+598045,2013,1st innings,Royal Challengers Bangalore,Kings XI Punjab,174,5,31,1,80,0,63,4
+598045,2013,2nd innings,Kings XI Punjab,Kings XI Punjab,176,3,46,1,94,0,36,2
+598046,2013,1st innings,Mumbai Indians,Mumbai Indians,139,5,32,0,50,4,57,1
+598046,2013,2nd innings,Chennai Super Kings,Mumbai Indians,79,10,32,4,46,5,1,1
+598047,2013,1st innings,Pune Warriors,Rajasthan Royals,178,4,61,0,64,2,53,2
+598047,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,182,5,53,0,75,2,54,3
+598048,2013,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,161,6,40,1,58,2,63,3
+598048,2013,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,162,3,47,1,70,2,45,0
+598049,2013,1st innings,Delhi Daredevils,Rajasthan Royals,154,4,42,2,59,2,53,0
+598049,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,155,1,49,0,77,1,29,0
+598050,2013,1st innings,Mumbai Indians,Mumbai Indians,170,6,41,0,65,2,64,4
+598050,2013,2nd innings,Kolkata Knight Riders,Mumbai Indians,105,10,38,1,54,6,13,3
+598051,2013,1st innings,Chennai Super Kings,Chennai Super Kings,223,3,50,1,86,0,87,2
+598051,2013,2nd innings,Sunrisers Hyderabad,Chennai Super Kings,146,8,49,2,60,4,37,2
+598052,2013,1st innings,Kings XI Punjab,Rajasthan Royals,145,6,37,1,70,2,38,3
+598052,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,147,2,38,1,67,1,42,0
+598053,2013,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,152,6,50,1,46,3,56,2
+598053,2013,2nd innings,Pune Warriors,Kolkata Knight Riders,106,10,34,2,46,3,26,5
+598054,2013,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,183,4,40,2,59,1,84,1
+598054,2013,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,179,7,49,2,74,2,56,3
+598055,2013,1st innings,Pune Warriors,Mumbai Indians,112,8,36,2,52,3,24,3
+598055,2013,2nd innings,Mumbai Indians,Mumbai Indians,116,5,37,2,46,1,33,2
+598056,2013,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,150,7,37,2,61,4,52,1
+598056,2013,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,120,9,41,1,52,3,27,5
+598057,2013,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,115,9,22,1,62,2,31,6
+598057,2013,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,116,5,31,2,54,1,31,2
+598058,2013,1st innings,Chennai Super Kings,Rajasthan Royals,141,4,37,0,63,3,41,1
+598058,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,144,5,24,3,106,1,14,1
+598059,2013,1st innings,Delhi Daredevils,Kings XI Punjab,120,7,40,2,50,4,30,1
+598059,2013,2nd innings,Kings XI Punjab,Kings XI Punjab,121,5,56,3,45,1,20,1
+598060,2013,1st innings,Sunrisers Hyderabad,Mumbai Indians,178,3,52,1,79,1,47,1
+598060,2013,2nd innings,Mumbai Indians,Mumbai Indians,184,4,39,1,74,3,71,0
+598061,2013,1st innings,Pune Warriors,Pune Warriors,170,4,42,1,70,1,58,2
+598061,2013,2nd innings,Kolkata Knight Riders,Pune Warriors,163,7,33,3,89,0,41,4
+598062,2013,1st innings,Chennai Super Kings,Chennai Super Kings,168,4,47,0,62,3,59,1
+598062,2013,2nd innings,Delhi Daredevils,Chennai Super Kings,135,9,49,2,54,4,32,3
+598063,2013,1st innings,Mumbai Indians,Mumbai Indians,166,8,49,1,83,2,34,5
+598063,2013,2nd innings,Rajasthan Royals,Mumbai Indians,152,7,29,4,77,2,46,1
+598064,2013,1st innings,Royal Challengers Bangalore,Kings XI Punjab,190,3,58,0,75,1,57,2
+598064,2013,2nd innings,Kings XI Punjab,Kings XI Punjab,194,4,41,2,97,2,56,0
+598065,2013,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,136,9,21,3,69,1,46,5
+598065,2013,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,113,9,33,0,40,5,40,4
+598066,2013,1st innings,Kings XI Punjab,Kings XI Punjab,183,8,35,2,96,0,52,6
+598066,2013,2nd innings,Mumbai Indians,Kings XI Punjab,133,9,51,2,56,3,26,4
+598067,2013,1st innings,Pune Warriors,Pune Warriors,172,5,40,1,67,3,65,1
+598067,2013,2nd innings,Delhi Daredevils,Pune Warriors,134,9,47,2,57,3,30,4
+598068,2013,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,106,2,76,1,30,1,0,0
+598068,2013,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,82,6,56,3,26,3,0,0
+598069,2013,1st innings,Kolkata Knight Riders,Sunrisers Hyderabad,130,7,33,1,56,2,41,4
+598069,2013,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,132,5,45,0,61,3,26,2
+598070,2013,1st innings,Chennai Super Kings,Chennai Super Kings,192,1,47,0,78,1,67,0
+598070,2013,2nd innings,Mumbai Indians,Chennai Super Kings,144,10,56,1,71,4,17,5
+598071,2013,1st innings,Sunrisers Hyderabad,Rajasthan Royals,132,7,27,2,50,1,55,4
+598071,2013,2nd innings,Rajasthan Royals,Rajasthan Royals,135,6,44,1,55,4,36,1
+598072,2013,1st innings,Rajasthan Royals,Mumbai Indians,165,6,42,0,62,4,61,2
+598072,2013,2nd innings,Mumbai Indians,Mumbai Indians,169,6,45,0,81,2,43,4
+598073,2013,1st innings,Mumbai Indians,Mumbai Indians,148,9,34,3,66,1,48,5
+598073,2013,2nd innings,Chennai Super Kings,Mumbai Indians,125,9,35,4,48,4,42,1
+729279,2014,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,163,5,31,1,79,0,53,4
+729279,2014,2nd innings,Mumbai Indians,Kolkata Knight Riders,122,7,32,1,63,1,27,5
+729281,2014,1st innings,Delhi Daredevils,Royal Challengers Bangalore,145,4,30,3,52,1,63,0
+729281,2014,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,146,2,50,1,74,1,22,0
+729283,2014,1st innings,Chennai Super Kings,Kings XI Punjab,205,4,70,0,75,1,60,3
+729283,2014,2nd innings,Kings XI Punjab,Kings XI Punjab,206,4,64,3,92,0,50,1
+729285,2014,1st innings,Sunrisers Hyderabad,Rajasthan Royals,133,6,41,1,49,2,43,3
+729285,2014,2nd innings,Rajasthan Royals,Rajasthan Royals,135,6,30,2,72,1,33,3
+729287,2014,1st innings,Mumbai Indians,Royal Challengers Bangalore,115,9,49,1,43,3,23,5
+729287,2014,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,116,3,30,3,62,0,24,0
+729289,2014,1st innings,Kolkata Knight Riders,Delhi Daredevils,166,5,31,2,81,1,54,2
+729289,2014,2nd innings,Delhi Daredevils,Delhi Daredevils,167,6,49,2,74,2,44,2
+729291,2014,1st innings,Rajasthan Royals,Kings XI Punjab,191,5,54,1,89,2,48,2
+729291,2014,2nd innings,Kings XI Punjab,Kings XI Punjab,193,3,39,2,93,1,61,0
+729293,2014,1st innings,Chennai Super Kings,Chennai Super Kings,177,7,34,1,77,2,66,4
+729293,2014,2nd innings,Delhi Daredevils,Chennai Super Kings,84,9,24,3,58,5,2,1
+729295,2014,1st innings,Kings XI Punjab,Kings XI Punjab,193,6,43,0,109,2,41,4
+729295,2014,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,121,10,45,3,54,4,22,3
+729297,2014,1st innings,Chennai Super Kings,Chennai Super Kings,140,6,51,1,50,5,39,0
+729297,2014,2nd innings,Rajasthan Royals,Chennai Super Kings,133,10,38,2,49,6,46,2
+729299,2014,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,150,7,42,2,64,2,44,3
+729299,2014,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,148,5,49,0,67,2,32,3
+729301,2014,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,184,1,55,0,63,1,66,0
+729301,2014,2nd innings,Delhi Daredevils,Sunrisers Hyderabad,180,4,44,0,75,2,61,2
+729303,2014,1st innings,Mumbai Indians,Chennai Super Kings,141,7,31,2,77,0,33,5
+729303,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,142,3,51,0,56,2,35,1
+729305,2014,1st innings,Royal Challengers Bangalore,Rajasthan Royals,70,10,22,5,48,5,0,0
+729305,2014,2nd innings,Rajasthan Royals,Rajasthan Royals,71,4,36,2,35,2,0,0
+729307,2014,1st innings,Kings XI Punjab,Kings XI Punjab,132,9,51,2,60,4,21,3
+729307,2014,2nd innings,Kolkata Knight Riders,Kings XI Punjab,109,10,24,3,51,4,34,3
+729309,2014,1st innings,Mumbai Indians,Delhi Daredevils,125,7,37,2,32,3,56,2
+729309,2014,2nd innings,Delhi Daredevils,Delhi Daredevils,126,4,31,0,72,2,23,2
+729311,2014,1st innings,Sunrisers Hyderabad,Chennai Super Kings,145,5,37,2,61,2,47,1
+729311,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,146,5,47,0,77,2,22,3
+729313,2014,1st innings,Royal Challengers Bangalore,Kings XI Punjab,124,8,44,4,54,3,26,1
+729313,2014,2nd innings,Kings XI Punjab,Kings XI Punjab,127,5,33,2,68,3,26,0
+729315,2014,1st innings,Rajasthan Royals,,152,5,45,1,61,1,46,3
+729315,2014,2nd innings,Kolkata Knight Riders,,152,8,33,1,68,3,51,4
+729315,2014,Kolkata Knight Riders Super Over,Kolkata Knight Riders,,11,2,11,2,0,0,0,0
+729315,2014,Rajasthan Royals Super Over,Rajasthan Royals,,11,0,11,0,0,0,0,0
+729317,2014,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,172,5,44,2,73,0,55,3
+729317,2014,2nd innings,Mumbai Indians,Sunrisers Hyderabad,157,7,32,3,74,0,51,4
+733971,2014,1st innings,Chennai Super Kings,Chennai Super Kings,148,3,43,1,83,2,22,0
+733971,2014,2nd innings,Kolkata Knight Riders,Chennai Super Kings,114,9,39,4,52,3,23,2
+733973,2014,1st innings,Kings XI Punjab,Mumbai Indians,168,5,36,2,90,1,42,2
+733973,2014,2nd innings,Mumbai Indians,Mumbai Indians,170,5,49,2,69,1,52,2
+733975,2014,1st innings,Delhi Daredevils,Rajasthan Royals,152,5,46,1,48,2,58,2
+733975,2014,2nd innings,Rajasthan Royals,Rajasthan Royals,156,3,38,1,77,2,41,0
+733977,2014,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,155,6,47,2,59,1,49,3
+733977,2014,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,158,6,36,2,61,3,61,1
+733979,2014,1st innings,Rajasthan Royals,Rajasthan Royals,170,6,50,0,66,2,54,4
+733979,2014,2nd innings,Kolkata Knight Riders,Rajasthan Royals,160,6,50,0,72,3,38,3
+733981,2014,1st innings,Delhi Daredevils,Chennai Super Kings,178,5,46,2,76,3,56,0
+733981,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,181,2,49,0,78,1,54,1
+733983,2014,1st innings,Mumbai Indians,Mumbai Indians,187,5,50,1,69,3,68,1
+733983,2014,2nd innings,Royal Challengers Bangalore,Mumbai Indians,168,8,64,1,61,3,43,4
+733985,2014,1st innings,Delhi Daredevils,Kolkata Knight Riders,160,5,29,2,74,2,57,1
+733985,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,161,2,52,0,76,1,33,1
+733987,2014,1st innings,Kings XI Punjab,Kings XI Punjab,231,4,38,2,115,0,78,2
+733987,2014,2nd innings,Chennai Super Kings,Kings XI Punjab,187,6,46,1,73,3,68,2
+733989,2014,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,134,9,50,1,52,4,32,4
+733989,2014,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,102,10,37,3,44,2,21,5
+733991,2014,1st innings,Kings XI Punjab,Kings XI Punjab,198,8,64,1,76,3,58,4
+733991,2014,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,166,9,34,3,75,3,57,3
+733993,2014,1st innings,Delhi Daredevils,Sunrisers Hyderabad,143,7,52,1,69,2,22,4
+733993,2014,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,44,2,44,2,0,0,0,0
+733995,2014,1st innings,Mumbai Indians,Chennai Super Kings,157,6,42,1,57,1,58,4
+733995,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,160,6,38,1,74,1,48,4
+733997,2014,1st innings,Kings XI Punjab,Kolkata Knight Riders,149,8,49,2,67,2,33,4
+733997,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,150,1,55,0,68,1,27,0
+733999,2014,1st innings,Royal Challengers Bangalore,Rajasthan Royals,190,5,31,1,75,2,84,2
+733999,2014,2nd innings,Rajasthan Royals,Rajasthan Royals,191,5,45,0,77,5,69,0
+734001,2014,1st innings,Sunrisers Hyderabad,Mumbai Indians,157,3,43,1,60,1,54,1
+734001,2014,2nd innings,Mumbai Indians,Mumbai Indians,160,3,38,1,87,0,35,2
+734003,2014,1st innings,Rajasthan Royals,Chennai Super Kings,148,8,42,0,72,4,34,4
+734003,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,149,5,48,2,58,2,43,1
+734005,2014,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,186,4,34,1,74,3,78,0
+734005,2014,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,170,7,46,2,73,3,51,2
+734007,2014,1st innings,Sunrisers Hyderabad,Kings XI Punjab,205,5,55,0,72,2,78,3
+734007,2014,2nd innings,Kings XI Punjab,Kings XI Punjab,211,4,86,1,83,3,42,0
+734009,2014,1st innings,Mumbai Indians,Kolkata Knight Riders,141,5,37,2,62,1,42,2
+734009,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,142,4,45,0,55,2,42,2
+734011,2014,1st innings,Rajasthan Royals,Rajasthan Royals,201,6,52,1,89,1,60,4
+734011,2014,2nd innings,Delhi Daredevils,Rajasthan Royals,139,9,34,2,59,6,46,1
+734013,2014,1st innings,Chennai Super Kings,Royal Challengers Bangalore,138,4,39,2,68,1,31,1
+734013,2014,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,142,5,17,1,69,1,56,3
+734015,2014,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,142,8,41,2,68,3,33,3
+734015,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,146,3,30,1,73,1,43,1
+734017,2014,1st innings,Mumbai Indians,Mumbai Indians,178,3,42,0,80,2,56,1
+734017,2014,2nd innings,Rajasthan Royals,Mumbai Indians,153,8,47,3,49,4,57,1
+734019,2014,1st innings,Delhi Daredevils,Kings XI Punjab,164,7,55,1,66,1,43,5
+734019,2014,2nd innings,Kings XI Punjab,Kings XI Punjab,165,6,66,0,61,5,38,1
+734021,2014,1st innings,Royal Challengers Bangalore,Sunrisers Hyderabad,160,6,25,2,80,1,55,3
+734021,2014,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,161,3,51,0,65,1,45,2
+734023,2014,1st innings,Chennai Super Kings,Kolkata Knight Riders,154,4,35,1,71,1,48,2
+734023,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,156,2,52,0,67,2,37,0
+734025,2014,1st innings,Kings XI Punjab,Mumbai Indians,156,8,48,1,59,4,49,3
+734025,2014,2nd innings,Mumbai Indians,Mumbai Indians,159,3,62,0,71,2,26,1
+734027,2014,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,195,4,45,2,96,1,54,1
+734027,2014,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,165,5,36,1,70,2,59,2
+734029,2014,1st innings,Chennai Super Kings,Sunrisers Hyderabad,185,3,60,1,57,2,68,0
+734029,2014,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,189,4,64,0,84,1,41,3
+734031,2014,1st innings,Mumbai Indians,Mumbai Indians,173,10,65,0,84,4,24,6
+734031,2014,2nd innings,Delhi Daredevils,Mumbai Indians,158,4,47,1,58,2,53,1
+734033,2014,1st innings,Kings XI Punjab,Kings XI Punjab,179,4,53,1,67,3,59,0
+734033,2014,2nd innings,Rajasthan Royals,Kings XI Punjab,163,8,44,1,48,4,71,3
+734035,2014,1st innings,Royal Challengers Bangalore,Chennai Super Kings,154,6,34,3,67,1,53,2
+734035,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,160,2,64,1,47,1,49,0
+734037,2014,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,160,7,49,1,72,3,39,3
+734037,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,161,6,49,1,112,5,0,0
+734039,2014,1st innings,Delhi Daredevils,Kings XI Punjab,115,10,44,3,59,3,12,4
+734039,2014,2nd innings,Kings XI Punjab,Kings XI Punjab,119,3,48,2,71,1,0,0
+734041,2014,1st innings,Rajasthan Royals,Mumbai Indians,189,4,35,1,99,1,55,2
+734041,2014,2nd innings,Mumbai Indians,Mumbai Indians,195,5,71,3,124,2,0,0
+734043,2014,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,163,8,55,1,57,4,51,3
+734043,2014,2nd innings,Kings XI Punjab,Kolkata Knight Riders,135,8,46,2,46,4,43,2
+734045,2014,1st innings,Mumbai Indians,Chennai Super Kings,173,8,53,0,74,2,46,6
+734045,2014,2nd innings,Chennai Super Kings,Chennai Super Kings,176,3,60,0,72,3,44,0
+734047,2014,1st innings,Kings XI Punjab,Kings XI Punjab,226,6,70,0,97,2,59,4
+734047,2014,2nd innings,Chennai Super Kings,Kings XI Punjab,202,7,100,2,55,4,47,1
+734049,2014,1st innings,Kings XI Punjab,Kolkata Knight Riders,199,4,32,2,99,0,68,2
+734049,2014,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,200,7,59,1,92,2,49,4
+829705,2015,1st innings,Mumbai Indians,Kolkata Knight Riders,168,3,37,3,64,0,67,0
+829705,2015,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,170,3,38,1,91,2,41,0
+829707,2015,1st innings,Chennai Super Kings,Chennai Super Kings,150,7,59,2,57,2,34,3
+829707,2015,2nd innings,Delhi Daredevils,Chennai Super Kings,149,9,40,3,62,2,47,4
+829709,2015,1st innings,Rajasthan Royals,Rajasthan Royals,162,7,35,3,75,2,52,2
+829709,2015,2nd innings,Kings XI Punjab,Rajasthan Royals,136,8,51,3,53,2,32,3
+829711,2015,1st innings,Chennai Super Kings,Chennai Super Kings,209,4,49,0,94,2,66,2
+829711,2015,2nd innings,Sunrisers Hyderabad,Chennai Super Kings,164,6,46,2,69,2,49,2
+829713,2015,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,177,6,53,0,69,2,55,4
+829713,2015,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,179,7,41,1,78,4,60,2
+829715,2015,1st innings,Delhi Daredevils,Rajasthan Royals,184,3,51,1,68,1,65,1
+829715,2015,2nd innings,Rajasthan Royals,Rajasthan Royals,186,7,42,1,88,3,56,3
+829717,2015,1st innings,Kings XI Punjab,Kings XI Punjab,177,5,57,0,70,3,50,2
+829717,2015,2nd innings,Mumbai Indians,Kings XI Punjab,159,7,17,3,62,3,80,1
+829719,2015,1st innings,Royal Challengers Bangalore,Sunrisers Hyderabad,166,10,47,1,67,3,52,6
+829719,2015,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,172,2,65,0,72,2,35,0
+829721,2015,1st innings,Mumbai Indians,Rajasthan Royals,164,6,31,2,52,2,81,2
+829721,2015,2nd innings,Rajasthan Royals,Rajasthan Royals,165,3,42,1,71,2,52,0
+829723,2015,1st innings,Chennai Super Kings,Kolkata Knight Riders,165,9,69,4,52,1,44,4
+829723,2015,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,169,3,38,1,80,2,51,0
+829725,2015,1st innings,Kings XI Punjab,Delhi Daredevils,165,7,41,1,74,2,50,4
+829725,2015,2nd innings,Delhi Daredevils,Delhi Daredevils,169,5,47,1,73,1,49,3
+829727,2015,1st innings,Sunrisers Hyderabad,Rajasthan Royals,127,5,35,3,55,1,37,1
+829727,2015,2nd innings,Rajasthan Royals,Rajasthan Royals,131,4,36,0,60,3,35,1
+829729,2015,1st innings,Mumbai Indians,Chennai Super Kings,183,7,31,3,101,2,51,2
+829729,2015,2nd innings,Chennai Super Kings,Chennai Super Kings,189,4,90,0,78,4,21,0
+829731,2015,1st innings,Delhi Daredevils,Delhi Daredevils,167,4,40,1,81,1,46,2
+829731,2015,2nd innings,Sunrisers Hyderabad,Delhi Daredevils,163,8,50,0,60,3,53,5
+829733,2015,1st innings,Kings XI Punjab,Kolkata Knight Riders,155,9,48,3,64,2,43,4
+829733,2015,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,159,6,53,2,72,3,34,1
+829735,2015,1st innings,Chennai Super Kings,Rajasthan Royals,156,4,39,2,67,2,50,0
+829735,2015,2nd innings,Rajasthan Royals,Rajasthan Royals,157,2,47,0,91,0,19,2
+829737,2015,1st innings,Mumbai Indians,Mumbai Indians,209,7,48,1,85,1,76,5
+829737,2015,2nd innings,Royal Challengers Bangalore,Mumbai Indians,191,7,33,1,96,5,62,1
+829739,2015,1st innings,Delhi Daredevils,Kolkata Knight Riders,146,8,34,2,69,3,43,3
+829739,2015,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,147,4,48,2,71,1,28,1
+829741,2015,1st innings,Rajasthan Royals,,191,6,43,0,93,2,55,4
+829741,2015,2nd innings,Kings XI Punjab,,191,6,40,1,80,3,71,2
+829741,2015,Kings XI Punjab Super Over,Kings XI Punjab,,15,2,15,2,0,0,0,0
+829741,2015,Rajasthan Royals Super Over,Rajasthan Royals,,6,2,6,2,0,0,0,0
+829743,2015,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,176,4,43,0,90,1,43,3
+829743,2015,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,101,4,49,2,52,2,0,0
+829745,2015,1st innings,Chennai Super Kings,Chennai Super Kings,181,8,45,1,89,3,47,4
+829745,2015,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,154,8,38,2,73,3,43,3
+829747,2015,1st innings,Delhi Daredevils,Delhi Daredevils,190,4,45,1,92,0,53,3
+829747,2015,2nd innings,Mumbai Indians,Delhi Daredevils,153,9,48,2,72,2,33,5
+829749,2015,1st innings,Rajasthan Royals,Royal Challengers Bangalore,130,9,48,2,52,3,30,4
+829749,2015,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,134,1,49,1,75,0,10,0
+829751,2015,1st innings,Mumbai Indians,Mumbai Indians,157,8,46,1,66,3,45,4
+829751,2015,2nd innings,Sunrisers Hyderabad,Mumbai Indians,137,8,52,2,52,2,33,4
+829753,2015,1st innings,Chennai Super Kings,Chennai Super Kings,192,3,54,1,84,1,54,1
+829753,2015,2nd innings,Kings XI Punjab,Chennai Super Kings,95,9,39,2,40,5,16,2
+829757,2015,1st innings,Delhi Daredevils,Royal Challengers Bangalore,95,10,38,2,47,5,10,3
+829757,2015,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,99,0,50,0,49,0,0,0
+829759,2015,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,150,6,56,2,48,1,46,3
+829759,2015,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,130,9,36,2,57,3,37,4
+829761,2015,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,171,7,50,1,59,3,62,3
+829761,2015,2nd innings,Delhi Daredevils,Kolkata Knight Riders,158,6,36,0,70,4,52,2
+829763,2015,1st innings,Royal Challengers Bangalore,,200,7,52,2,78,2,70,3
+829765,2015,1st innings,Chennai Super Kings,Chennai Super Kings,134,6,53,1,46,4,35,1
+829765,2015,2nd innings,Kolkata Knight Riders,Chennai Super Kings,132,9,54,2,36,2,42,5
+829767,2015,1st innings,Kings XI Punjab,Delhi Daredevils,118,8,27,4,47,2,44,2
+829767,2015,2nd innings,Delhi Daredevils,Delhi Daredevils,119,1,41,0,78,1,0,0
+829769,2015,1st innings,Mumbai Indians,Mumbai Indians,187,5,47,1,73,3,67,1
+829769,2015,2nd innings,Rajasthan Royals,Mumbai Indians,179,7,55,1,72,2,52,4
+829771,2015,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,111,4,61,1,50,3,0,0
+829771,2015,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,115,3,62,2,53,1,0,0
+829773,2015,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,192,7,76,0,67,3,49,4
+829773,2015,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,170,6,54,2,76,3,40,1
+829775,2015,1st innings,Mumbai Indians,Mumbai Indians,172,3,51,0,72,1,49,2
+829775,2015,2nd innings,Kings XI Punjab,Mumbai Indians,149,7,45,2,68,1,36,4
+829777,2015,1st innings,Rajasthan Royals,Rajasthan Royals,189,2,43,0,71,1,75,1
+829777,2015,2nd innings,Delhi Daredevils,Rajasthan Royals,175,7,55,2,65,2,55,3
+829779,2015,1st innings,Chennai Super Kings,Chennai Super Kings,148,9,37,2,64,2,47,5
+829779,2015,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,124,10,42,3,58,2,24,5
+829781,2015,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,167,7,55,0,56,5,56,2
+829781,2015,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,132,9,33,3,55,4,44,2
+829783,2015,1st innings,Delhi Daredevils,Mumbai Indians,152,6,44,2,51,2,57,2
+829783,2015,2nd innings,Mumbai Indians,Mumbai Indians,153,5,41,4,58,0,54,1
+829785,2015,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,226,3,68,0,103,1,55,2
+829785,2015,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,88,10,34,5,54,5,0,0
+829787,2015,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,201,4,56,1,77,2,68,1
+829787,2015,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,194,7,36,2,90,3,68,2
+829789,2015,1st innings,Chennai Super Kings,Mumbai Indians,158,5,44,1,59,2,55,2
+829789,2015,2nd innings,Mumbai Indians,Mumbai Indians,159,4,61,0,40,3,58,1
+829791,2015,1st innings,Kings XI Punjab,Kolkata Knight Riders,183,5,45,1,89,1,49,3
+829791,2015,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,184,9,57,1,79,4,48,4
+829793,2015,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,163,4,41,2,58,2,64,0
+829793,2015,2nd innings,Delhi Daredevils,Sunrisers Hyderabad,157,4,49,1,55,3,53,0
+829795,2015,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,235,1,39,1,108,0,88,0
+829795,2015,2nd innings,Mumbai Indians,Royal Challengers Bangalore,196,7,45,1,90,2,61,4
+829797,2015,1st innings,Chennai Super Kings,Chennai Super Kings,157,5,36,2,72,0,49,3
+829797,2015,2nd innings,Rajasthan Royals,Chennai Super Kings,145,9,40,1,53,4,52,4
+829799,2015,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,185,5,56,0,84,2,45,3
+829799,2015,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,180,7,47,1,57,5,76,1
+829801,2015,1st innings,Chennai Super Kings,Delhi Daredevils,119,6,16,1,67,2,36,3
+829801,2015,2nd innings,Delhi Daredevils,Delhi Daredevils,120,4,28,2,69,1,23,1
+829803,2015,1st innings,Kings XI Punjab,Kings XI Punjab,106,6,72,4,34,2,0,0
+829803,2015,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,84,6,61,2,23,4,0,0
+829805,2015,1st innings,Mumbai Indians,Mumbai Indians,171,4,46,2,53,2,72,0
+829805,2015,2nd innings,Kolkata Knight Riders,Mumbai Indians,166,7,50,2,72,2,44,3
+829807,2015,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,135,3,68,1,67,2,0,0
+829807,2015,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,83,4,83,4,0,0,0,0
+829809,2015,1st innings,Kings XI Punjab,Chennai Super Kings,130,7,41,3,45,3,44,1
+829809,2015,2nd innings,Chennai Super Kings,Chennai Super Kings,134,3,47,2,64,1,23,0
+829811,2015,1st innings,Rajasthan Royals,Rajasthan Royals,199,6,66,0,80,4,53,2
+829811,2015,2nd innings,Kolkata Knight Riders,Rajasthan Royals,190,9,53,2,91,3,46,4
+829813,2015,1st innings,Delhi Daredevils,,187,5,54,0,87,4,46,1
+829813,2015,2nd innings,Royal Challengers Bangalore,,2,0,2,0,0,0,0,0
+829815,2015,1st innings,Sunrisers Hyderabad,Mumbai Indians,113,10,29,3,51,3,33,4
+829815,2015,2nd innings,Mumbai Indians,Mumbai Indians,114,1,38,0,76,1,0,0
+829817,2015,1st innings,Mumbai Indians,Mumbai Indians,187,6,48,0,87,2,52,4
+829817,2015,2nd innings,Chennai Super Kings,Mumbai Indians,162,10,54,2,67,4,41,4
+829819,2015,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,180,4,41,1,72,1,67,2
+829819,2015,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,109,10,40,2,52,5,17,3
+829821,2015,1st innings,Royal Challengers Bangalore,Chennai Super Kings,139,8,29,2,61,2,49,4
+829821,2015,2nd innings,Chennai Super Kings,Chennai Super Kings,140,7,34,1,57,2,49,4
+829823,2015,1st innings,Mumbai Indians,Mumbai Indians,202,5,61,1,85,2,56,2
+829823,2015,2nd innings,Chennai Super Kings,Mumbai Indians,161,8,31,1,81,3,49,4
+980901,2016,1st innings,Mumbai Indians,Rising Pune Supergiants,121,8,37,4,31,2,53,2
+980901,2016,2nd innings,Rising Pune Supergiants,Rising Pune Supergiants,126,1,57,0,69,1,0,0
+980903,2016,1st innings,Delhi Daredevils,Kolkata Knight Riders,98,10,35,4,57,4,6,2
+980903,2016,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,99,1,47,0,52,1,0,0
+980905,2016,1st innings,Kings XI Punjab,Gujarat Lions,161,6,52,0,73,4,36,2
+980905,2016,2nd innings,Gujarat Lions,Gujarat Lions,162,5,57,2,77,2,28,1
+980907,2016,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,227,4,49,1,107,0,71,3
+980907,2016,2nd innings,Sunrisers Hyderabad,Royal Challengers Bangalore,182,6,56,1,83,4,43,1
+980909,2016,1st innings,Kolkata Knight Riders,Mumbai Indians,187,5,40,1,98,1,49,3
+980909,2016,2nd innings,Mumbai Indians,Mumbai Indians,188,4,53,1,86,2,49,1
+980911,2016,1st innings,Rising Pune Supergiants,Gujarat Lions,163,5,57,1,64,1,42,3
+980911,2016,2nd innings,Gujarat Lions,Gujarat Lions,164,3,62,0,70,2,32,1
+980913,2016,1st innings,Kings XI Punjab,Delhi Daredevils,111,9,37,1,36,5,38,3
+980913,2016,2nd innings,Delhi Daredevils,Delhi Daredevils,113,2,28,1,85,1,0,0
+980915,2016,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,142,7,36,3,58,1,48,3
+980915,2016,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,146,2,36,0,76,2,34,0
+980917,2016,1st innings,Mumbai Indians,Gujarat Lions,143,8,31,2,51,3,61,3
+980917,2016,2nd innings,Gujarat Lions,Gujarat Lions,147,7,42,1,57,3,48,3
+980919,2016,1st innings,Rising Pune Supergiants,Kings XI Punjab,152,7,49,1,60,2,43,4
+980919,2016,2nd innings,Kings XI Punjab,Kings XI Punjab,153,4,50,0,62,3,41,1
+980921,2016,1st innings,Royal Challengers Bangalore,Delhi Daredevils,191,5,63,1,80,1,48,3
+980921,2016,2nd innings,Delhi Daredevils,Delhi Daredevils,192,3,51,2,95,0,46,1
+980923,2016,1st innings,Mumbai Indians,Sunrisers Hyderabad,142,6,40,2,71,2,31,2
+980923,2016,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,145,3,33,1,75,2,37,0
+980925,2016,1st innings,Kings XI Punjab,Kolkata Knight Riders,138,8,41,1,54,4,43,3
+980925,2016,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,141,4,65,0,52,3,24,1
+980927,2016,1st innings,Royal Challengers Bangalore,Mumbai Indians,170,7,49,1,63,3,58,3
+980927,2016,2nd innings,Mumbai Indians,Mumbai Indians,171,4,51,1,77,2,43,1
+980929,2016,1st innings,Gujarat Lions,Sunrisers Hyderabad,135,8,50,1,54,3,31,4
+980929,2016,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,137,0,63,0,74,0,0,0
+980931,2016,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,185,3,48,1,80,0,57,2
+980931,2016,2nd innings,Rising Pune Supergiants,Royal Challengers Bangalore,172,9,36,3,79,1,57,5
+980933,2016,1st innings,Delhi Daredevils,Delhi Daredevils,164,4,41,1,69,2,54,1
+980933,2016,2nd innings,Mumbai Indians,Delhi Daredevils,154,7,52,1,62,3,40,3
+980935,2016,1st innings,Kings XI Punjab,Sunrisers Hyderabad,143,6,35,2,68,3,40,1
+980935,2016,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,146,5,65,0,54,3,27,2
+980937,2016,1st innings,Royal Challengers Bangalore,Gujarat Lions,180,2,50,1,65,1,65,0
+980937,2016,2nd innings,Gujarat Lions,Gujarat Lions,182,4,72,1,64,1,46,2
+980939,2016,1st innings,Rising Pune Supergiants,Kolkata Knight Riders,160,5,31,1,69,2,60,2
+980939,2016,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,162,8,59,2,55,2,48,4
+980941,2016,1st innings,Mumbai Indians,Mumbai Indians,189,6,39,1,101,1,49,4
+980941,2016,2nd innings,Kings XI Punjab,Mumbai Indians,164,7,40,2,81,1,43,4
+980943,2016,1st innings,Sunrisers Hyderabad,Rising Pune Supergiants,118,8,27,3,45,2,46,3
+980943,2016,2nd innings,Rising Pune Supergiants,Rising Pune Supergiants,94,3,46,1,48,2,0,0
+980945,2016,1st innings,Gujarat Lions,Gujarat Lions,172,6,71,0,61,4,40,2
+980945,2016,2nd innings,Delhi Daredevils,Gujarat Lions,171,5,22,3,94,1,55,1
+980947,2016,1st innings,Kolkata Knight Riders,Mumbai Indians,174,5,59,0,67,3,48,2
+980947,2016,2nd innings,Mumbai Indians,Mumbai Indians,178,4,64,1,62,3,52,0
+980949,2016,1st innings,Rising Pune Supergiants,Gujarat Lions,195,3,48,1,87,1,60,1
+980949,2016,2nd innings,Gujarat Lions,Gujarat Lions,196,7,72,0,75,2,49,5
+980951,2016,1st innings,Delhi Daredevils,Delhi Daredevils,186,8,37,3,83,0,66,5
+980951,2016,2nd innings,Kolkata Knight Riders,Delhi Daredevils,159,10,43,2,84,3,32,5
+980953,2016,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,194,5,49,1,92,0,53,4
+980953,2016,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,179,6,45,1,87,3,47,2
+980955,2016,1st innings,Kings XI Punjab,Kings XI Punjab,154,10,59,0,51,5,44,5
+980955,2016,2nd innings,Gujarat Lions,Kings XI Punjab,131,9,36,2,51,5,44,2
+980957,2016,1st innings,Rising Pune Supergiants,Mumbai Indians,159,5,54,1,66,2,39,2
+980957,2016,2nd innings,Mumbai Indians,Mumbai Indians,161,2,47,1,68,1,46,0
+980959,2016,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,185,7,40,1,72,2,73,4
+980959,2016,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,189,5,37,2,86,2,66,1
+980961,2016,1st innings,Gujarat Lions,Delhi Daredevils,149,7,35,3,64,1,50,3
+980961,2016,2nd innings,Delhi Daredevils,Delhi Daredevils,150,2,61,0,60,2,29,0
+980963,2016,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,164,3,40,0,81,1,43,2
+980963,2016,2nd innings,Kings XI Punjab,Kolkata Knight Riders,157,9,37,3,80,1,40,5
+980965,2016,1st innings,Delhi Daredevils,Rising Pune Supergiants,162,7,48,2,64,2,50,3
+980965,2016,2nd innings,Rising Pune Supergiants,Rising Pune Supergiants,166,3,50,0,66,2,50,1
+980967,2016,1st innings,Gujarat Lions,Sunrisers Hyderabad,126,6,26,3,59,2,41,1
+980967,2016,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,129,5,38,2,53,2,38,1
+980969,2016,1st innings,Rising Pune Supergiants,Royal Challengers Bangalore,191,6,60,1,78,1,53,4
+980969,2016,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,195,3,46,0,96,2,53,1
+980971,2016,1st innings,Kings XI Punjab,Kings XI Punjab,181,5,45,1,74,2,62,2
+980971,2016,2nd innings,Delhi Daredevils,Kings XI Punjab,172,5,51,0,81,2,40,3
+980973,2016,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,177,3,51,0,65,2,61,1
+980973,2016,2nd innings,Mumbai Indians,Sunrisers Hyderabad,92,10,32,5,53,4,7,1
+980975,2016,1st innings,Kolkata Knight Riders,Gujarat Lions,158,4,28,4,70,0,60,0
+980975,2016,2nd innings,Gujarat Lions,Gujarat Lions,164,5,46,1,89,2,29,2
+980977,2016,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,175,6,56,0,57,3,62,3
+980977,2016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,174,4,50,1,73,2,51,1
+980979,2016,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,137,8,34,1,62,1,41,6
+980979,2016,2nd innings,Rising Pune Supergiants,Sunrisers Hyderabad,133,8,25,2,61,3,47,3
+980981,2016,1st innings,Royal Challengers Bangalore,Mumbai Indians,151,4,25,2,66,1,60,1
+980981,2016,2nd innings,Mumbai Indians,Mumbai Indians,153,4,39,1,58,2,56,1
+980983,2016,1st innings,Sunrisers Hyderabad,Delhi Daredevils,146,8,51,0,62,3,33,5
+980983,2016,2nd innings,Delhi Daredevils,Delhi Daredevils,150,3,50,1,64,2,36,0
+980985,2016,1st innings,Mumbai Indians,Kings XI Punjab,124,9,21,2,59,3,44,4
+980985,2016,2nd innings,Kings XI Punjab,Kings XI Punjab,127,3,32,1,78,0,17,2
+980987,2016,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,248,3,42,1,94,0,112,2
+980987,2016,2nd innings,Gujarat Lions,Royal Challengers Bangalore,104,10,41,2,53,6,10,2
+980989,2016,1st innings,Rising Pune Supergiants,Kolkata Knight Riders,103,6,37,2,57,3,9,1
+980989,2016,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,66,2,66,2,0,0,0,0
+980991,2016,1st innings,Kings XI Punjab,Sunrisers Hyderabad,179,4,47,1,74,1,58,2
+980991,2016,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,180,3,55,0,75,2,50,1
+980993,2016,1st innings,Mumbai Indians,Mumbai Indians,206,4,45,0,99,2,62,2
+980993,2016,2nd innings,Delhi Daredevils,Mumbai Indians,126,10,49,2,59,4,18,4
+980995,2016,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,183,5,51,1,73,3,59,1
+980995,2016,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,186,1,63,0,72,1,51,0
+980997,2016,1st innings,Delhi Daredevils,Rising Pune Supergiants,121,6,28,2,45,3,48,1
+980997,2016,2nd innings,Rising Pune Supergiants,Rising Pune Supergiants,76,1,44,1,32,0,0,0
+980999,2016,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,211,3,63,0,148,3,0,0
+980999,2016,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,120,9,59,4,61,5,0,0
+981001,2016,1st innings,Kolkata Knight Riders,Gujarat Lions,124,8,44,2,39,3,41,3
+981001,2016,2nd innings,Gujarat Lions,Gujarat Lions,125,4,55,3,70,1,0,0
+981003,2016,1st innings,Sunrisers Hyderabad,Delhi Daredevils,158,7,46,1,69,3,43,3
+981003,2016,2nd innings,Delhi Daredevils,Delhi Daredevils,161,4,37,1,70,1,54,2
+981005,2016,1st innings,Kings XI Punjab,Rising Pune Supergiants,172,7,52,0,68,2,52,5
+981005,2016,2nd innings,Rising Pune Supergiants,Rising Pune Supergiants,173,6,44,1,59,4,70,1
+981007,2016,1st innings,Mumbai Indians,Gujarat Lions,172,8,49,3,85,1,38,4
+981007,2016,2nd innings,Gujarat Lions,Gujarat Lions,173,4,70,1,77,3,26,0
+981009,2016,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,171,6,48,2,93,1,30,3
+981009,2016,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,149,8,48,1,66,3,35,4
+981011,2016,1st innings,Delhi Daredevils,Royal Challengers Bangalore,138,8,43,2,55,4,40,2
+981011,2016,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,139,4,49,2,62,2,28,0
+981013,2016,1st innings,Gujarat Lions,Royal Challengers Bangalore,158,10,23,3,81,1,54,6
+981013,2016,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,159,6,31,5,79,1,49,0
+981015,2016,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,162,8,43,1,66,2,53,5
+981015,2016,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,140,8,46,1,64,3,30,4
+981017,2016,1st innings,Gujarat Lions,Sunrisers Hyderabad,162,7,38,2,71,3,53,2
+981017,2016,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,163,6,46,2,70,3,47,1
+981019,2016,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,208,7,59,0,81,3,68,4
+981019,2016,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,200,7,59,0,99,3,42,4
+1082591,2017,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,207,4,59,1,92,1,56,2
+1082591,2017,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,172,10,54,1,85,4,33,5
+1082592,2017,1st innings,Mumbai Indians,Rising Pune Supergiant,184,8,61,1,59,4,64,3
+1082592,2017,2nd innings,Rising Pune Supergiant,Rising Pune Supergiant,187,3,59,1,80,1,48,1
+1082593,2017,1st innings,Gujarat Lions,Kolkata Knight Riders,183,4,52,1,73,2,58,1
+1082593,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,184,0,73,0,111,0,0,0
+1082594,2017,1st innings,Rising Pune Supergiant,Kings XI Punjab,163,6,35,1,73,3,55,2
+1082594,2017,2nd innings,Kings XI Punjab,Kings XI Punjab,164,4,56,2,72,2,36,0
+1082595,2017,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,157,8,41,2,80,2,36,4
+1082595,2017,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,142,9,43,2,70,4,29,3
+1082596,2017,1st innings,Gujarat Lions,Sunrisers Hyderabad,135,7,40,2,62,2,33,3
+1082596,2017,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,140,1,59,1,72,0,9,0
+1082597,2017,1st innings,Kolkata Knight Riders,Mumbai Indians,178,7,59,2,58,2,61,3
+1082597,2017,2nd innings,Mumbai Indians,Mumbai Indians,180,6,49,0,66,4,65,2
+1082598,2017,1st innings,Royal Challengers Bangalore,Kings XI Punjab,148,4,23,3,48,1,77,0
+1082598,2017,2nd innings,Kings XI Punjab,Kings XI Punjab,150,2,62,1,88,1,0,0
+1082599,2017,1st innings,Delhi Daredevils,Delhi Daredevils,205,4,62,1,61,1,82,2
+1082599,2017,2nd innings,Rising Pune Supergiant,Delhi Daredevils,108,10,50,3,56,5,2,2
+1082600,2017,1st innings,Sunrisers Hyderabad,Mumbai Indians,158,8,34,0,84,3,40,5
+1082600,2017,2nd innings,Mumbai Indians,Mumbai Indians,159,6,61,2,60,2,38,2
+1082601,2017,1st innings,Kings XI Punjab,Kolkata Knight Riders,170,9,57,1,77,3,36,5
+1082601,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,171,2,76,1,81,1,14,0
+1082602,2017,1st innings,Royal Challengers Bangalore,Mumbai Indians,142,5,41,0,69,1,32,4
+1082602,2017,2nd innings,Mumbai Indians,Mumbai Indians,145,6,21,4,70,1,54,1
+1082603,2017,1st innings,Rising Pune Supergiant,Gujarat Lions,171,8,64,2,62,3,45,3
+1082603,2017,2nd innings,Gujarat Lions,Gujarat Lions,172,3,61,0,72,3,39,0
+1082604,2017,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,172,6,40,2,84,1,48,3
+1082604,2017,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,155,6,45,0,68,5,42,1
+1082605,2017,1st innings,Delhi Daredevils,Delhi Daredevils,188,6,49,0,71,4,68,2
+1082605,2017,2nd innings,Kings XI Punjab,Delhi Daredevils,137,9,40,3,63,3,34,3
+1082606,2017,1st innings,Gujarat Lions,Mumbai Indians,176,4,46,1,74,2,56,1
+1082606,2017,2nd innings,Mumbai Indians,Mumbai Indians,177,4,56,1,76,2,45,1
+1082607,2017,1st innings,Rising Pune Supergiant,Rising Pune Supergiant,161,8,55,0,62,2,44,6
+1082607,2017,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,134,9,42,2,50,2,42,5
+1082608,2017,1st innings,Delhi Daredevils,Kolkata Knight Riders,168,7,53,0,57,4,58,3
+1082608,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,169,6,49,3,86,1,34,2
+1082609,2017,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,159,6,29,1,79,2,51,3
+1082609,2017,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,154,10,51,2,53,4,50,4
+1082610,2017,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,213,2,45,0,108,1,60,1
+1082610,2017,2nd innings,Gujarat Lions,Royal Challengers Bangalore,192,7,57,2,82,3,53,2
+1082611,2017,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,191,4,39,1,96,0,56,3
+1082611,2017,2nd innings,Delhi Daredevils,Sunrisers Hyderabad,176,5,56,1,71,3,49,1
+1082612,2017,1st innings,Kings XI Punjab,Mumbai Indians,198,4,46,1,93,1,59,2
+1082612,2017,2nd innings,Mumbai Indians,Mumbai Indians,199,2,82,1,109,1,8,0
+1082613,2017,1st innings,Kolkata Knight Riders,Gujarat Lions,187,5,65,1,76,1,46,3
+1082613,2017,2nd innings,Gujarat Lions,Gujarat Lions,188,6,72,1,74,4,42,1
+1082614,2017,1st innings,Mumbai Indians,Mumbai Indians,142,8,48,2,54,3,40,3
+1082614,2017,2nd innings,Delhi Daredevils,Mumbai Indians,128,7,23,5,68,1,37,1
+1082615,2017,1st innings,Sunrisers Hyderabad,Rising Pune Supergiant,176,3,45,0,68,2,63,1
+1082615,2017,2nd innings,Rising Pune Supergiant,Rising Pune Supergiant,179,4,55,1,60,2,64,1
+1082616,2017,1st innings,Kings XI Punjab,Kings XI Punjab,188,7,50,1,85,3,53,3
+1082616,2017,2nd innings,Gujarat Lions,Kings XI Punjab,162,7,50,2,71,4,41,1
+1082617,2017,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,131,10,65,2,42,4,24,4
+1082617,2017,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,49,10,39,4,10,6,0,0
+1082618,2017,1st innings,Rising Pune Supergiant,Rising Pune Supergiant,160,6,48,0,72,3,40,3
+1082618,2017,2nd innings,Mumbai Indians,Rising Pune Supergiant,157,8,44,1,69,3,44,4
+1082620,2017,1st innings,Rising Pune Supergiant,Kolkata Knight Riders,182,5,57,0,72,2,53,3
+1082620,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,184,3,45,1,114,0,25,2
+1082621,2017,1st innings,Royal Challengers Bangalore,Gujarat Lions,134,10,35,3,72,4,27,3
+1082621,2017,2nd innings,Gujarat Lions,Gujarat Lions,135,3,49,2,86,1,0,0
+1082622,2017,1st innings,Delhi Daredevils,Kolkata Knight Riders,160,6,53,1,78,1,29,4
+1082622,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,161,3,47,1,93,2,21,0
+1082623,2017,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,207,3,60,0,95,2,52,1
+1082623,2017,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,181,9,59,3,79,2,43,4
+1082624,2017,1st innings,Rising Pune Supergiant,Rising Pune Supergiant,157,3,43,1,68,2,46,0
+1082624,2017,2nd innings,Royal Challengers Bangalore,Rising Pune Supergiant,96,9,39,2,32,5,25,2
+1082625,2017,1st innings,Gujarat Lions,,153,9,48,3,52,3,53,3
+1082625,2017,2nd innings,Mumbai Indians,,153,10,61,1,53,3,39,6
+1082625,2017,Gujarat Lions Super Over,Gujarat Lions,,6,0,6,0,0,0,0,0
+1082625,2017,Mumbai Indians Super Over,Mumbai Indians,,11,2,11,2,0,0,0,0
+1082626,2017,1st innings,Delhi Daredevils,Kings XI Punjab,67,10,25,3,35,4,7,3
+1082626,2017,2nd innings,Kings XI Punjab,Kings XI Punjab,68,0,50,0,18,0,0,0
+1082627,2017,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,209,3,79,0,75,1,55,2
+1082627,2017,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,161,7,44,2,78,2,39,3
+1082628,2017,1st innings,Royal Challengers Bangalore,Mumbai Indians,162,8,52,2,63,3,47,3
+1082628,2017,2nd innings,Mumbai Indians,Mumbai Indians,165,6,55,1,59,4,51,1
+1082629,2017,1st innings,Gujarat Lions,Rising Pune Supergiant,161,10,55,1,80,5,26,4
+1082629,2017,2nd innings,Rising Pune Supergiant,Rising Pune Supergiant,167,5,43,4,59,0,65,1
+1082630,2017,1st innings,Sunrisers Hyderabad,Delhi Daredevils,185,3,66,1,48,2,71,0
+1082630,2017,2nd innings,Delhi Daredevils,Delhi Daredevils,189,4,62,1,80,2,47,1
+1082631,2017,1st innings,Kolkata Knight Riders,Rising Pune Supergiant,155,8,41,3,69,2,45,3
+1082631,2017,2nd innings,Rising Pune Supergiant,Rising Pune Supergiant,158,6,74,2,60,2,24,2
+1082632,2017,1st innings,Gujarat Lions,Delhi Daredevils,208,7,58,2,106,2,44,3
+1082632,2017,2nd innings,Delhi Daredevils,Delhi Daredevils,214,3,63,1,119,2,32,0
+1082633,2017,1st innings,Kings XI Punjab,Kings XI Punjab,138,7,35,2,49,3,54,2
+1082633,2017,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,119,10,46,3,52,4,21,3
+1082634,2017,1st innings,Rising Pune Supergiant,Rising Pune Supergiant,148,8,35,1,65,2,48,5
+1082634,2017,2nd innings,Sunrisers Hyderabad,Rising Pune Supergiant,136,9,47,2,54,2,35,5
+1082635,2017,1st innings,Mumbai Indians,Mumbai Indians,212,3,60,0,88,2,64,1
+1082635,2017,2nd innings,Delhi Daredevils,Mumbai Indians,66,10,35,5,31,5,0,0
+1082636,2017,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,158,6,40,3,65,0,53,3
+1082636,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,159,4,105,0,52,4,2,0
+1082637,2017,1st innings,Kings XI Punjab,Gujarat Lions,189,3,44,1,79,0,66,2
+1082637,2017,2nd innings,Gujarat Lions,Gujarat Lions,192,4,58,0,90,2,44,2
+1082638,2017,1st innings,Mumbai Indians,Sunrisers Hyderabad,138,7,36,2,63,2,39,3
+1082638,2017,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,140,3,43,1,70,2,27,0
+1082639,2017,1st innings,Kings XI Punjab,Kings XI Punjab,167,6,41,2,74,1,52,3
+1082639,2017,2nd innings,Kolkata Knight Riders,Kings XI Punjab,153,6,61,1,57,2,35,3
+1082640,2017,1st innings,Gujarat Lions,Delhi Daredevils,195,5,50,2,84,1,61,2
+1082640,2017,2nd innings,Delhi Daredevils,Delhi Daredevils,197,8,64,2,74,4,59,2
+1082641,2017,1st innings,Kings XI Punjab,Kings XI Punjab,230,3,71,1,102,1,57,1
+1082641,2017,2nd innings,Mumbai Indians,Kings XI Punjab,223,6,68,0,80,4,75,2
+1082642,2017,1st innings,Delhi Daredevils,Delhi Daredevils,168,8,54,2,69,2,45,4
+1082642,2017,2nd innings,Rising Pune Supergiant,Delhi Daredevils,161,7,53,2,64,1,44,4
+1082643,2017,1st innings,Gujarat Lions,Sunrisers Hyderabad,154,10,61,0,65,5,28,5
+1082643,2017,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,158,2,47,2,80,0,31,0
+1082644,2017,1st innings,Mumbai Indians,Mumbai Indians,173,5,51,1,67,1,55,3
+1082644,2017,2nd innings,Kolkata Knight Riders,Mumbai Indians,164,8,53,3,78,3,33,2
+1082645,2017,1st innings,Kings XI Punjab,Rising Pune Supergiant,73,10,32,5,39,3,2,2
+1082645,2017,2nd innings,Rising Pune Supergiant,Rising Pune Supergiant,78,1,43,1,35,0,0,0
+1082646,2017,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,161,6,37,1,70,2,54,3
+1082646,2017,2nd innings,Delhi Daredevils,Royal Challengers Bangalore,151,10,42,2,62,2,47,6
+1082647,2017,1st innings,Rising Pune Supergiant,Rising Pune Supergiant,162,4,33,2,71,1,58,1
+1082647,2017,2nd innings,Mumbai Indians,Rising Pune Supergiant,142,9,42,3,61,4,39,2
+1082648,2017,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,128,7,30,1,68,2,30,4
+1082648,2017,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,48,3,48,3,0,0,0,0
+1082649,2017,1st innings,Kolkata Knight Riders,Mumbai Indians,107,10,25,3,63,3,19,4
+1082649,2017,2nd innings,Mumbai Indians,Mumbai Indians,111,4,36,3,75,1,0,0
+1082650,2017,1st innings,Mumbai Indians,Mumbai Indians,129,8,32,2,49,5,48,1
+1082650,2017,2nd innings,Rising Pune Supergiant,Mumbai Indians,128,6,38,1,45,1,45,4
+1136561,2018,1st innings,Mumbai Indians,Chennai Super Kings,165,4,39,2,78,2,48,0
+1136561,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,169,9,42,2,64,5,63,2
+1136562,2018,1st innings,Delhi Daredevils,Kings XI Punjab,166,7,45,1,78,4,43,2
+1136562,2018,2nd innings,Kings XI Punjab,Kings XI Punjab,167,4,73,2,59,1,35,1
+1136563,2018,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,176,7,52,1,80,3,44,3
+1136563,2018,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,177,6,68,2,73,2,36,2
+1136564,2018,1st innings,Rajasthan Royals,Sunrisers Hyderabad,125,9,48,1,49,5,28,3
+1136564,2018,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,127,1,57,1,66,0,4,0
+1136565,2018,1st innings,Kolkata Knight Riders,Chennai Super Kings,202,6,64,2,59,3,79,1
+1136565,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,205,5,75,1,70,2,60,2
+1136566,2018,1st innings,Rajasthan Royals,Rajasthan Royals,153,5,51,2,66,2,36,1
+1136566,2018,2nd innings,Delhi Daredevils,Rajasthan Royals,60,4,60,4,0,0,0,0
+1136567,2018,1st innings,Mumbai Indians,Sunrisers Hyderabad,147,8,54,3,57,2,36,3
+1136567,2018,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,151,9,56,0,65,5,30,4
+1136568,2018,1st innings,Kings XI Punjab,Royal Challengers Bangalore,155,10,50,3,72,4,33,3
+1136568,2018,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,159,6,41,2,68,2,50,2
+1136569,2018,1st innings,Mumbai Indians,Delhi Daredevils,194,7,84,0,74,2,36,5
+1136569,2018,2nd innings,Delhi Daredevils,Delhi Daredevils,195,3,53,1,95,2,47,0
+1136570,2018,1st innings,Kolkata Knight Riders,Sunrisers Hyderabad,138,8,49,1,57,4,32,3
+1136570,2018,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,139,5,46,2,66,1,27,2
+1136571,2018,1st innings,Rajasthan Royals,Rajasthan Royals,217,4,52,1,77,2,88,1
+1136571,2018,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,198,6,64,1,70,4,64,1
+1136572,2018,1st innings,Kings XI Punjab,Kings XI Punjab,197,7,75,0,79,4,43,3
+1136572,2018,2nd innings,Chennai Super Kings,Kings XI Punjab,193,5,53,2,69,2,71,1
+1136573,2018,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,200,9,50,1,95,3,55,5
+1136573,2018,2nd innings,Delhi Daredevils,Kolkata Knight Riders,129,10,56,3,73,7,0,0
+1136574,2018,1st innings,Mumbai Indians,Mumbai Indians,213,6,60,2,83,1,70,3
+1136574,2018,2nd innings,Royal Challengers Bangalore,Mumbai Indians,167,8,55,2,53,4,59,2
+1136575,2018,1st innings,Rajasthan Royals,Kolkata Knight Riders,160,8,48,0,64,4,48,4
+1136575,2018,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,163,3,53,1,68,2,42,0
+1136576,2018,1st innings,Kings XI Punjab,Kings XI Punjab,193,3,49,0,94,2,50,1
+1136576,2018,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,178,5,40,3,78,1,60,1
+1136577,2018,1st innings,Chennai Super Kings,Chennai Super Kings,204,5,69,1,92,2,43,2
+1136577,2018,2nd innings,Rajasthan Royals,Chennai Super Kings,140,10,35,3,80,4,25,3
+1136578,2018,1st innings,Kolkata Knight Riders,Kings XI Punjab,191,7,50,1,96,2,45,4
+1136578,2018,2nd innings,Kings XI Punjab,Kings XI Punjab,126,1,73,0,53,1,0,0
+1136579,2018,1st innings,Delhi Daredevils,Royal Challengers Bangalore,174,5,28,2,75,1,71,2
+1136579,2018,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,176,4,43,2,97,1,36,1
+1136580,2018,1st innings,Chennai Super Kings,Chennai Super Kings,182,3,27,1,93,1,62,1
+1136580,2018,2nd innings,Sunrisers Hyderabad,Chennai Super Kings,178,6,40,3,77,1,61,2
+1136581,2018,1st innings,Mumbai Indians,Rajasthan Royals,167,7,43,1,92,1,32,5
+1136581,2018,2nd innings,Rajasthan Royals,Rajasthan Royals,168,7,43,2,75,1,50,4
+1136582,2018,1st innings,Kings XI Punjab,Kings XI Punjab,143,8,51,2,49,2,43,4
+1136582,2018,2nd innings,Delhi Daredevils,Kings XI Punjab,139,8,48,3,48,2,43,3
+1136583,2018,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,118,10,51,4,55,3,12,3
+1136583,2018,2nd innings,Mumbai Indians,Sunrisers Hyderabad,87,10,22,3,55,3,10,4
+1136584,2018,1st innings,Royal Challengers Bangalore,Chennai Super Kings,205,8,52,1,90,3,63,4
+1136584,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,207,5,55,2,80,2,72,1
+1136585,2018,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,132,6,37,3,60,1,35,2
+1136585,2018,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,119,10,44,0,47,5,28,5
+1136586,2018,1st innings,Delhi Daredevils,Delhi Daredevils,219,4,57,0,83,3,79,1
+1136586,2018,2nd innings,Kolkata Knight Riders,Delhi Daredevils,164,9,51,4,89,1,24,4
+1136587,2018,1st innings,Chennai Super Kings,Mumbai Indians,169,5,51,1,66,1,52,3
+1136587,2018,2nd innings,Mumbai Indians,Mumbai Indians,170,2,50,0,73,1,47,1
+1136588,2018,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,151,7,39,1,81,2,31,4
+1136588,2018,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,140,6,43,1,59,3,38,2
+1136589,2018,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,175,4,40,0,69,3,66,1
+1136589,2018,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,176,5,51,0,73,2,52,3
+1136590,2018,1st innings,Chennai Super Kings,Chennai Super Kings,211,4,56,0,81,3,74,1
+1136590,2018,2nd innings,Delhi Daredevils,Chennai Super Kings,198,5,59,2,69,2,70,1
+1136591,2018,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,167,7,43,1,80,2,44,4
+1136591,2018,2nd innings,Mumbai Indians,Royal Challengers Bangalore,153,7,40,3,66,2,47,2
+1136592,2018,1st innings,Delhi Daredevils,Delhi Daredevils,196,6,62,1,110,3,24,2
+1136592,2018,2nd innings,Rajasthan Royals,Delhi Daredevils,146,5,79,0,67,5,0,0
+1136593,2018,1st innings,Chennai Super Kings,Kolkata Knight Riders,177,5,57,1,64,3,56,1
+1136593,2018,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,180,4,56,2,85,2,39,0
+1136594,2018,1st innings,Kings XI Punjab,Mumbai Indians,174,6,49,0,74,3,51,3
+1136594,2018,2nd innings,Mumbai Indians,Mumbai Indians,176,4,39,1,79,2,58,1
+1136595,2018,1st innings,Royal Challengers Bangalore,Chennai Super Kings,127,9,47,1,42,6,38,2
+1136595,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,128,4,42,1,47,3,39,0
+1136596,2018,1st innings,Delhi Daredevils,Sunrisers Hyderabad,163,5,60,1,65,1,38,3
+1136596,2018,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,164,3,61,0,54,2,49,1
+1136597,2018,1st innings,Mumbai Indians,Mumbai Indians,181,4,56,0,76,3,49,1
+1136597,2018,2nd innings,Kolkata Knight Riders,Mumbai Indians,168,6,47,2,75,2,46,2
+1136598,2018,1st innings,Rajasthan Royals,Kings XI Punjab,152,9,45,2,65,4,42,3
+1136598,2018,2nd innings,Kings XI Punjab,Kings XI Punjab,155,4,34,2,68,2,53,0
+1136599,2018,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,146,10,38,2,67,1,41,7
+1136599,2018,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,141,6,55,1,47,4,39,1
+1136600,2018,1st innings,Rajasthan Royals,Rajasthan Royals,158,8,63,1,57,2,38,5
+1136600,2018,2nd innings,Kings XI Punjab,Rajasthan Royals,143,7,33,3,59,3,51,1
+1136601,2018,1st innings,Mumbai Indians,Mumbai Indians,210,6,47,1,98,2,65,3
+1136601,2018,2nd innings,Kolkata Knight Riders,Mumbai Indians,108,10,47,2,48,6,13,2
+1136602,2018,1st innings,Delhi Daredevils,Sunrisers Hyderabad,187,5,38,2,73,2,76,1
+1136602,2018,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,191,1,51,1,101,0,39,0
+1136603,2018,1st innings,Chennai Super Kings,Rajasthan Royals,176,4,55,1,72,2,49,1
+1136603,2018,2nd innings,Rajasthan Royals,Rajasthan Royals,177,6,57,2,65,2,55,2
+1136604,2018,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,245,6,59,1,110,2,76,3
+1136604,2018,2nd innings,Kings XI Punjab,Kolkata Knight Riders,214,8,58,2,92,3,64,3
+1136605,2018,1st innings,Delhi Daredevils,Royal Challengers Bangalore,181,4,44,2,76,1,61,1
+1136605,2018,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,187,5,58,2,89,1,40,2
+1136606,2018,1st innings,Sunrisers Hyderabad,Chennai Super Kings,179,4,29,1,101,0,49,3
+1136606,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,180,2,53,0,90,2,37,0
+1136607,2018,1st innings,Mumbai Indians,Rajasthan Royals,168,6,51,0,72,4,45,2
+1136607,2018,2nd innings,Rajasthan Royals,Rajasthan Royals,171,3,51,1,81,1,39,1
+1136608,2018,1st innings,Kings XI Punjab,Royal Challengers Bangalore,88,10,47,3,40,6,1,1
+1136608,2018,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,92,0,66,0,26,0,0,0
+1136609,2018,1st innings,Rajasthan Royals,Kolkata Knight Riders,142,10,68,1,50,6,24,3
+1136609,2018,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,145,4,51,2,65,1,29,1
+1136610,2018,1st innings,Mumbai Indians,Mumbai Indians,186,8,60,3,91,2,35,3
+1136610,2018,2nd innings,Kings XI Punjab,Mumbai Indians,183,5,57,1,70,0,56,4
+1136611,2018,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,218,6,44,2,105,2,69,2
+1136611,2018,2nd innings,Sunrisers Hyderabad,Royal Challengers Bangalore,204,3,56,1,96,1,52,1
+1136612,2018,1st innings,Delhi Daredevils,Delhi Daredevils,162,5,39,1,63,4,60,0
+1136612,2018,2nd innings,Chennai Super Kings,Delhi Daredevils,128,6,44,0,50,4,34,2
+1136613,2018,1st innings,Rajasthan Royals,Rajasthan Royals,164,5,45,1,68,2,51,2
+1136613,2018,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,134,10,55,1,53,5,26,4
+1136614,2018,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,172,9,60,0,81,2,31,7
+1136614,2018,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,173,5,66,1,66,1,41,3
+1136615,2018,1st innings,Delhi Daredevils,Delhi Daredevils,174,4,46,2,74,1,54,1
+1136615,2018,2nd innings,Mumbai Indians,Delhi Daredevils,163,10,57,1,65,6,41,3
+1136616,2018,1st innings,Kings XI Punjab,Chennai Super Kings,153,10,29,3,73,2,51,5
+1136616,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,159,5,33,3,69,1,57,1
+1136617,2018,1st innings,Sunrisers Hyderabad,Chennai Super Kings,139,7,47,3,41,3,51,1
+1136617,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,140,8,33,3,59,4,48,1
+1136618,2018,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,169,7,46,3,68,2,55,2
+1136618,2018,2nd innings,Rajasthan Royals,Kolkata Knight Riders,144,4,51,1,60,1,33,2
+1136619,2018,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,174,7,45,0,68,3,61,4
+1136619,2018,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,160,9,67,1,51,5,42,3
+1136620,2018,1st innings,Sunrisers Hyderabad,Chennai Super Kings,178,6,42,1,84,2,52,3
+1136620,2018,2nd innings,Chennai Super Kings,Chennai Super Kings,181,2,35,1,111,1,35,0
+1175356,2019,1st innings,Royal Challengers Bangalore,Chennai Super Kings,70,10,33,2,33,6,4,2
+1175356,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,71,3,16,1,47,2,8,0
+1175357,2019,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,181,3,54,0,80,1,47,2
+1175357,2019,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,183,4,47,1,67,2,69,1
+1175358,2019,1st innings,Delhi Capitals,Delhi Capitals,213,6,45,2,86,1,82,3
+1175358,2019,2nd innings,Mumbai Indians,Delhi Capitals,176,9,46,3,88,3,42,3
+1175359,2019,1st innings,Kings XI Punjab,Kings XI Punjab,184,4,32,1,93,1,59,2
+1175359,2019,2nd innings,Rajasthan Royals,Kings XI Punjab,170,9,64,0,71,2,35,7
+1175360,2019,1st innings,Delhi Capitals,Chennai Super Kings,147,6,43,1,75,1,29,4
+1175360,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,150,4,58,1,62,2,30,1
+1175361,2019,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,218,4,53,2,94,1,71,1
+1175361,2019,2nd innings,Kings XI Punjab,Kolkata Knight Riders,190,4,51,2,82,1,57,1
+1175362,2019,1st innings,Mumbai Indians,Mumbai Indians,187,8,52,0,87,3,48,5
+1175362,2019,2nd innings,Royal Challengers Bangalore,Mumbai Indians,181,5,60,1,67,2,54,2
+1175363,2019,1st innings,Rajasthan Royals,Sunrisers Hyderabad,198,2,35,1,87,0,76,1
+1175363,2019,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,201,5,69,0,96,3,36,2
+1175364,2019,1st innings,Mumbai Indians,Kings XI Punjab,176,7,62,1,69,3,45,3
+1175364,2019,2nd innings,Kings XI Punjab,Kings XI Punjab,177,2,38,0,102,2,37,0
+1175365,2019,1st innings,Kolkata Knight Riders,,185,8,36,2,82,3,67,3
+1175365,2019,2nd innings,Delhi Capitals,,185,6,45,1,95,1,45,4
+1175365,2019,Delhi Capitals Super Over,Delhi Capitals,,10,1,10,1,0,0,0,0
+1175365,2019,Kolkata Knight Riders Super Over,Kolkata Knight Riders,,7,1,7,1,0,0,0,0
+1175366,2019,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,231,2,59,0,105,0,67,2
+1175366,2019,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,113,10,30,3,56,3,27,4
+1175367,2019,1st innings,Chennai Super Kings,Chennai Super Kings,175,5,29,3,70,1,76,1
+1175367,2019,2nd innings,Rajasthan Royals,Chennai Super Kings,167,8,45,3,66,2,56,3
+1175368,2019,1st innings,Kings XI Punjab,Kings XI Punjab,166,9,54,2,75,2,37,5
+1175368,2019,2nd innings,Delhi Capitals,Kings XI Punjab,152,10,49,1,79,2,24,7
+1175369,2019,1st innings,Royal Challengers Bangalore,Rajasthan Royals,158,4,48,0,59,3,51,1
+1175369,2019,2nd innings,Rajasthan Royals,Rajasthan Royals,164,3,55,0,66,2,43,1
+1175370,2019,1st innings,Mumbai Indians,Mumbai Indians,170,5,40,1,53,2,77,2
+1175370,2019,2nd innings,Chennai Super Kings,Mumbai Indians,133,8,34,3,60,2,39,3
+1175371,2019,1st innings,Delhi Capitals,Sunrisers Hyderabad,129,8,36,2,49,3,44,3
+1175371,2019,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,131,5,62,0,41,4,28,1
+1175372,2019,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,205,3,53,0,89,1,63,2
+1175372,2019,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,206,5,59,1,75,2,72,2
+1178393,2019,1st innings,Chennai Super Kings,Chennai Super Kings,160,3,54,0,54,3,52,0
+1178393,2019,2nd innings,Kings XI Punjab,Chennai Super Kings,138,5,46,2,59,0,33,3
+1178394,2019,1st innings,Mumbai Indians,Mumbai Indians,136,7,30,2,45,3,61,2
+1178394,2019,2nd innings,Sunrisers Hyderabad,Mumbai Indians,96,10,39,2,45,3,12,5
+1178395,2019,1st innings,Royal Challengers Bangalore,Delhi Capitals,149,8,40,2,68,2,41,4
+1178395,2019,2nd innings,Delhi Capitals,Delhi Capitals,152,6,53,1,70,2,29,3
+1178396,2019,1st innings,Rajasthan Royals,Kolkata Knight Riders,139,3,28,1,75,1,36,1
+1178396,2019,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,140,2,65,0,75,2,0,0
+1178397,2019,1st innings,Sunrisers Hyderabad,Kings XI Punjab,150,4,27,1,65,2,58,1
+1178397,2019,2nd innings,Kings XI Punjab,Kings XI Punjab,151,4,38,1,73,0,40,3
+1178398,2019,1st innings,Kolkata Knight Riders,Chennai Super Kings,108,9,29,4,46,2,33,3
+1178398,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,111,3,40,2,45,1,26,0
+1178399,2019,1st innings,Kings XI Punjab,Mumbai Indians,197,4,50,0,81,2,66,2
+1178399,2019,2nd innings,Mumbai Indians,Mumbai Indians,198,7,50,1,85,3,63,3
+1178400,2019,1st innings,Rajasthan Royals,Chennai Super Kings,151,7,54,3,49,3,48,1
+1178400,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,155,6,24,4,77,0,54,2
+1178401,2019,1st innings,Kolkata Knight Riders,Delhi Capitals,178,7,41,1,81,3,56,3
+1178401,2019,2nd innings,Delhi Capitals,Delhi Capitals,180,3,57,2,81,0,42,1
+1178402,2019,1st innings,Mumbai Indians,Rajasthan Royals,187,5,57,0,69,2,61,3
+1178402,2019,2nd innings,Rajasthan Royals,Rajasthan Royals,188,6,59,0,99,2,30,4
+1178403,2019,1st innings,Kings XI Punjab,Royal Challengers Bangalore,173,4,60,0,62,4,51,0
+1178403,2019,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,174,2,63,1,63,0,48,1
+1178404,2019,1st innings,Kolkata Knight Riders,Chennai Super Kings,161,8,49,1,84,4,28,3
+1178404,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,162,5,44,2,76,2,42,1
+1178405,2019,1st innings,Delhi Capitals,Delhi Capitals,155,7,51,2,70,1,34,4
+1178405,2019,2nd innings,Sunrisers Hyderabad,Delhi Capitals,116,10,40,0,60,2,16,8
+1178406,2019,1st innings,Royal Challengers Bangalore,Mumbai Indians,171,7,45,1,74,1,52,5
+1178406,2019,2nd innings,Mumbai Indians,Mumbai Indians,172,5,67,0,60,3,45,2
+1178407,2019,1st innings,Kings XI Punjab,Kings XI Punjab,182,6,39,1,97,1,46,4
+1178407,2019,2nd innings,Rajasthan Royals,Kings XI Punjab,170,7,54,1,68,1,48,5
+1178408,2019,1st innings,Chennai Super Kings,Sunrisers Hyderabad,132,5,41,0,61,5,30,0
+1178408,2019,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,137,4,68,1,48,2,21,1
+1178409,2019,1st innings,Mumbai Indians,Mumbai Indians,168,5,57,0,47,3,64,2
+1178409,2019,2nd innings,Delhi Capitals,Mumbai Indians,128,9,48,0,38,5,42,4
+1178410,2019,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,213,4,42,1,80,1,91,2
+1178410,2019,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,203,5,37,3,84,1,82,1
+1178411,2019,1st innings,Mumbai Indians,Rajasthan Royals,161,5,46,1,66,2,49,2
+1178411,2019,2nd innings,Rajasthan Royals,Rajasthan Royals,162,5,60,1,68,2,34,2
+1178412,2019,1st innings,Kings XI Punjab,Delhi Capitals,163,7,50,2,68,3,45,2
+1178412,2019,2nd innings,Delhi Capitals,Delhi Capitals,166,5,60,1,68,1,38,3
+1178413,2019,1st innings,Kolkata Knight Riders,Sunrisers Hyderabad,159,8,61,2,55,2,43,4
+1178413,2019,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,161,1,72,0,89,1,0,0
+1178414,2019,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,161,7,49,1,69,2,43,4
+1178414,2019,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,160,8,32,4,60,1,68,3
+1178415,2019,1st innings,Rajasthan Royals,Delhi Capitals,191,6,52,1,98,1,41,4
+1178415,2019,2nd innings,Delhi Capitals,Delhi Capitals,193,4,59,0,83,2,51,2
+1178416,2019,1st innings,Sunrisers Hyderabad,Chennai Super Kings,175,3,54,1,80,1,41,1
+1178416,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,176,4,49,1,86,1,41,2
+1178417,2019,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,202,4,70,1,52,3,80,0
+1178417,2019,2nd innings,Kings XI Punjab,Royal Challengers Bangalore,185,7,68,1,75,2,42,4
+1178418,2019,1st innings,Kolkata Knight Riders,Rajasthan Royals,175,6,32,2,68,2,75,2
+1178418,2019,2nd innings,Rajasthan Royals,Rajasthan Royals,177,7,55,1,67,4,55,2
+1178419,2019,1st innings,Mumbai Indians,Mumbai Indians,155,4,45,1,60,2,50,1
+1178419,2019,2nd innings,Chennai Super Kings,Mumbai Indians,109,10,40,3,48,3,21,4
+1178420,2019,1st innings,Sunrisers Hyderabad,Rajasthan Royals,160,8,51,1,70,2,39,5
+1178420,2019,2nd innings,Rajasthan Royals,Rajasthan Royals,161,3,60,0,72,2,29,1
+1178421,2019,1st innings,Delhi Capitals,Delhi Capitals,187,5,59,1,68,2,60,2
+1178421,2019,2nd innings,Royal Challengers Bangalore,Delhi Capitals,171,7,64,1,62,4,45,2
+1178422,2019,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,232,2,50,0,107,1,75,1
+1178422,2019,2nd innings,Mumbai Indians,Kolkata Knight Riders,198,7,41,2,99,3,58,2
+1178423,2019,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,212,6,77,0,82,1,53,5
+1178423,2019,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,167,8,44,1,79,4,44,3
+1178424,2019,1st innings,Royal Challengers Bangalore,,62,7,62,7,0,0,0,0
+1178424,2019,2nd innings,Rajasthan Royals,,41,1,41,1,0,0,0,0
+1178425,2019,1st innings,Chennai Super Kings,Chennai Super Kings,179,4,27,1,75,2,77,1
+1178425,2019,2nd innings,Delhi Capitals,Chennai Super Kings,99,10,59,2,33,6,7,2
+1178426,2019,1st innings,Mumbai Indians,,162,5,44,1,69,2,49,2
+1178426,2019,2nd innings,Sunrisers Hyderabad,,162,6,59,2,47,3,56,1
+1178426,2019,Mumbai Indians Super Over,Mumbai Indians,,9,0,9,0,0,0,0,0
+1178426,2019,Sunrisers Hyderabad Super Over,Sunrisers Hyderabad,,8,2,8,2,0,0,0,0
+1178427,2019,1st innings,Kings XI Punjab,Kolkata Knight Riders,183,6,41,2,84,2,58,2
+1178427,2019,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,185,3,62,1,89,2,34,0
+1178428,2019,1st innings,Rajasthan Royals,Delhi Capitals,115,9,30,4,40,3,45,2
+1178428,2019,2nd innings,Delhi Capitals,Delhi Capitals,121,5,46,2,54,2,21,1
+1178429,2019,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,175,7,52,1,70,3,53,3
+1178429,2019,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,178,6,49,3,81,0,48,3
+1178430,2019,1st innings,Chennai Super Kings,Kings XI Punjab,170,5,42,1,82,0,46,4
+1178430,2019,2nd innings,Kings XI Punjab,Kings XI Punjab,173,4,68,0,83,3,22,1
+1178431,2019,1st innings,Kolkata Knight Riders,Mumbai Indians,133,7,49,0,50,4,34,3
+1178431,2019,2nd innings,Mumbai Indians,Mumbai Indians,134,1,46,0,75,1,13,0
+1181764,2019,1st innings,Chennai Super Kings,Mumbai Indians,131,4,32,3,59,1,40,0
+1181764,2019,2nd innings,Mumbai Indians,Mumbai Indians,132,4,44,2,64,2,24,0
+1181766,2019,1st innings,Sunrisers Hyderabad,Delhi Capitals,162,8,54,1,50,2,58,5
+1181766,2019,2nd innings,Delhi Capitals,Delhi Capitals,165,8,55,0,56,5,54,3
+1181767,2019,1st innings,Delhi Capitals,Chennai Super Kings,147,9,41,2,52,3,54,4
+1181767,2019,2nd innings,Chennai Super Kings,Chennai Super Kings,151,4,42,0,77,2,32,2
+1181768,2019,1st innings,Mumbai Indians,Mumbai Indians,149,8,45,2,57,3,47,3
+1181768,2019,2nd innings,Chennai Super Kings,Mumbai Indians,148,7,53,1,35,3,60,3
+1216492,2020,1st innings,Mumbai Indians,Chennai Super Kings,162,9,51,2,75,3,36,4
+1216492,2020,2nd innings,Chennai Super Kings,Chennai Super Kings,166,5,37,2,79,0,50,3
+1216493,2020,1st innings,Delhi Capitals,,157,8,23,3,70,2,64,3
+1216493,2020,2nd innings,Kings XI Punjab,,157,8,35,3,63,2,59,3
+1216493,2020,Delhi Capitals Super Over,Delhi Capitals,,3,0,3,0,0,0,0,0
+1216493,2020,Kings XI Punjab Super Over,Kings XI Punjab,,2,2,2,2,0,0,0,0
+1216494,2020,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,84,8,17,4,35,2,32,2
+1216494,2020,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,85,2,44,0,41,2,0,0
+1216495,2020,1st innings,Mumbai Indians,Sunrisers Hyderabad,149,8,48,2,50,3,51,3
+1216495,2020,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,151,0,56,0,81,0,14,0
+1216496,2020,1st innings,Rajasthan Royals,Rajasthan Royals,216,7,54,1,100,3,62,3
+1216496,2020,2nd innings,Chennai Super Kings,Rajasthan Royals,200,6,53,0,78,5,69,1
+1216497,2020,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,194,6,36,2,106,1,52,3
+1216497,2020,2nd innings,Delhi Capitals,Kolkata Knight Riders,135,9,36,2,74,3,25,4
+1216498,2020,1st innings,Kings XI Punjab,Kings XI Punjab,126,7,47,1,41,4,38,2
+1216498,2020,2nd innings,Sunrisers Hyderabad,Kings XI Punjab,114,10,52,0,45,3,17,7
+1216499,2020,1st innings,Royal Challengers Bangalore,Mumbai Indians,164,6,54,0,75,2,35,4
+1216499,2020,2nd innings,Mumbai Indians,Mumbai Indians,166,5,45,1,72,3,49,1
+1216500,2020,1st innings,Delhi Capitals,Delhi Capitals,184,8,51,3,71,2,62,3
+1216500,2020,2nd innings,Rajasthan Royals,Delhi Capitals,138,10,41,1,60,6,37,3
+1216501,2020,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,167,10,52,1,76,3,39,6
+1216501,2020,2nd innings,Chennai Super Kings,Kolkata Knight Riders,157,5,54,1,56,2,47,2
+1216502,2020,1st innings,Royal Challengers Bangalore,Sunrisers Hyderabad,120,7,30,2,63,2,27,3
+1216502,2020,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,121,5,58,1,63,4,0,0
+1216503,2020,1st innings,Mumbai Indians,Mumbai Indians,191,4,41,2,61,1,89,1
+1216503,2020,2nd innings,Kings XI Punjab,Mumbai Indians,143,8,41,2,68,3,34,3
+1216504,2020,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,174,6,42,1,78,4,54,1
+1216504,2020,2nd innings,Rajasthan Royals,Kolkata Knight Riders,137,9,39,2,51,6,47,1
+1216505,2020,1st innings,Royal Challengers Bangalore,Delhi Capitals,152,7,40,1,63,1,49,5
+1216505,2020,2nd innings,Delhi Capitals,Delhi Capitals,154,4,53,1,68,1,33,2
+1216506,2020,1st innings,Kings XI Punjab,Chennai Super Kings,153,6,53,1,42,3,58,2
+1216506,2020,2nd innings,Chennai Super Kings,Chennai Super Kings,154,1,57,0,61,1,36,0
+1216507,2020,1st innings,Sunrisers Hyderabad,Rajasthan Royals,158,4,26,1,70,1,62,2
+1216507,2020,2nd innings,Rajasthan Royals,Rajasthan Royals,163,5,36,3,58,2,69,0
+1216508,2020,1st innings,Mumbai Indians,Mumbai Indians,195,5,59,1,88,1,48,3
+1216508,2020,2nd innings,Kolkata Knight Riders,Mumbai Indians,146,9,33,2,67,2,46,5
+1216509,2020,1st innings,Chennai Super Kings,Delhi Capitals,179,4,39,1,73,2,67,1
+1216509,2020,2nd innings,Delhi Capitals,Delhi Capitals,185,5,41,2,88,1,56,2
+1216510,2020,1st innings,Kings XI Punjab,Kings XI Punjab,206,3,50,0,76,2,80,1
+1216510,2020,2nd innings,Royal Challengers Bangalore,Kings XI Punjab,109,10,40,3,55,4,14,3
+1216511,2020,1st innings,Mumbai Indians,Mumbai Indians,193,4,57,1,68,3,68,0
+1216511,2020,2nd innings,Rajasthan Royals,Mumbai Indians,136,10,31,3,82,3,23,4
+1216512,2020,1st innings,Kolkata Knight Riders,,163,5,48,1,57,3,58,1
+1216512,2020,2nd innings,Sunrisers Hyderabad,,163,6,58,0,51,4,54,2
+1216512,2020,Kolkata Knight Riders Super Over,Kolkata Knight Riders,,3,0,3,0,0,0,0,0
+1216512,2020,Sunrisers Hyderabad Super Over,Sunrisers Hyderabad,,2,2,2,2,0,0,0,0
+1216513,2020,1st innings,Kings XI Punjab,Chennai Super Kings,178,4,46,0,84,2,48,2
+1216513,2020,2nd innings,Chennai Super Kings,Chennai Super Kings,181,0,60,0,90,0,31,0
+1216514,2020,1st innings,Rajasthan Royals,Royal Challengers Bangalore,154,6,38,3,61,1,55,2
+1216514,2020,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,158,2,50,1,68,0,40,1
+1216515,2020,1st innings,Delhi Capitals,Delhi Capitals,228,4,57,1,94,1,77,2
+1216515,2020,2nd innings,Kolkata Knight Riders,Delhi Capitals,210,8,59,1,78,5,73,2
+1216516,2020,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,164,5,42,1,58,3,64,1
+1216516,2020,2nd innings,Chennai Super Kings,Sunrisers Hyderabad,157,5,36,3,43,1,78,1
+1216517,2020,1st innings,Mumbai Indians,,176,6,43,3,71,1,62,2
+1216517,2020,2nd innings,Kings XI Punjab,,176,6,51,1,74,3,51,2
+1216517,2020,Kings XI Punjab Super Over,Kings XI Punjab,,5,2,5,2,0,0,0,0
+1216517,2020,Kings XI Punjab Super Over,Kings XI Punjab,,15,0,15,0,0,0,0,0
+1216517,2020,Mumbai Indians Super Over,Mumbai Indians,,5,1,5,1,0,0,0,0
+1216517,2020,Mumbai Indians Super Over,Mumbai Indians,,11,1,11,1,0,0,0,0
+1216518,2020,1st innings,Rajasthan Royals,Sunrisers Hyderabad,154,6,47,1,58,2,49,3
+1216518,2020,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,156,2,58,2,60,0,38,0
+1216519,2020,1st innings,Delhi Capitals,Delhi Capitals,196,4,63,0,71,3,62,1
+1216519,2020,2nd innings,Royal Challengers Bangalore,Delhi Capitals,137,9,43,3,62,2,32,4
+1216520,2020,1st innings,Kolkata Knight Riders,Kings XI Punjab,149,9,54,3,60,3,35,3
+1216520,2020,2nd innings,Kings XI Punjab,Kings XI Punjab,150,2,36,0,77,1,37,1
+1216521,2020,1st innings,Chennai Super Kings,Mumbai Indians,114,9,24,5,47,3,43,1
+1216521,2020,2nd innings,Mumbai Indians,Mumbai Indians,116,0,52,0,64,0,0,0
+1216522,2020,1st innings,Rajasthan Royals,Royal Challengers Bangalore,177,6,52,1,67,2,58,3
+1216522,2020,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,179,3,47,1,67,2,65,0
+1216523,2020,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,164,6,25,2,76,1,63,3
+1216523,2020,2nd innings,Kings XI Punjab,Kolkata Knight Riders,162,5,47,0,70,1,45,4
+1216524,2020,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,219,2,77,0,98,2,44,0
+1216524,2020,2nd innings,Delhi Capitals,Sunrisers Hyderabad,131,10,54,2,42,4,35,4
+1216525,2020,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,169,4,36,1,59,3,74,0
+1216525,2020,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,132,8,26,2,70,1,36,5
+1216526,2020,1st innings,Kolkata Knight Riders,Mumbai Indians,148,5,33,2,62,3,53,0
+1216526,2020,2nd innings,Mumbai Indians,Mumbai Indians,149,2,51,0,75,2,23,0
+1216527,2020,1st innings,Kings XI Punjab,Rajasthan Royals,223,2,60,0,112,0,51,2
+1216527,2020,2nd innings,Rajasthan Royals,Rajasthan Royals,226,6,69,1,71,1,86,4
+1216528,2020,1st innings,Chennai Super Kings,Chennai Super Kings,167,6,44,2,72,0,51,4
+1216528,2020,2nd innings,Sunrisers Hyderabad,Chennai Super Kings,147,8,40,2,61,2,46,4
+1216529,2020,1st innings,Delhi Capitals,Mumbai Indians,162,4,46,2,65,1,51,1
+1216529,2020,2nd innings,Mumbai Indians,Mumbai Indians,166,5,44,1,86,2,36,2
+1216530,2020,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,191,7,55,1,77,4,59,2
+1216530,2020,2nd innings,Rajasthan Royals,Kolkata Knight Riders,131,9,41,5,66,2,24,2
+1216531,2020,1st innings,Royal Challengers Bangalore,Kings XI Punjab,171,6,57,1,65,2,49,3
+1216531,2020,2nd innings,Kings XI Punjab,Kings XI Punjab,177,2,56,0,70,1,51,1
+1216532,2020,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,162,4,38,0,79,2,45,2
+1216532,2020,2nd innings,Delhi Capitals,Sunrisers Hyderabad,147,7,34,1,70,2,43,4
+1216533,2020,1st innings,Chennai Super Kings,Rajasthan Royals,125,5,43,2,46,2,36,1
+1216533,2020,2nd innings,Rajasthan Royals,Rajasthan Royals,126,3,31,3,77,0,18,0
+1216534,2020,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,163,5,53,0,63,2,47,3
+1216534,2020,2nd innings,Sunrisers Hyderabad,Royal Challengers Bangalore,153,10,48,1,73,1,32,8
+1216535,2020,1st innings,Delhi Capitals,Mumbai Indians,110,9,22,2,56,4,32,3
+1216535,2020,2nd innings,Mumbai Indians,Mumbai Indians,111,1,38,0,73,1,0,0
+1216536,2020,1st innings,Kolkata Knight Riders,Chennai Super Kings,172,5,48,0,58,3,66,2
+1216536,2020,2nd innings,Chennai Super Kings,Chennai Super Kings,178,4,44,0,77,3,57,1
+1216537,2020,1st innings,Kings XI Punjab,Rajasthan Royals,185,4,53,1,70,1,62,2
+1216537,2020,2nd innings,Rajasthan Royals,Rajasthan Royals,186,3,66,1,80,2,40,0
+1216538,2020,1st innings,Mumbai Indians,Mumbai Indians,208,5,48,2,99,2,61,1
+1216538,2020,2nd innings,Sunrisers Hyderabad,Mumbai Indians,174,7,56,1,83,3,35,3
+1216539,2020,1st innings,Delhi Capitals,Delhi Capitals,175,3,36,0,88,2,51,1
+1216539,2020,2nd innings,Chennai Super Kings,Delhi Capitals,131,7,34,2,61,1,36,4
+1216540,2020,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,194,2,47,0,64,2,83,0
+1216540,2020,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,112,9,43,1,47,6,22,2
+1216541,2020,1st innings,Mumbai Indians,Rajasthan Royals,195,5,59,1,57,3,79,1
+1216541,2020,2nd innings,Rajasthan Royals,Rajasthan Royals,196,2,55,2,102,0,39,0
+1216542,2020,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,201,6,58,0,102,0,41,6
+1216542,2020,2nd innings,Kings XI Punjab,Sunrisers Hyderabad,132,10,45,2,81,6,6,2
+1216543,2020,1st innings,Delhi Capitals,Delhi Capitals,161,7,47,2,82,1,32,4
+1216543,2020,2nd innings,Rajasthan Royals,Delhi Capitals,148,8,50,2,73,3,25,3
+1216544,2020,1st innings,Royal Challengers Bangalore,Chennai Super Kings,145,6,46,1,55,1,44,4
+1216544,2020,2nd innings,Chennai Super Kings,Chennai Super Kings,150,2,48,1,79,1,23,0
+1216545,2020,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,142,4,40,1,59,1,43,2
+1216545,2020,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,145,3,52,2,61,1,32,0
+1216546,2020,1st innings,Delhi Capitals,Kings XI Punjab,164,5,53,1,64,2,47,2
+1216546,2020,2nd innings,Kings XI Punjab,Kings XI Punjab,167,5,57,3,84,1,26,1
+1216547,2020,1st innings,Royal Challengers Bangalore,,201,3,59,0,64,2,78,1
+1216547,2020,2nd innings,Mumbai Indians,,201,5,35,2,77,2,89,1
+1216547,2020,Mumbai Indians Super Over,Mumbai Indians,,7,1,7,1,0,0,0,0
+1216547,2020,Royal Challengers Bangalore Super Over,Royal Challengers Bangalore,,11,0,11,0,0,0,0,0
+1237177,2020,1st innings,Mumbai Indians,Mumbai Indians,200,5,63,1,59,3,78,1
+1237177,2020,2nd innings,Delhi Capitals,Mumbai Indians,143,8,32,4,80,1,31,3
+1237178,2020,1st innings,Royal Challengers Bangalore,Sunrisers Hyderabad,131,7,32,2,61,2,38,3
+1237178,2020,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,132,4,48,2,39,2,45,0
+1237180,2020,1st innings,Delhi Capitals,Delhi Capitals,189,3,65,0,74,2,50,1
+1237180,2020,2nd innings,Sunrisers Hyderabad,Delhi Capitals,172,8,49,3,80,1,43,4
+1237181,2020,1st innings,Delhi Capitals,Mumbai Indians,156,7,41,3,77,1,38,3
+1237181,2020,2nd innings,Mumbai Indians,Mumbai Indians,157,5,61,1,65,1,31,3
+1254058,2021,1st innings,Mumbai Indians,Royal Challengers Bangalore,159,9,41,1,87,2,31,6
+1254058,2021,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,160,8,46,2,60,3,54,3
+1254059,2021,1st innings,Chennai Super Kings,Delhi Capitals,188,7,33,2,103,2,52,3
+1254059,2021,2nd innings,Delhi Capitals,Delhi Capitals,190,3,65,0,86,1,39,2
+1254060,2021,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,187,6,50,0,95,1,42,5
+1254060,2021,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,177,5,35,2,84,1,58,2
+1254061,2021,1st innings,Punjab Kings,Punjab Kings,221,6,46,1,115,1,60,4
+1254061,2021,2nd innings,Rajasthan Royals,Punjab Kings,217,7,59,2,95,2,63,3
+1254062,2021,1st innings,Mumbai Indians,Mumbai Indians,152,10,42,1,72,2,38,7
+1254062,2021,2nd innings,Kolkata Knight Riders,Mumbai Indians,142,7,45,0,77,4,20,3
+1254063,2021,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,149,8,47,1,56,3,46,4
+1254063,2021,2nd innings,Sunrisers Hyderabad,Royal Challengers Bangalore,143,9,50,1,58,1,35,7
+1254064,2021,1st innings,Delhi Capitals,Rajasthan Royals,147,8,36,3,66,3,45,2
+1254064,2021,2nd innings,Rajasthan Royals,Rajasthan Royals,150,7,26,3,64,3,60,1
+1254065,2021,1st innings,Punjab Kings,Chennai Super Kings,106,8,26,4,47,2,33,2
+1254065,2021,2nd innings,Chennai Super Kings,Chennai Super Kings,107,4,32,1,70,3,5,0
+1254066,2021,1st innings,Mumbai Indians,Mumbai Indians,150,5,53,0,48,3,49,2
+1254066,2021,2nd innings,Sunrisers Hyderabad,Mumbai Indians,137,10,57,0,47,5,33,5
+1254067,2021,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,204,4,45,2,89,1,70,1
+1254067,2021,2nd innings,Kolkata Knight Riders,Royal Challengers Bangalore,166,8,57,2,64,3,45,3
+1254068,2021,1st innings,Punjab Kings,Delhi Capitals,195,4,59,0,81,1,55,3
+1254068,2021,2nd innings,Delhi Capitals,Delhi Capitals,198,4,62,1,90,2,46,1
+1254069,2021,1st innings,Chennai Super Kings,Chennai Super Kings,188,9,46,2,81,3,61,4
+1254069,2021,2nd innings,Rajasthan Royals,Chennai Super Kings,143,9,45,2,52,5,46,2
+1254070,2021,1st innings,Mumbai Indians,Delhi Capitals,137,9,55,1,46,5,36,3
+1254070,2021,2nd innings,Delhi Capitals,Delhi Capitals,138,4,39,1,62,2,37,1
+1254071,2021,1st innings,Punjab Kings,Sunrisers Hyderabad,120,10,32,1,62,5,26,4
+1254071,2021,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,121,1,50,0,45,1,26,0
+1254072,2021,1st innings,Chennai Super Kings,Chennai Super Kings,220,3,54,0,90,1,76,2
+1254072,2021,2nd innings,Kolkata Knight Riders,Chennai Super Kings,202,10,45,5,101,2,56,3
+1254073,2021,1st innings,Rajasthan Royals,Royal Challengers Bangalore,177,9,32,3,96,2,49,4
+1254073,2021,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,181,0,59,0,103,0,19,0
+1254074,2021,1st innings,Mumbai Indians,Punjab Kings,131,6,21,1,76,1,34,4
+1254074,2021,2nd innings,Punjab Kings,Punjab Kings,132,1,45,0,54,1,33,0
+1254075,2021,1st innings,Kolkata Knight Riders,Rajasthan Royals,133,9,25,1,68,3,40,5
+1254075,2021,2nd innings,Rajasthan Royals,Rajasthan Royals,134,4,50,2,54,2,30,0
+1254076,2021,1st innings,Chennai Super Kings,Chennai Super Kings,191,4,51,0,66,3,74,1
+1254076,2021,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,122,9,65,2,30,6,27,1
+1254077,2021,1st innings,Delhi Capitals,,159,4,51,0,65,2,43,2
+1254077,2021,2nd innings,Sunrisers Hyderabad,,159,7,56,2,54,2,49,3
+1254077,2021,Delhi Capitals Super Over,Delhi Capitals,,8,0,8,0,0,0,0,0
+1254077,2021,Sunrisers Hyderabad Super Over,Sunrisers Hyderabad,,7,0,7,0,0,0,0,0
+1254078,2021,1st innings,Punjab Kings,Kolkata Knight Riders,123,9,37,1,45,5,41,3
+1254078,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,126,5,42,3,60,2,24,0
+1254079,2021,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,171,5,36,2,79,2,56,1
+1254079,2021,2nd innings,Delhi Capitals,Royal Challengers Bangalore,170,4,43,2,68,2,59,0
+1254080,2021,1st innings,Sunrisers Hyderabad,Chennai Super Kings,171,3,39,1,74,0,58,2
+1254080,2021,2nd innings,Chennai Super Kings,Chennai Super Kings,173,3,50,0,98,3,25,0
+1254081,2021,1st innings,Rajasthan Royals,Mumbai Indians,171,4,47,0,79,2,45,2
+1254081,2021,2nd innings,Mumbai Indians,Mumbai Indians,172,3,49,1,82,1,41,1
+1254082,2021,1st innings,Kolkata Knight Riders,Delhi Capitals,154,6,45,1,50,4,59,1
+1254082,2021,2nd innings,Delhi Capitals,Delhi Capitals,156,3,67,0,79,1,10,2
+1254083,2021,1st innings,Punjab Kings,Punjab Kings,179,5,49,1,70,4,60,0
+1254083,2021,2nd innings,Royal Challengers Bangalore,Punjab Kings,145,8,36,1,56,4,53,3
+1254084,2021,1st innings,Chennai Super Kings,Mumbai Indians,218,4,49,1,87,3,82,0
+1254084,2021,2nd innings,Mumbai Indians,Mumbai Indians,219,6,58,0,95,3,66,3
+1254085,2021,1st innings,Rajasthan Royals,Rajasthan Royals,220,3,42,1,104,0,74,2
+1254085,2021,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,165,8,57,0,72,5,36,3
+1254086,2021,1st innings,Punjab Kings,Delhi Capitals,166,6,39,2,63,2,64,2
+1254086,2021,2nd innings,Delhi Capitals,Delhi Capitals,167,3,63,0,76,2,28,1
+1254087,2021,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,92,10,41,2,34,5,17,3
+1254087,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,94,1,56,0,38,1,0,0
+1254088,2021,1st innings,Mumbai Indians,Mumbai Indians,235,9,83,1,94,4,58,4
+1254088,2021,2nd innings,Sunrisers Hyderabad,Mumbai Indians,193,8,70,1,86,3,37,4
+1254089,2021,1st innings,Chennai Super Kings,Rajasthan Royals,189,4,44,0,72,3,73,1
+1254089,2021,2nd innings,Rajasthan Royals,Rajasthan Royals,190,3,81,1,84,1,25,1
+1254090,2021,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,164,7,55,0,54,3,55,4
+1254090,2021,2nd innings,Punjab Kings,Royal Challengers Bangalore,158,6,49,0,64,2,45,4
+1254091,2021,1st innings,Sunrisers Hyderabad,Chennai Super Kings,134,7,41,1,56,3,37,3
+1254091,2021,2nd innings,Chennai Super Kings,Chennai Super Kings,139,4,47,0,58,2,34,2
+1254092,2021,1st innings,Delhi Capitals,Kolkata Knight Riders,127,9,39,1,50,4,38,4
+1254092,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,130,7,44,2,54,3,32,2
+1254093,2021,1st innings,Rajasthan Royals,Mumbai Indians,90,9,41,2,30,4,19,3
+1254093,2021,2nd innings,Mumbai Indians,Mumbai Indians,94,2,56,2,38,0,0,0
+1254094,2021,1st innings,Chennai Super Kings,Punjab Kings,134,6,30,2,52,3,52,1
+1254094,2021,2nd innings,Punjab Kings,Punjab Kings,139,4,51,2,88,2,0,0
+1254095,2021,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,141,7,50,1,57,3,34,3
+1254095,2021,2nd innings,Royal Challengers Bangalore,Sunrisers Hyderabad,137,6,37,2,61,2,39,2
+1254096,2021,1st innings,Mumbai Indians,Kolkata Knight Riders,155,6,56,0,50,3,49,3
+1254096,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,159,3,63,1,92,2,4,0
+1254097,2021,1st innings,Delhi Capitals,Delhi Capitals,154,6,36,2,68,2,50,2
+1254097,2021,2nd innings,Rajasthan Royals,Delhi Capitals,121,6,21,3,61,2,39,1
+1254098,2021,1st innings,Kolkata Knight Riders,Chennai Super Kings,171,6,50,2,68,2,53,2
+1254098,2021,2nd innings,Chennai Super Kings,Chennai Super Kings,172,8,52,0,75,3,45,5
+1254099,2021,1st innings,Punjab Kings,Mumbai Indians,135,6,38,1,67,3,30,2
+1254099,2021,2nd innings,Mumbai Indians,Mumbai Indians,137,4,30,2,62,1,45,1
+1254100,2021,1st innings,Rajasthan Royals,Sunrisers Hyderabad,164,5,49,1,64,2,51,2
+1254100,2021,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,167,3,63,1,68,2,36,0
+1254101,2021,1st innings,Delhi Capitals,Royal Challengers Bangalore,164,5,55,0,73,3,36,2
+1254101,2021,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,166,3,29,2,79,1,58,0
+1254102,2021,1st innings,Kolkata Knight Riders,Punjab Kings,165,7,48,1,73,2,44,4
+1254102,2021,2nd innings,Punjab Kings,Punjab Kings,168,5,46,0,75,2,47,3
+1254103,2021,1st innings,Rajasthan Royals,Royal Challengers Bangalore,149,9,56,0,64,5,29,4
+1254103,2021,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,153,3,54,1,69,1,30,1
+1254104,2021,1st innings,Chennai Super Kings,Chennai Super Kings,156,7,24,5,63,0,69,2
+1254104,2021,2nd innings,Mumbai Indians,Chennai Super Kings,136,8,41,3,56,3,39,2
+1254105,2021,1st innings,Sunrisers Hyderabad,Delhi Capitals,134,9,32,2,58,3,44,4
+1254105,2021,2nd innings,Delhi Capitals,Delhi Capitals,139,2,39,1,60,1,40,0
+1254106,2021,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,171,4,34,0,93,2,44,2
+1254106,2021,2nd innings,Rajasthan Royals,Kolkata Knight Riders,85,10,17,4,66,4,2,2
+1254107,2021,1st innings,Punjab Kings,Punjab Kings,125,7,29,2,64,3,32,2
+1254107,2021,2nd innings,Sunrisers Hyderabad,Punjab Kings,120,7,20,2,55,3,45,2
+1254108,2021,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,165,6,48,1,71,1,46,4
+1254108,2021,2nd innings,Mumbai Indians,Royal Challengers Bangalore,111,10,56,0,43,5,12,5
+1254109,2021,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,115,8,35,2,44,3,36,3
+1254109,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,119,4,36,1,48,1,35,2
+1254110,2021,1st innings,Chennai Super Kings,Delhi Capitals,136,5,48,2,45,2,43,1
+1254110,2021,2nd innings,Delhi Capitals,Delhi Capitals,139,7,51,2,48,4,40,1
+1254111,2021,1st innings,Rajasthan Royals,Rajasthan Royals,185,10,57,1,83,3,45,6
+1254111,2021,2nd innings,Punjab Kings,Rajasthan Royals,183,4,49,0,99,2,35,2
+1254112,2021,1st innings,Mumbai Indians,Delhi Capitals,129,8,35,1,52,4,42,3
+1254112,2021,2nd innings,Delhi Capitals,Delhi Capitals,132,6,46,3,54,3,32,0
+1254113,2021,1st innings,Royal Challengers Bangalore,Chennai Super Kings,156,6,55,0,63,1,38,5
+1254113,2021,2nd innings,Chennai Super Kings,Chennai Super Kings,157,4,59,0,66,3,32,1
+1254114,2021,1st innings,Delhi Capitals,Chennai Super Kings,172,5,51,2,63,2,58,1
+1254114,2021,2nd innings,Chennai Super Kings,Chennai Super Kings,173,6,59,1,62,3,52,2
+1254115,2021,1st innings,Royal Challengers Bangalore,Kolkata Knight Riders,138,7,53,1,55,3,30,3
+1254115,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,139,6,48,1,64,3,27,2
+1254116,2021,1st innings,Delhi Capitals,Kolkata Knight Riders,135,5,38,1,52,2,45,2
+1254116,2021,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,136,7,51,0,62,1,23,6
+1254117,2021,1st innings,Chennai Super Kings,Chennai Super Kings,192,3,50,0,81,2,61,1
+1254117,2021,2nd innings,Kolkata Knight Riders,Chennai Super Kings,165,9,55,0,65,6,45,3
+1304047,2022,1st innings,Chennai Super Kings,Kolkata Knight Riders,131,5,35,2,38,3,58,0
+1304047,2022,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,133,4,43,0,61,3,29,1
+1304048,2022,1st innings,Mumbai Indians,Delhi Capitals,177,5,53,0,65,3,59,2
+1304048,2022,2nd innings,Delhi Capitals,Delhi Capitals,179,6,46,3,76,3,57,0
+1304049,2022,1st innings,Royal Challengers Bangalore,Punjab Kings,205,2,41,0,101,1,63,1
+1304049,2022,2nd innings,Punjab Kings,Punjab Kings,208,5,63,0,93,5,52,0
+1304050,2022,1st innings,Lucknow Super Giants,Gujarat Titans,158,6,32,4,77,0,49,2
+1304050,2022,2nd innings,Gujarat Titans,Gujarat Titans,161,5,44,2,47,2,70,1
+1304051,2022,1st innings,Rajasthan Royals,Rajasthan Royals,210,6,58,0,90,3,62,3
+1304051,2022,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,149,7,14,3,63,2,72,2
+1304052,2022,1st innings,Kolkata Knight Riders,Royal Challengers Bangalore,128,10,44,3,57,6,27,1
+1304052,2022,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,132,7,36,3,57,1,39,3
+1304053,2022,1st innings,Chennai Super Kings,Lucknow Super Giants,210,7,73,1,74,2,63,4
+1304053,2022,2nd innings,Lucknow Super Giants,Lucknow Super Giants,211,4,55,0,89,3,67,1
+1304054,2022,1st innings,Punjab Kings,Kolkata Knight Riders,137,10,62,3,40,5,35,2
+1304054,2022,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,141,4,51,2,90,2,0,0
+1304055,2022,1st innings,Rajasthan Royals,Rajasthan Royals,193,8,48,2,90,1,55,5
+1304055,2022,2nd innings,Mumbai Indians,Rajasthan Royals,170,8,50,2,86,2,34,4
+1304056,2022,1st innings,Gujarat Titans,Gujarat Titans,171,6,44,1,76,2,51,3
+1304056,2022,2nd innings,Delhi Capitals,Gujarat Titans,157,9,43,3,83,3,31,3
+1304057,2022,1st innings,Punjab Kings,Punjab Kings,180,8,72,2,75,3,33,3
+1304057,2022,2nd innings,Chennai Super Kings,Punjab Kings,126,10,27,4,71,3,28,3
+1304058,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,169,7,32,3,82,0,55,4
+1304058,2022,2nd innings,Sunrisers Hyderabad,Lucknow Super Giants,157,9,40,2,80,2,37,5
+1304059,2022,1st innings,Rajasthan Royals,Royal Challengers Bangalore,169,3,35,1,68,2,66,0
+1304059,2022,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,173,6,48,0,77,5,48,1
+1304060,2022,1st innings,Mumbai Indians,Kolkata Knight Riders,161,4,35,1,50,2,76,1
+1304060,2022,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,162,5,35,2,92,3,35,0
+1304061,2022,1st innings,Delhi Capitals,Lucknow Super Giants,149,3,52,0,47,3,50,0
+1304061,2022,2nd innings,Lucknow Super Giants,Lucknow Super Giants,155,4,48,0,63,2,44,2
+1304062,2022,1st innings,Punjab Kings,Gujarat Titans,189,9,43,2,109,3,37,4
+1304062,2022,2nd innings,Gujarat Titans,Gujarat Titans,190,4,53,1,81,1,56,2
+1304063,2022,1st innings,Chennai Super Kings,Sunrisers Hyderabad,154,7,41,2,67,2,46,3
+1304063,2022,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,155,2,37,0,84,1,34,1
+1304064,2022,1st innings,Mumbai Indians,Royal Challengers Bangalore,151,6,49,0,43,6,59,0
+1304064,2022,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,152,3,30,0,81,1,41,2
+1304065,2022,1st innings,Delhi Capitals,Delhi Capitals,215,5,68,0,93,3,54,2
+1304065,2022,2nd innings,Kolkata Knight Riders,Delhi Capitals,171,10,43,2,94,3,34,5
+1304066,2022,1st innings,Rajasthan Royals,Rajasthan Royals,165,6,44,1,48,3,73,2
+1304066,2022,2nd innings,Lucknow Super Giants,Rajasthan Royals,162,8,31,3,66,2,65,3
+1304067,2022,1st innings,Gujarat Titans,Sunrisers Hyderabad,162,7,51,2,67,2,44,3
+1304067,2022,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,168,3,42,0,74,2,52,1
+1304068,2022,1st innings,Chennai Super Kings,Chennai Super Kings,216,4,35,1,98,1,83,2
+1304068,2022,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,193,9,42,3,98,3,53,3
+1304069,2022,1st innings,Punjab Kings,Punjab Kings,198,5,65,0,67,3,66,2
+1304069,2022,2nd innings,Mumbai Indians,Punjab Kings,186,9,42,2,104,2,40,5
+1304070,2022,1st innings,Gujarat Titans,Gujarat Titans,192,4,42,2,88,1,62,1
+1304070,2022,2nd innings,Rajasthan Royals,Gujarat Titans,155,9,65,3,65,3,25,3
+1304071,2022,1st innings,Kolkata Knight Riders,Sunrisers Hyderabad,175,8,38,3,82,2,55,3
+1304071,2022,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,176,3,46,2,94,1,36,0
+1304072,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,199,4,57,1,93,1,49,2
+1304072,2022,2nd innings,Mumbai Indians,Lucknow Super Giants,181,9,57,2,68,2,56,5
+1304073,2022,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,189,5,40,2,75,3,74,0
+1304073,2022,2nd innings,Delhi Capitals,Royal Challengers Bangalore,173,7,57,1,58,4,58,2
+1304074,2022,1st innings,Punjab Kings,Sunrisers Hyderabad,151,10,48,2,74,2,29,6
+1304074,2022,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,152,3,39,1,72,2,41,0
+1304075,2022,1st innings,Chennai Super Kings,Gujarat Titans,169,5,39,2,86,1,44,2
+1304075,2022,2nd innings,Gujarat Titans,Gujarat Titans,170,7,37,3,71,2,62,2
+1304076,2022,1st innings,Rajasthan Royals,Rajasthan Royals,217,5,60,0,103,1,54,4
+1304076,2022,2nd innings,Kolkata Knight Riders,Rajasthan Royals,210,10,57,1,110,3,43,6
+1304077,2022,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,181,6,47,3,83,1,51,2
+1304077,2022,2nd innings,Lucknow Super Giants,Royal Challengers Bangalore,163,8,44,2,73,3,46,3
+1304078,2022,1st innings,Punjab Kings,Delhi Capitals,115,10,47,3,49,5,19,2
+1304078,2022,2nd innings,Delhi Capitals,Delhi Capitals,119,1,81,0,38,1,0,0
+1304079,2022,1st innings,Mumbai Indians,Chennai Super Kings,155,7,42,3,58,2,55,2
+1304079,2022,2nd innings,Chennai Super Kings,Chennai Super Kings,156,7,46,2,57,3,53,2
+1304080,2022,1st innings,Rajasthan Royals,Rajasthan Royals,222,2,44,0,111,0,67,2
+1304080,2022,2nd innings,Delhi Capitals,Rajasthan Royals,207,8,55,2,94,3,58,3
+1304081,2022,1st innings,Gujarat Titans,Gujarat Titans,156,9,47,1,80,1,29,7
+1304081,2022,2nd innings,Kolkata Knight Riders,Gujarat Titans,148,8,34,3,73,3,41,2
+1304082,2022,1st innings,Royal Challengers Bangalore,Sunrisers Hyderabad,68,10,31,4,34,4,3,2
+1304082,2022,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,72,1,56,0,16,1,0,0
+1304083,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,168,6,32,1,84,3,52,2
+1304083,2022,2nd innings,Mumbai Indians,Lucknow Super Giants,132,8,43,0,55,4,34,4
+1304084,2022,1st innings,Punjab Kings,Punjab Kings,187,4,37,1,86,0,64,3
+1304084,2022,2nd innings,Chennai Super Kings,Punjab Kings,176,6,32,2,86,2,58,2
+1304085,2022,1st innings,Rajasthan Royals,Rajasthan Royals,144,8,43,3,57,2,44,3
+1304085,2022,2nd innings,Royal Challengers Bangalore,Rajasthan Royals,115,10,37,1,53,5,25,4
+1304086,2022,1st innings,Sunrisers Hyderabad,Gujarat Titans,195,6,53,2,87,0,55,4
+1304086,2022,2nd innings,Gujarat Titans,Gujarat Titans,199,5,59,0,76,3,64,2
+1304087,2022,1st innings,Kolkata Knight Riders,Delhi Capitals,146,9,29,2,60,4,57,3
+1304087,2022,2nd innings,Delhi Capitals,Delhi Capitals,150,6,47,2,66,4,37,0
+1304088,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,153,8,39,1,70,4,44,3
+1304088,2022,2nd innings,Punjab Kings,Lucknow Super Giants,133,8,46,1,57,4,30,3
+1304089,2022,1st innings,Royal Challengers Bangalore,Gujarat Titans,170,6,43,1,74,1,53,4
+1304089,2022,2nd innings,Gujarat Titans,Gujarat Titans,174,4,46,0,67,4,61,0
+1304090,2022,1st innings,Rajasthan Royals,Mumbai Indians,158,6,40,1,62,2,56,3
+1304090,2022,2nd innings,Mumbai Indians,Mumbai Indians,161,5,41,2,81,1,39,2
+1304091,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,195,3,57,1,88,1,50,1
+1304091,2022,2nd innings,Delhi Capitals,Lucknow Super Giants,189,7,66,2,69,3,54,2
+1304092,2022,1st innings,Chennai Super Kings,Chennai Super Kings,202,2,40,0,113,0,49,2
+1304092,2022,2nd innings,Sunrisers Hyderabad,Chennai Super Kings,189,6,58,2,73,2,58,2
+1304093,2022,1st innings,Rajasthan Royals,Kolkata Knight Riders,152,5,38,1,67,2,47,2
+1304093,2022,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,158,3,32,2,75,1,51,0
+1304094,2022,1st innings,Gujarat Titans,Punjab Kings,143,8,42,2,56,2,45,4
+1304094,2022,2nd innings,Punjab Kings,Punjab Kings,145,2,43,1,74,1,28,0
+1304095,2022,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,173,8,57,0,66,3,50,5
+1304095,2022,2nd innings,Chennai Super Kings,Royal Challengers Bangalore,160,8,51,0,67,4,42,4
+1304096,2022,1st innings,Delhi Capitals,Delhi Capitals,207,3,50,2,87,1,70,0
+1304096,2022,2nd innings,Sunrisers Hyderabad,Delhi Capitals,186,8,35,2,99,3,52,3
+1304097,2022,1st innings,Mumbai Indians,Mumbai Indians,177,6,63,0,57,4,57,2
+1304097,2022,2nd innings,Gujarat Titans,Mumbai Indians,172,5,54,0,76,2,42,3
+1304098,2022,1st innings,Punjab Kings,Rajasthan Royals,189,5,48,1,74,3,67,1
+1304098,2022,2nd innings,Rajasthan Royals,Rajasthan Royals,190,4,67,1,76,2,47,1
+1304099,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,176,7,66,1,57,3,53,3
+1304099,2022,2nd innings,Kolkata Knight Riders,Lucknow Super Giants,101,10,25,3,76,7,0,0
+1304100,2022,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,192,3,47,1,78,1,67,1
+1304100,2022,2nd innings,Sunrisers Hyderabad,Royal Challengers Bangalore,125,10,39,2,72,3,14,5
+1304101,2022,1st innings,Chennai Super Kings,Chennai Super Kings,208,6,57,0,91,1,60,5
+1304101,2022,2nd innings,Delhi Capitals,Chennai Super Kings,117,10,59,2,40,5,18,3
+1304102,2022,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,165,9,64,1,76,4,25,4
+1304102,2022,2nd innings,Mumbai Indians,Kolkata Knight Riders,113,10,37,2,65,5,11,3
+1304103,2022,1st innings,Gujarat Titans,Gujarat Titans,144,4,35,2,57,1,52,1
+1304103,2022,2nd innings,Lucknow Super Giants,Gujarat Titans,82,10,37,3,45,7,0,0
+1304104,2022,1st innings,Rajasthan Royals,Delhi Capitals,160,6,43,1,73,2,44,3
+1304104,2022,2nd innings,Delhi Capitals,Delhi Capitals,161,2,38,1,76,0,47,1
+1304105,2022,1st innings,Chennai Super Kings,Mumbai Indians,97,10,32,5,55,4,10,1
+1304105,2022,2nd innings,Mumbai Indians,Mumbai Indians,103,5,36,4,67,1,0,0
+1304106,2022,1st innings,Punjab Kings,Punjab Kings,209,9,83,1,69,3,57,5
+1304106,2022,2nd innings,Royal Challengers Bangalore,Punjab Kings,155,9,44,3,76,3,35,3
+1304107,2022,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,177,6,55,1,64,4,58,1
+1304107,2022,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,123,8,31,1,69,4,23,3
+1304108,2022,1st innings,Chennai Super Kings,Gujarat Titans,133,5,47,1,62,1,24,3
+1304108,2022,2nd innings,Gujarat Titans,Gujarat Titans,137,3,53,0,55,3,29,0
+1304109,2022,1st innings,Rajasthan Royals,Rajasthan Royals,178,6,51,1,79,3,48,2
+1304109,2022,2nd innings,Lucknow Super Giants,Rajasthan Royals,154,8,34,3,73,1,47,4
+1304110,2022,1st innings,Delhi Capitals,Delhi Capitals,159,7,59,2,57,3,43,2
+1304110,2022,2nd innings,Punjab Kings,Delhi Capitals,142,9,54,3,47,4,41,2
+1304111,2022,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,193,6,57,1,91,1,45,4
+1304111,2022,2nd innings,Mumbai Indians,Sunrisers Hyderabad,190,7,51,0,76,4,63,3
+1304112,2022,1st innings,Lucknow Super Giants,Lucknow Super Giants,210,0,44,0,78,0,88,0
+1304112,2022,2nd innings,Kolkata Knight Riders,Lucknow Super Giants,208,8,60,2,74,2,74,4
+1304113,2022,1st innings,Gujarat Titans,Royal Challengers Bangalore,168,5,38,2,80,1,50,2
+1304113,2022,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,170,2,55,0,66,1,49,1
+1304114,2022,1st innings,Chennai Super Kings,Rajasthan Royals,150,6,75,1,42,3,33,2
+1304114,2022,2nd innings,Rajasthan Royals,Rajasthan Royals,151,5,52,1,52,3,47,1
+1304115,2022,1st innings,Delhi Capitals,Mumbai Indians,159,7,37,3,69,1,53,3
+1304115,2022,2nd innings,Mumbai Indians,Mumbai Indians,160,5,27,1,74,2,59,2
+1304116,2022,1st innings,Sunrisers Hyderabad,Punjab Kings,157,8,43,1,53,4,61,3
+1304116,2022,2nd innings,Punjab Kings,Punjab Kings,160,5,62,1,94,4,4,0
+1312197,2022,1st innings,Rajasthan Royals,Gujarat Titans,188,6,55,1,69,2,64,3
+1312197,2022,2nd innings,Gujarat Titans,Gujarat Titans,191,3,64,1,75,2,52,0
+1312198,2022,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,207,4,52,1,71,3,84,0
+1312198,2022,2nd innings,Lucknow Super Giants,Royal Challengers Bangalore,193,6,62,2,81,1,50,3
+1312199,2022,1st innings,Royal Challengers Bangalore,Rajasthan Royals,157,8,46,1,77,2,34,5
+1312199,2022,2nd innings,Rajasthan Royals,Rajasthan Royals,161,3,67,1,59,1,35,1
+1312200,2022,1st innings,Rajasthan Royals,Gujarat Titans,130,9,44,1,50,4,36,4
+1312200,2022,2nd innings,Gujarat Titans,Gujarat Titans,133,3,31,2,66,1,36,0
+1359475,2023,1st innings,Chennai Super Kings,Gujarat Titans,178,7,51,2,82,2,45,3
+1359475,2023,2nd innings,Gujarat Titans,Gujarat Titans,182,5,65,1,73,3,44,1
+1359476,2023,1st innings,Punjab Kings,Punjab Kings,191,5,56,1,87,3,48,1
+1359476,2023,2nd innings,Kolkata Knight Riders,Punjab Kings,146,7,46,3,90,3,10,1
+1359477,2023,1st innings,Lucknow Super Giants,Lucknow Super Giants,193,6,30,1,97,3,66,2
+1359477,2023,2nd innings,Delhi Capitals,Lucknow Super Giants,143,9,47,2,63,3,33,4
+1359478,2023,1st innings,Rajasthan Royals,Rajasthan Royals,203,5,85,1,75,2,43,2
+1359478,2023,2nd innings,Sunrisers Hyderabad,Rajasthan Royals,131,8,30,2,55,5,46,1
+1359479,2023,1st innings,Mumbai Indians,Royal Challengers Bangalore,171,7,29,3,73,2,69,2
+1359479,2023,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,172,2,53,0,95,1,24,1
+1359480,2023,1st innings,Chennai Super Kings,Chennai Super Kings,217,7,79,0,85,3,53,4
+1359480,2023,2nd innings,Lucknow Super Giants,Chennai Super Kings,205,7,80,1,70,4,55,2
+1359481,2023,1st innings,Delhi Capitals,Gujarat Titans,162,8,52,2,69,3,41,3
+1359481,2023,2nd innings,Gujarat Titans,Gujarat Titans,163,4,54,3,63,1,46,0
+1359482,2023,1st innings,Punjab Kings,Punjab Kings,197,5,63,0,89,2,45,3
+1359482,2023,2nd innings,Rajasthan Royals,Punjab Kings,192,7,57,3,67,3,68,1
+1359483,2023,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,204,7,47,2,93,3,64,2
+1359483,2023,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,123,10,50,2,52,7,21,1
+1359484,2023,1st innings,Sunrisers Hyderabad,Lucknow Super Giants,121,8,43,1,40,3,38,4
+1359484,2023,2nd innings,Lucknow Super Giants,Lucknow Super Giants,127,5,45,2,73,3,9,0
+1359485,2023,1st innings,Rajasthan Royals,Rajasthan Royals,199,4,68,0,62,3,69,1
+1359485,2023,2nd innings,Delhi Capitals,Rajasthan Royals,142,9,38,3,75,2,29,4
+1359486,2023,1st innings,Mumbai Indians,Chennai Super Kings,157,8,61,1,48,5,48,2
+1359486,2023,2nd innings,Chennai Super Kings,Chennai Super Kings,159,3,68,1,66,2,25,0
+1359487,2023,1st innings,Gujarat Titans,Kolkata Knight Riders,204,4,54,1,78,2,72,1
+1359487,2023,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,207,7,43,2,106,1,58,4
+1359488,2023,1st innings,Punjab Kings,Sunrisers Hyderabad,143,9,41,3,47,6,55,0
+1359488,2023,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,145,2,34,1,84,1,27,0
+1359489,2023,1st innings,Royal Challengers Bangalore,Lucknow Super Giants,212,2,56,0,81,1,75,1
+1359489,2023,2nd innings,Lucknow Super Giants,Lucknow Super Giants,213,9,37,3,134,2,42,4
+1359490,2023,1st innings,Delhi Capitals,Mumbai Indians,172,10,51,1,72,4,49,5
+1359490,2023,2nd innings,Mumbai Indians,Mumbai Indians,173,4,68,0,55,1,50,3
+1359491,2023,1st innings,Rajasthan Royals,Rajasthan Royals,175,8,57,1,78,3,40,4
+1359491,2023,2nd innings,Chennai Super Kings,Rajasthan Royals,172,6,45,1,68,5,59,0
+1359492,2023,1st innings,Punjab Kings,Gujarat Titans,153,8,52,2,47,2,54,4
+1359492,2023,2nd innings,Gujarat Titans,Gujarat Titans,154,4,56,1,55,2,43,1
+1359493,2023,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,228,4,65,2,92,1,71,1
+1359493,2023,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,205,7,62,3,80,2,63,2
+1359494,2023,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,174,6,47,1,87,5,40,0
+1359494,2023,2nd innings,Delhi Capitals,Royal Challengers Bangalore,151,9,32,4,76,3,43,2
+1359495,2023,1st innings,Lucknow Super Giants,Punjab Kings,159,8,49,0,62,4,48,4
+1359495,2023,2nd innings,Punjab Kings,Punjab Kings,161,8,45,3,70,2,46,3
+1359496,2023,1st innings,Kolkata Knight Riders,Mumbai Indians,185,6,57,2,83,2,45,2
+1359496,2023,2nd innings,Mumbai Indians,Mumbai Indians,186,5,72,1,91,2,23,2
+1359497,2023,1st innings,Gujarat Titans,Rajasthan Royals,177,7,42,2,77,1,58,4
+1359497,2023,2nd innings,Rajasthan Royals,Rajasthan Royals,179,7,26,2,88,3,65,2
+1359498,2023,1st innings,Chennai Super Kings,Chennai Super Kings,226,6,53,1,112,1,61,4
+1359498,2023,2nd innings,Royal Challengers Bangalore,Chennai Super Kings,218,8,75,2,94,2,49,4
+1359499,2023,1st innings,Mumbai Indians,Mumbai Indians,192,5,53,1,77,2,62,2
+1359499,2023,2nd innings,Sunrisers Hyderabad,Mumbai Indians,178,10,42,2,91,4,45,4
+1359500,2023,1st innings,Lucknow Super Giants,Lucknow Super Giants,154,7,37,0,72,4,45,3
+1359500,2023,2nd innings,Rajasthan Royals,Lucknow Super Giants,144,6,47,0,57,3,40,3
+1359501,2023,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,174,4,59,0,71,0,44,4
+1359501,2023,2nd innings,Punjab Kings,Royal Challengers Bangalore,150,10,49,4,76,3,25,3
+1359502,2023,1st innings,Kolkata Knight Riders,Delhi Capitals,127,10,35,3,59,5,33,2
+1359502,2023,2nd innings,Delhi Capitals,Delhi Capitals,128,6,61,1,43,3,24,2
+1359503,2023,1st innings,Sunrisers Hyderabad,Chennai Super Kings,134,7,45,1,57,4,32,2
+1359503,2023,2nd innings,Chennai Super Kings,Chennai Super Kings,138,3,60,0,51,2,27,1
+1359504,2023,1st innings,Gujarat Titans,Gujarat Titans,135,6,40,1,52,3,43,2
+1359504,2023,2nd innings,Lucknow Super Giants,Gujarat Titans,128,7,53,0,53,2,22,5
+1359505,2023,1st innings,Punjab Kings,Punjab Kings,214,8,58,1,60,3,96,4
+1359505,2023,2nd innings,Mumbai Indians,Punjab Kings,201,6,54,1,95,1,52,4
+1359506,2023,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,189,9,62,2,94,2,33,5
+1359506,2023,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,182,6,47,1,74,2,61,3
+1359507,2023,1st innings,Chennai Super Kings,Chennai Super Kings,235,4,59,0,101,2,75,2
+1359507,2023,2nd innings,Kolkata Knight Riders,Chennai Super Kings,186,8,38,2,99,3,49,3
+1359508,2023,1st innings,Delhi Capitals,Delhi Capitals,144,9,49,2,57,3,38,4
+1359508,2023,2nd innings,Sunrisers Hyderabad,Delhi Capitals,137,6,36,1,53,4,48,1
+1359509,2023,1st innings,Gujarat Titans,Gujarat Titans,207,6,50,1,80,3,77,2
+1359509,2023,2nd innings,Mumbai Indians,Gujarat Titans,152,9,29,1,83,5,40,3
+1359510,2023,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,200,5,66,0,65,2,69,3
+1359510,2023,2nd innings,Royal Challengers Bangalore,Kolkata Knight Riders,179,8,58,3,80,3,41,2
+1359511,2023,1st innings,Rajasthan Royals,Rajasthan Royals,202,5,64,0,75,3,63,2
+1359511,2023,2nd innings,Chennai Super Kings,Rajasthan Royals,170,6,42,1,83,4,45,1
+1359512,2023,1st innings,Lucknow Super Giants,Lucknow Super Giants,257,5,74,2,110,1,73,2
+1359512,2023,2nd innings,Punjab Kings,Lucknow Super Giants,201,10,55,2,97,2,49,6
+1359513,2023,1st innings,Kolkata Knight Riders,Gujarat Titans,179,7,61,2,73,2,45,3
+1359513,2023,2nd innings,Gujarat Titans,Gujarat Titans,180,3,52,1,77,2,51,0
+1359514,2023,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,197,6,62,2,73,3,62,1
+1359514,2023,2nd innings,Delhi Capitals,Sunrisers Hyderabad,188,6,57,1,81,3,50,2
+1359515,2023,1st innings,Chennai Super Kings,Punjab Kings,200,4,57,0,89,2,54,2
+1359515,2023,2nd innings,Punjab Kings,Punjab Kings,201,6,62,1,67,2,72,3
+1359516,2023,1st innings,Rajasthan Royals,Mumbai Indians,212,7,65,0,78,4,69,3
+1359516,2023,2nd innings,Mumbai Indians,Mumbai Indians,214,4,58,1,92,2,64,1
+1359517,2023,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,126,9,42,0,50,4,34,5
+1359517,2023,2nd innings,Lucknow Super Giants,Royal Challengers Bangalore,108,10,34,4,44,4,30,2
+1359518,2023,1st innings,Delhi Capitals,Delhi Capitals,130,8,28,5,50,1,52,2
+1359518,2023,2nd innings,Gujarat Titans,Delhi Capitals,125,6,31,3,48,1,46,2
+1359519,2023,1st innings,Lucknow Super Giants,,125,7,31,3,42,2,52,2
+1359520,2023,1st innings,Punjab Kings,Mumbai Indians,214,3,50,1,95,2,69,0
+1359520,2023,2nd innings,Mumbai Indians,Mumbai Indians,216,4,54,2,116,0,46,2
+1359521,2023,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,171,9,49,3,80,2,42,4
+1359521,2023,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,166,8,53,3,81,2,32,3
+1359522,2023,1st innings,Rajasthan Royals,Gujarat Titans,118,10,50,2,50,6,18,2
+1359522,2023,2nd innings,Gujarat Titans,Gujarat Titans,119,1,49,0,70,1,0,0
+1359523,2023,1st innings,Mumbai Indians,Chennai Super Kings,139,8,34,3,59,1,46,4
+1359523,2023,2nd innings,Chennai Super Kings,Chennai Super Kings,140,4,55,1,68,2,17,1
+1359524,2023,1st innings,Royal Challengers Bangalore,Delhi Capitals,181,4,51,0,75,2,55,2
+1359524,2023,2nd innings,Delhi Capitals,Delhi Capitals,187,3,70,1,96,1,21,1
+1359525,2023,1st innings,Gujarat Titans,Gujarat Titans,227,2,78,0,98,1,51,1
+1359525,2023,2nd innings,Lucknow Super Giants,Gujarat Titans,171,7,72,0,58,3,41,4
+1359526,2023,1st innings,Rajasthan Royals,Sunrisers Hyderabad,214,2,61,1,93,0,60,1
+1359526,2023,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,217,6,52,1,94,1,71,4
+1359527,2023,1st innings,Punjab Kings,Kolkata Knight Riders,179,7,58,3,66,2,55,2
+1359527,2023,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,182,5,52,1,70,2,60,2
+1359528,2023,1st innings,Royal Challengers Bangalore,Mumbai Indians,199,6,56,2,96,3,47,1
+1359528,2023,2nd innings,Mumbai Indians,Mumbai Indians,200,4,62,2,112,0,26,2
+1359529,2023,1st innings,Chennai Super Kings,Chennai Super Kings,167,8,49,1,68,4,50,3
+1359529,2023,2nd innings,Delhi Capitals,Chennai Super Kings,140,8,47,3,44,2,49,3
+1359530,2023,1st innings,Kolkata Knight Riders,Rajasthan Royals,149,8,37,2,79,2,33,4
+1359530,2023,2nd innings,Rajasthan Royals,Rajasthan Royals,151,1,78,1,73,0,0,0
+1359531,2023,1st innings,Mumbai Indians,Mumbai Indians,218,5,61,0,90,3,67,2
+1359531,2023,2nd innings,Gujarat Titans,Mumbai Indians,191,8,48,3,82,5,61,0
+1359532,2023,1st innings,Sunrisers Hyderabad,Lucknow Super Giants,182,6,56,2,74,3,52,1
+1359532,2023,2nd innings,Lucknow Super Giants,Lucknow Super Giants,185,3,30,1,84,1,71,1
+1359533,2023,1st innings,Punjab Kings,Punjab Kings,167,7,46,3,71,1,50,3
+1359533,2023,2nd innings,Delhi Capitals,Punjab Kings,136,8,65,0,50,6,21,2
+1359534,2023,1st innings,Royal Challengers Bangalore,Royal Challengers Bangalore,171,5,42,0,78,2,51,3
+1359534,2023,2nd innings,Rajasthan Royals,Royal Challengers Bangalore,59,10,28,5,31,5,0,0
+1359535,2023,1st innings,Chennai Super Kings,Kolkata Knight Riders,144,6,52,1,40,4,52,1
+1359535,2023,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,147,4,46,3,71,0,30,1
+1359536,2023,1st innings,Gujarat Titans,Gujarat Titans,188,9,65,1,89,1,34,7
+1359536,2023,2nd innings,Sunrisers Hyderabad,Gujarat Titans,154,9,45,4,66,3,43,2
+1359537,2023,1st innings,Lucknow Super Giants,Lucknow Super Giants,177,4,35,2,73,1,69,1
+1359537,2023,2nd innings,Mumbai Indians,Lucknow Super Giants,172,5,58,0,67,3,47,2
+1359538,2023,1st innings,Delhi Capitals,Delhi Capitals,213,2,61,0,87,2,65,0
+1359538,2023,2nd innings,Punjab Kings,Delhi Capitals,198,8,47,1,81,2,70,5
+1359539,2023,1st innings,Sunrisers Hyderabad,Royal Challengers Bangalore,186,5,49,2,84,1,53,2
+1359539,2023,2nd innings,Royal Challengers Bangalore,Royal Challengers Bangalore,187,2,64,0,86,0,37,2
+1359540,2023,1st innings,Punjab Kings,Rajasthan Royals,187,5,48,3,69,2,70,0
+1359540,2023,2nd innings,Rajasthan Royals,Rajasthan Royals,189,6,57,1,84,3,48,2
+1359541,2023,1st innings,Chennai Super Kings,Chennai Super Kings,223,3,52,0,96,1,75,2
+1359541,2023,2nd innings,Delhi Capitals,Chennai Super Kings,146,9,34,3,82,2,30,4
+1359542,2023,1st innings,Lucknow Super Giants,Lucknow Super Giants,176,8,54,1,65,4,57,3
+1359542,2023,2nd innings,Kolkata Knight Riders,Lucknow Super Giants,175,7,61,1,53,3,61,3
+1359543,2023,1st innings,Sunrisers Hyderabad,Mumbai Indians,200,5,53,0,104,1,43,4
+1359543,2023,2nd innings,Mumbai Indians,Mumbai Indians,201,2,60,1,100,1,41,0
+1359544,2023,1st innings,Royal Challengers Bangalore,Gujarat Titans,197,5,62,0,74,5,61,0
+1359544,2023,2nd innings,Gujarat Titans,Gujarat Titans,198,4,51,1,97,1,50,2
+1370350,2023,1st innings,Chennai Super Kings,Chennai Super Kings,172,7,49,0,76,3,47,4
+1370350,2023,2nd innings,Gujarat Titans,Chennai Super Kings,157,10,41,2,61,4,55,4
+1370351,2023,1st innings,Mumbai Indians,Mumbai Indians,182,8,62,2,69,2,51,4
+1370351,2023,2nd innings,Lucknow Super Giants,Mumbai Indians,101,10,54,2,46,7,1,1
+1370352,2023,1st innings,Gujarat Titans,Gujarat Titans,233,3,50,0,116,1,67,2
+1370352,2023,2nd innings,Mumbai Indians,Gujarat Titans,171,10,72,3,84,3,15,4
+1370353,2023,1st innings,Gujarat Titans,Chennai Super Kings,214,4,62,0,81,2,71,2
+1370353,2023,2nd innings,Chennai Super Kings,Chennai Super Kings,171,5,72,0,99,5,0,0
+1422119,2024,1st innings,Royal Challengers Bengaluru,Chennai Super Kings,173,6,42,3,60,2,71,1
+1422119,2024,2nd innings,Chennai Super Kings,Chennai Super Kings,176,4,62,1,66,3,48,0
+1422120,2024,1st innings,Delhi Capitals,Punjab Kings,174,9,54,1,70,4,50,4
+1422120,2024,2nd innings,Punjab Kings,Punjab Kings,177,6,60,2,70,2,47,2
+1422121,2024,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,208,7,43,3,80,3,85,1
+1422121,2024,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,204,7,65,1,63,3,76,3
+1422122,2024,1st innings,Rajasthan Royals,Rajasthan Royals,193,4,54,2,89,1,50,1
+1422122,2024,2nd innings,Lucknow Super Giants,Rajasthan Royals,173,6,47,3,87,1,39,2
+1422123,2024,1st innings,Gujarat Titans,Gujarat Titans,168,6,47,1,77,2,44,3
+1422123,2024,2nd innings,Mumbai Indians,Gujarat Titans,162,9,52,2,74,1,36,6
+1422124,2024,1st innings,Punjab Kings,Royal Challengers Bengaluru,176,6,40,1,88,3,48,2
+1422124,2024,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,178,6,50,2,68,2,60,2
+1422125,2024,1st innings,Chennai Super Kings,Chennai Super Kings,206,6,69,1,86,2,51,3
+1422125,2024,2nd innings,Gujarat Titans,Chennai Super Kings,143,8,43,2,71,3,29,3
+1422126,2024,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,277,3,81,1,121,2,75,0
+1422126,2024,2nd innings,Mumbai Indians,Sunrisers Hyderabad,246,5,76,2,109,2,61,1
+1422127,2024,1st innings,Rajasthan Royals,Rajasthan Royals,185,5,31,2,77,2,77,1
+1422127,2024,2nd innings,Delhi Capitals,Rajasthan Royals,173,5,59,2,61,2,53,1
+1422128,2024,1st innings,Royal Challengers Bengaluru,Kolkata Knight Riders,182,6,61,1,73,2,48,3
+1422128,2024,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,186,3,85,0,82,2,19,1
+1422129,2024,1st innings,Lucknow Super Giants,Lucknow Super Giants,199,8,54,2,92,2,53,4
+1422129,2024,2nd innings,Punjab Kings,Lucknow Super Giants,178,5,61,0,75,2,42,3
+1422130,2024,1st innings,Sunrisers Hyderabad,Gujarat Titans,162,8,56,1,66,4,40,3
+1422130,2024,2nd innings,Gujarat Titans,Gujarat Titans,168,3,52,1,62,1,54,1
+1422131,2024,1st innings,Delhi Capitals,Delhi Capitals,191,5,62,0,72,4,57,1
+1422131,2024,2nd innings,Chennai Super Kings,Delhi Capitals,171,6,32,2,81,3,58,1
+1422132,2024,1st innings,Mumbai Indians,Rajasthan Royals,125,9,46,4,56,3,23,2
+1422132,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,127,4,46,2,65,2,16,0
+1422133,2024,1st innings,Lucknow Super Giants,Lucknow Super Giants,181,5,54,1,77,2,50,2
+1422133,2024,2nd innings,Royal Challengers Bengaluru,Lucknow Super Giants,153,10,48,3,56,3,49,4
+1422134,2024,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,272,7,88,1,107,2,77,4
+1422134,2024,2nd innings,Delhi Capitals,Kolkata Knight Riders,166,10,51,4,108,3,7,3
+1422135,2024,1st innings,Gujarat Titans,Punjab Kings,199,4,52,1,82,2,65,1
+1422135,2024,2nd innings,Punjab Kings,Punjab Kings,200,7,54,2,84,3,62,2
+1422136,2024,1st innings,Chennai Super Kings,Sunrisers Hyderabad,165,5,48,1,79,3,38,1
+1422136,2024,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,166,4,78,1,57,2,31,1
+1422137,2024,1st innings,Royal Challengers Bengaluru,Rajasthan Royals,183,3,53,0,76,2,54,1
+1422137,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,189,4,54,1,98,1,37,2
+1422138,2024,1st innings,Mumbai Indians,Mumbai Indians,234,5,75,0,63,4,96,1
+1422138,2024,2nd innings,Delhi Capitals,Mumbai Indians,205,8,46,1,98,2,61,5
+1422139,2024,1st innings,Lucknow Super Giants,Lucknow Super Giants,163,5,47,2,67,2,49,1
+1422139,2024,2nd innings,Gujarat Titans,Lucknow Super Giants,130,10,54,1,39,6,37,3
+1426260,2024,1st innings,Kolkata Knight Riders,Chennai Super Kings,137,9,56,1,43,4,38,4
+1426260,2024,2nd innings,Chennai Super Kings,Chennai Super Kings,141,3,52,1,63,1,26,1
+1426261,2024,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,182,9,40,3,93,2,49,4
+1426261,2024,2nd innings,Punjab Kings,Sunrisers Hyderabad,180,6,27,3,78,2,75,1
+1426262,2024,1st innings,Rajasthan Royals,Gujarat Titans,196,3,43,2,91,0,62,1
+1426262,2024,2nd innings,Gujarat Titans,Gujarat Titans,199,7,44,0,80,4,75,3
+1426263,2024,1st innings,Royal Challengers Bengaluru,Mumbai Indians,196,8,44,2,86,2,66,4
+1426263,2024,2nd innings,Mumbai Indians,Mumbai Indians,199,3,72,0,116,3,11,0
+1426264,2024,1st innings,Lucknow Super Giants,Delhi Capitals,167,7,57,2,57,5,53,0
+1426264,2024,2nd innings,Delhi Capitals,Delhi Capitals,170,4,62,1,83,2,25,1
+1426265,2024,1st innings,Punjab Kings,Rajasthan Royals,147,8,38,1,48,4,61,3
+1426265,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,152,7,43,0,56,3,53,4
+1426266,2024,1st innings,Lucknow Super Giants,Kolkata Knight Riders,161,7,49,2,64,3,48,2
+1426266,2024,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,162,2,58,2,98,0,6,0
+1426267,2024,1st innings,Chennai Super Kings,Chennai Super Kings,206,4,48,1,101,1,57,2
+1426267,2024,2nd innings,Mumbai Indians,Chennai Super Kings,186,6,63,0,69,3,54,3
+1426268,2024,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,287,3,76,0,129,2,82,1
+1426268,2024,2nd innings,Royal Challengers Bengaluru,Sunrisers Hyderabad,262,7,79,0,108,6,75,1
+1426269,2024,1st innings,Kolkata Knight Riders,Rajasthan Royals,223,6,56,1,105,2,62,3
+1426269,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,224,8,76,2,69,4,79,2
+1426270,2024,1st innings,Gujarat Titans,Delhi Capitals,89,10,30,4,48,4,11,2
+1426270,2024,2nd innings,Delhi Capitals,Delhi Capitals,92,4,67,4,25,0,0,0
+1426271,2024,1st innings,Mumbai Indians,Mumbai Indians,192,7,54,1,76,1,62,5
+1426271,2024,2nd innings,Punjab Kings,Mumbai Indians,183,10,40,4,101,3,42,3
+1426272,2024,1st innings,Chennai Super Kings,Lucknow Super Giants,176,6,51,2,54,3,71,1
+1426272,2024,2nd innings,Lucknow Super Giants,Lucknow Super Giants,180,2,54,0,80,1,46,1
+1426273,2024,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,266,7,125,0,80,4,61,3
+1426273,2024,2nd innings,Delhi Capitals,Sunrisers Hyderabad,199,10,88,2,78,4,33,4
+1426274,2024,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,222,6,75,3,74,2,73,1
+1426274,2024,2nd innings,Royal Challengers Bengaluru,Kolkata Knight Riders,221,10,74,2,100,4,47,4
+1426275,2024,1st innings,Punjab Kings,Gujarat Titans,142,10,56,1,41,5,45,4
+1426275,2024,2nd innings,Gujarat Titans,Gujarat Titans,146,7,44,1,57,3,45,3
+1426276,2024,1st innings,Mumbai Indians,Rajasthan Royals,179,9,45,3,86,1,48,5
+1426276,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,183,1,61,0,90,1,32,0
+1426277,2024,1st innings,Chennai Super Kings,Lucknow Super Giants,210,4,49,2,86,1,75,1
+1426277,2024,2nd innings,Lucknow Super Giants,Lucknow Super Giants,213,4,45,2,92,1,76,1
+1426278,2024,1st innings,Delhi Capitals,Delhi Capitals,224,4,44,3,83,0,97,1
+1426278,2024,2nd innings,Gujarat Titans,Delhi Capitals,220,8,67,1,80,4,73,3
+1426279,2024,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,206,7,61,1,81,3,64,3
+1426279,2024,2nd innings,Sunrisers Hyderabad,Royal Challengers Bengaluru,171,8,62,4,70,3,39,1
+1426280,2024,1st innings,Kolkata Knight Riders,Punjab Kings,261,6,76,0,114,2,71,4
+1426280,2024,2nd innings,Punjab Kings,Punjab Kings,262,2,93,1,108,1,61,0
+1426281,2024,1st innings,Delhi Capitals,Delhi Capitals,257,4,92,0,98,3,67,1
+1426281,2024,2nd innings,Mumbai Indians,Delhi Capitals,247,9,65,3,108,2,74,4
+1426282,2024,1st innings,Lucknow Super Giants,Rajasthan Royals,196,5,46,2,104,1,46,2
+1426282,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,199,3,60,1,84,2,55,0
+1426283,2024,1st innings,Gujarat Titans,Royal Challengers Bengaluru,200,3,42,1,96,2,62,0
+1426283,2024,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,206,1,63,1,114,0,29,0
+1426284,2024,1st innings,Chennai Super Kings,Chennai Super Kings,212,3,50,1,98,1,64,1
+1426284,2024,2nd innings,Sunrisers Hyderabad,Chennai Super Kings,134,10,53,3,56,2,25,5
+1426285,2024,1st innings,Delhi Capitals,Kolkata Knight Riders,153,9,67,3,45,5,41,1
+1426285,2024,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,157,3,79,0,62,3,16,0
+1426286,2024,1st innings,Mumbai Indians,Lucknow Super Giants,144,7,28,4,68,1,48,2
+1426286,2024,2nd innings,Lucknow Super Giants,Lucknow Super Giants,145,6,52,1,64,3,29,2
+1426287,2024,1st innings,Chennai Super Kings,Punjab Kings,162,7,55,0,47,3,60,4
+1426287,2024,2nd innings,Punjab Kings,Punjab Kings,163,3,52,1,83,2,28,0
+1426288,2024,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,201,3,37,2,94,1,70,0
+1426288,2024,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,200,7,60,2,97,1,43,4
+1426289,2024,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,169,10,57,4,71,1,41,5
+1426289,2024,2nd innings,Mumbai Indians,Kolkata Knight Riders,145,10,46,3,73,3,26,4
+1426290,2024,1st innings,Gujarat Titans,Royal Challengers Bengaluru,147,10,23,3,79,2,45,5
+1426290,2024,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,152,6,92,1,60,5,0,0
+1426291,2024,1st innings,Chennai Super Kings,Chennai Super Kings,167,9,60,1,57,4,50,4
+1426291,2024,2nd innings,Punjab Kings,Chennai Super Kings,139,9,47,2,44,6,48,1
+1426292,2024,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,235,6,70,1,101,2,64,3
+1426292,2024,2nd innings,Lucknow Super Giants,Kolkata Knight Riders,137,10,55,1,75,7,7,2
+1426293,2024,1st innings,Sunrisers Hyderabad,Mumbai Indians,173,8,56,1,64,4,53,3
+1426293,2024,2nd innings,Mumbai Indians,Mumbai Indians,174,3,52,3,87,0,35,0
+1426294,2024,1st innings,Delhi Capitals,Delhi Capitals,221,8,78,2,78,3,65,3
+1426294,2024,2nd innings,Rajasthan Royals,Delhi Capitals,201,8,67,2,92,1,42,5
+1426295,2024,1st innings,Lucknow Super Giants,Sunrisers Hyderabad,165,4,27,2,75,2,63,0
+1426295,2024,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,167,0,107,0,60,0,0,0
+1426296,2024,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,241,7,56,2,108,1,77,4
+1426296,2024,2nd innings,Punjab Kings,Royal Challengers Bengaluru,181,10,75,2,89,5,17,3
+1426297,2024,1st innings,Gujarat Titans,Gujarat Titans,231,3,58,0,132,0,41,3
+1426297,2024,2nd innings,Chennai Super Kings,Gujarat Titans,196,8,43,3,100,2,53,3
+1426298,2024,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,157,7,52,3,95,3,10,1
+1426298,2024,2nd innings,Mumbai Indians,Kolkata Knight Riders,139,8,62,0,74,6,3,2
+1426299,2024,1st innings,Rajasthan Royals,Chennai Super Kings,141,5,42,0,52,3,47,2
+1426299,2024,2nd innings,Chennai Super Kings,Chennai Super Kings,145,5,56,1,60,3,29,1
+1426300,2024,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,187,9,61,2,77,2,49,5
+1426300,2024,2nd innings,Delhi Capitals,Royal Challengers Bengaluru,140,10,54,4,73,3,13,3
+1426302,2024,1st innings,Delhi Capitals,Delhi Capitals,208,4,73,1,63,2,72,1
+1426302,2024,2nd innings,Lucknow Super Giants,Delhi Capitals,189,9,59,4,76,3,54,2
+1426303,2024,1st innings,Rajasthan Royals,Punjab Kings,144,9,38,1,65,5,41,3
+1426303,2024,2nd innings,Punjab Kings,Punjab Kings,145,5,39,3,64,1,42,1
+1426305,2024,1st innings,Lucknow Super Giants,Lucknow Super Giants,214,6,49,2,110,1,55,3
+1426305,2024,2nd innings,Mumbai Indians,Lucknow Super Giants,196,6,53,0,72,5,71,1
+1426306,2024,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,218,5,42,0,96,2,80,3
+1426306,2024,2nd innings,Chennai Super Kings,Royal Challengers Bengaluru,191,7,58,2,71,4,62,1
+1426307,2024,1st innings,Punjab Kings,Sunrisers Hyderabad,214,5,61,0,98,2,55,3
+1426307,2024,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,215,6,84,2,98,2,33,2
+1426309,2024,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,159,10,45,4,80,4,34,2
+1426309,2024,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,164,2,63,1,101,1,0,0
+1426310,2024,1st innings,Royal Challengers Bengaluru,Rajasthan Royals,172,8,50,1,75,4,47,3
+1426310,2024,2nd innings,Rajasthan Royals,Rajasthan Royals,174,6,47,1,79,3,48,2
+1426311,2024,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,175,9,68,3,64,3,43,3
+1426311,2024,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,139,7,51,1,51,5,37,1
+1426312,2024,1st innings,Sunrisers Hyderabad,Kolkata Knight Riders,113,10,40,3,50,5,23,2
+1426312,2024,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,114,2,72,1,42,1,0,0
+1473438,2025,1st innings,Kolkata Knight Riders,Royal Challengers Bengaluru,174,8,60,1,85,4,29,3
+1473438,2025,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,177,3,80,0,77,2,20,1
+1473439,2025,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,286,6,94,1,114,2,78,3
+1473439,2025,2nd innings,Rajasthan Royals,Sunrisers Hyderabad,242,6,77,3,92,2,73,1
+1473440,2025,1st innings,Mumbai Indians,Chennai Super Kings,155,9,52,3,58,3,45,3
+1473440,2025,2nd innings,Chennai Super Kings,Chennai Super Kings,158,6,62,1,57,4,39,1
+1473441,2025,1st innings,Lucknow Super Giants,Delhi Capitals,209,8,64,1,106,3,39,4
+1473441,2025,2nd innings,Delhi Capitals,Delhi Capitals,211,9,58,4,90,2,63,3
+1473442,2025,1st innings,Punjab Kings,Punjab Kings,243,5,73,1,83,3,87,1
+1473442,2025,2nd innings,Gujarat Titans,Punjab Kings,232,5,61,1,113,1,58,3
+1473443,2025,1st innings,Rajasthan Royals,Kolkata Knight Riders,151,9,54,1,56,5,41,3
+1473443,2025,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,153,2,40,0,78,2,35,0
+1473444,2025,1st innings,Sunrisers Hyderabad,Lucknow Super Giants,190,9,62,2,81,3,47,4
+1473444,2025,2nd innings,Lucknow Super Giants,Lucknow Super Giants,193,5,77,1,99,4,17,0
+1473445,2025,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,196,7,56,1,82,2,58,4
+1473445,2025,2nd innings,Chennai Super Kings,Royal Challengers Bengaluru,146,8,30,3,68,3,48,2
+1473446,2025,1st innings,Gujarat Titans,Gujarat Titans,196,8,66,0,74,2,56,6
+1473446,2025,2nd innings,Mumbai Indians,Gujarat Titans,160,6,48,2,70,2,42,2
+1473447,2025,1st innings,Sunrisers Hyderabad,Delhi Capitals,163,10,58,4,82,3,23,3
+1473447,2025,2nd innings,Delhi Capitals,Delhi Capitals,166,3,52,0,98,3,16,0
+1473448,2025,1st innings,Rajasthan Royals,Rajasthan Royals,182,9,79,1,66,4,37,4
+1473448,2025,2nd innings,Chennai Super Kings,Rajasthan Royals,176,6,42,1,80,3,54,2
+1473449,2025,1st innings,Kolkata Knight Riders,Mumbai Indians,116,10,41,4,60,5,15,1
+1473449,2025,2nd innings,Mumbai Indians,Mumbai Indians,121,2,55,1,66,1,0,0
+1473450,2025,1st innings,Lucknow Super Giants,Punjab Kings,171,7,39,3,78,1,54,3
+1473450,2025,2nd innings,Punjab Kings,Punjab Kings,177,2,62,1,93,1,22,0
+1473451,2025,1st innings,Royal Challengers Bengaluru,Gujarat Titans,169,8,38,3,67,3,64,2
+1473451,2025,2nd innings,Gujarat Titans,Gujarat Titans,170,2,42,1,92,1,36,0
+1473452,2025,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,200,6,53,2,69,2,78,2
+1473452,2025,2nd innings,Sunrisers Hyderabad,Kolkata Knight Riders,120,10,33,3,81,4,6,3
+1473453,2025,1st innings,Lucknow Super Giants,Lucknow Super Giants,203,8,69,0,77,3,57,5
+1473453,2025,2nd innings,Mumbai Indians,Lucknow Super Giants,191,5,64,2,79,1,48,2
+1473454,2025,1st innings,Delhi Capitals,Delhi Capitals,183,6,51,1,87,2,45,3
+1473454,2025,2nd innings,Chennai Super Kings,Delhi Capitals,158,5,46,3,60,2,52,0
+1473455,2025,1st innings,Rajasthan Royals,Rajasthan Royals,205,4,53,0,89,3,63,1
+1473455,2025,2nd innings,Punjab Kings,Rajasthan Royals,155,9,43,3,88,2,24,4
+1473456,2025,1st innings,Lucknow Super Giants,Lucknow Super Giants,238,3,59,0,111,1,68,2
+1473456,2025,2nd innings,Kolkata Knight Riders,Lucknow Super Giants,234,7,90,1,83,4,61,2
+1473457,2025,1st innings,Sunrisers Hyderabad,Gujarat Titans,152,8,45,2,60,2,47,4
+1473457,2025,2nd innings,Gujarat Titans,Gujarat Titans,153,3,48,2,82,1,23,0
+1473458,2025,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,221,5,73,1,78,3,70,1
+1473458,2025,2nd innings,Mumbai Indians,Royal Challengers Bengaluru,209,9,54,2,103,2,52,5
+1473459,2025,1st innings,Punjab Kings,Punjab Kings,219,6,75,3,89,3,55,0
+1473459,2025,2nd innings,Chennai Super Kings,Punjab Kings,201,5,59,0,86,2,56,3
+1473460,2025,1st innings,Gujarat Titans,Gujarat Titans,217,6,56,1,89,1,72,4
+1473460,2025,2nd innings,Rajasthan Royals,Gujarat Titans,159,10,57,2,82,4,20,4
+1473461,2025,1st innings,Royal Challengers Bengaluru,Delhi Capitals,163,7,64,2,53,4,46,1
+1473461,2025,2nd innings,Delhi Capitals,Delhi Capitals,169,4,39,3,82,1,48,0
+1473462,2025,1st innings,Chennai Super Kings,Kolkata Knight Riders,103,9,31,2,43,5,29,2
+1473462,2025,2nd innings,Kolkata Knight Riders,Kolkata Knight Riders,107,2,71,1,36,1,0,0
+1473463,2025,1st innings,Gujarat Titans,Lucknow Super Giants,180,6,54,0,81,3,45,3
+1473463,2025,2nd innings,Lucknow Super Giants,Lucknow Super Giants,186,4,61,0,93,2,32,2
+1473464,2025,1st innings,Punjab Kings,Sunrisers Hyderabad,245,6,89,1,88,3,68,2
+1473464,2025,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,247,2,83,0,122,1,42,1
+1473465,2025,1st innings,Rajasthan Royals,Royal Challengers Bengaluru,173,4,45,0,69,2,59,2
+1473465,2025,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,175,1,65,0,81,1,29,0
+1473466,2025,1st innings,Mumbai Indians,Mumbai Indians,205,5,59,1,87,3,59,1
+1473466,2025,2nd innings,Delhi Capitals,Mumbai Indians,193,10,72,1,86,4,35,5
+1473467,2025,1st innings,Lucknow Super Giants,Chennai Super Kings,166,7,42,2,67,2,57,3
+1473467,2025,2nd innings,Chennai Super Kings,Chennai Super Kings,168,5,59,1,52,4,57,0
+1473468,2025,1st innings,Punjab Kings,Punjab Kings,111,10,54,4,55,4,2,2
+1473468,2025,2nd innings,Kolkata Knight Riders,Punjab Kings,95,10,55,2,40,7,0,1
+1473469,2025,1st innings,Delhi Capitals,,188,5,46,2,65,2,77,1
+1473469,2025,2nd innings,Rajasthan Royals,,188,5,63,1,69,2,56,2
+1473469,2025,Delhi Capitals Super Over,Delhi Capitals,,13,0,13,0,0,0,0,0
+1473469,2025,Rajasthan Royals Super Over,Rajasthan Royals,,11,2,11,2,0,0,0,0
+1473470,2025,1st innings,Sunrisers Hyderabad,Mumbai Indians,162,5,46,0,59,3,57,2
+1473470,2025,2nd innings,Mumbai Indians,Mumbai Indians,166,6,55,1,82,3,29,2
+1473471,2025,1st innings,Royal Challengers Bengaluru,Punjab Kings,95,9,33,4,62,5,0,0
+1473471,2025,2nd innings,Punjab Kings,Punjab Kings,98,5,46,2,52,3,0,0
+1473472,2025,1st innings,Delhi Capitals,Gujarat Titans,203,8,73,2,77,2,53,4
+1473472,2025,2nd innings,Gujarat Titans,Gujarat Titans,204,3,67,1,91,1,46,1
+1473473,2025,1st innings,Lucknow Super Giants,Lucknow Super Giants,180,5,46,2,75,1,59,2
+1473473,2025,2nd innings,Rajasthan Royals,Lucknow Super Giants,178,5,61,0,74,2,43,3
+1473474,2025,1st innings,Punjab Kings,Royal Challengers Bengaluru,157,6,62,1,57,5,38,0
+1473474,2025,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,159,3,54,1,68,1,37,1
+1473475,2025,1st innings,Chennai Super Kings,Mumbai Indians,176,5,48,1,70,2,58,2
+1473475,2025,2nd innings,Mumbai Indians,Mumbai Indians,177,1,62,0,95,1,20,0
+1473476,2025,1st innings,Gujarat Titans,Gujarat Titans,198,3,45,0,94,1,59,2
+1473476,2025,2nd innings,Kolkata Knight Riders,Gujarat Titans,159,8,45,2,69,2,45,4
+1473477,2025,1st innings,Lucknow Super Giants,Delhi Capitals,159,6,51,0,67,4,41,2
+1473477,2025,2nd innings,Delhi Capitals,Delhi Capitals,161,2,54,1,73,1,34,0
+1473478,2025,1st innings,Sunrisers Hyderabad,Mumbai Indians,143,8,24,4,66,1,53,3
+1473478,2025,2nd innings,Mumbai Indians,Mumbai Indians,146,3,56,1,81,2,9,0
+1473479,2025,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,205,5,59,0,97,1,49,4
+1473479,2025,2nd innings,Rajasthan Royals,Royal Challengers Bengaluru,194,9,72,2,76,2,46,5
+1473480,2025,1st innings,Chennai Super Kings,Sunrisers Hyderabad,154,10,50,3,77,3,27,4
+1473480,2025,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,155,5,37,2,77,3,41,0
+1473481,2025,1st innings,Punjab Kings,,201,4,56,0,105,2,40,2
+1473481,2025,2nd innings,Kolkata Knight Riders,,7,0,7,0,0,0,0,0
+1473482,2025,1st innings,Mumbai Indians,Mumbai Indians,215,7,66,1,91,3,58,3
+1473482,2025,2nd innings,Lucknow Super Giants,Mumbai Indians,161,10,60,1,80,4,21,5
+1473483,2025,1st innings,Delhi Capitals,Royal Challengers Bengaluru,162,8,52,2,56,2,54,4
+1473483,2025,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,165,4,35,3,79,0,51,1
+1473484,2025,1st innings,Gujarat Titans,Rajasthan Royals,209,4,53,0,96,1,60,3
+1473484,2025,2nd innings,Rajasthan Royals,Rajasthan Royals,212,2,87,0,112,2,13,0
+1473485,2025,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,204,9,79,1,80,3,45,5
+1473485,2025,2nd innings,Delhi Capitals,Kolkata Knight Riders,190,9,58,2,88,3,44,4
+1473486,2025,1st innings,Chennai Super Kings,Punjab Kings,190,10,48,3,86,1,56,6
+1473486,2025,2nd innings,Punjab Kings,Punjab Kings,194,6,51,1,88,2,55,3
+1473487,2025,1st innings,Mumbai Indians,Mumbai Indians,217,2,58,0,88,2,71,0
+1473487,2025,2nd innings,Rajasthan Royals,Mumbai Indians,117,10,62,5,51,4,4,1
+1473488,2025,1st innings,Gujarat Titans,Gujarat Titans,224,6,82,0,80,2,62,4
+1473488,2025,2nd innings,Sunrisers Hyderabad,Gujarat Titans,186,6,57,1,82,2,47,3
+1473489,2025,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,213,5,71,0,73,2,69,3
+1473489,2025,2nd innings,Chennai Super Kings,Royal Challengers Bengaluru,211,5,58,2,102,0,51,3
+1473490,2025,1st innings,Kolkata Knight Riders,Kolkata Knight Riders,206,4,56,1,65,2,85,1
+1473490,2025,2nd innings,Rajasthan Royals,Kolkata Knight Riders,205,8,59,2,96,3,50,3
+1473491,2025,1st innings,Punjab Kings,Punjab Kings,236,5,66,2,95,1,75,2
+1473491,2025,2nd innings,Lucknow Super Giants,Punjab Kings,199,7,38,3,105,2,56,2
+1473492,2025,1st innings,Delhi Capitals,,133,7,26,4,60,2,47,1
+1473493,2025,1st innings,Mumbai Indians,Gujarat Titans,155,8,56,2,60,4,39,2
+1473493,2025,2nd innings,Gujarat Titans,Gujarat Titans,147,7,29,1,84,2,34,4
+1473494,2025,1st innings,Kolkata Knight Riders,Chennai Super Kings,179,6,67,1,57,3,55,2
+1473494,2025,2nd innings,Chennai Super Kings,Chennai Super Kings,183,8,62,5,78,1,43,2
+1473495,2025,1st innings,Punjab Kings,,122,1,69,0,53,1,0,0
+1473497,2025,1st innings,Punjab Kings,Punjab Kings,219,5,58,3,89,1,72,1
+1473497,2025,2nd innings,Rajasthan Royals,Punjab Kings,209,7,89,1,65,3,55,3
+1473498,2025,1st innings,Delhi Capitals,Gujarat Titans,199,3,45,1,91,1,63,1
+1473498,2025,2nd innings,Gujarat Titans,Gujarat Titans,205,0,59,0,95,0,51,0
+1473499,2025,1st innings,Lucknow Super Giants,Sunrisers Hyderabad,205,7,69,0,77,2,59,5
+1473499,2025,2nd innings,Sunrisers Hyderabad,Sunrisers Hyderabad,206,5,72,1,99,2,35,2
+1473500,2025,1st innings,Chennai Super Kings,Rajasthan Royals,187,8,68,3,78,3,41,2
+1473500,2025,2nd innings,Rajasthan Royals,Rajasthan Royals,188,4,56,1,94,2,38,1
+1473501,2025,1st innings,Mumbai Indians,Mumbai Indians,180,5,54,2,60,2,66,1
+1473501,2025,2nd innings,Delhi Capitals,Mumbai Indians,121,10,49,3,56,4,16,3
+1473502,2025,1st innings,Lucknow Super Giants,Lucknow Super Giants,235,2,53,0,107,1,75,1
+1473502,2025,2nd innings,Gujarat Titans,Lucknow Super Giants,202,9,67,1,98,2,37,6
+1473503,2025,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,231,6,71,2,97,3,63,1
+1473503,2025,2nd innings,Royal Challengers Bengaluru,Sunrisers Hyderabad,189,10,72,0,95,3,22,7
+1473504,2025,1st innings,Chennai Super Kings,Chennai Super Kings,230,5,68,1,95,3,67,1
+1473504,2025,2nd innings,Gujarat Titans,Chennai Super Kings,147,10,35,3,90,4,22,3
+1473505,2025,1st innings,Sunrisers Hyderabad,Sunrisers Hyderabad,278,3,79,0,125,2,74,1
+1473505,2025,2nd innings,Kolkata Knight Riders,Sunrisers Hyderabad,168,10,59,2,71,5,38,3
+1473506,2025,1st innings,Mumbai Indians,Punjab Kings,184,7,52,1,79,3,53,3
+1473506,2025,2nd innings,Punjab Kings,Punjab Kings,187,3,47,1,99,1,41,1
+1473507,2025,1st innings,Lucknow Super Giants,Royal Challengers Bengaluru,227,3,55,1,109,0,63,2
+1473507,2025,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,230,4,66,1,111,3,53,0
+1473508,2025,1st innings,Punjab Kings,Royal Challengers Bengaluru,101,10,48,4,53,6,0,0
+1473508,2025,2nd innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,106,2,61,1,45,1,0,0
+1473509,2025,1st innings,Mumbai Indians,Mumbai Indians,228,5,79,0,81,2,68,3
+1473509,2025,2nd innings,Gujarat Titans,Mumbai Indians,208,6,66,1,95,2,47,3
+1473510,2025,1st innings,Mumbai Indians,Punjab Kings,203,6,65,1,81,3,57,2
+1473510,2025,2nd innings,Punjab Kings,Punjab Kings,207,5,64,2,83,1,60,2
+1473511,2025,1st innings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,190,9,55,1,77,3,58,5
+1473511,2025,2nd innings,Punjab Kings,Royal Challengers Bengaluru,184,7,52,1,67,3,65,3
+1485779,2025,1st innings,Punjab Kings,Delhi Capitals,206,8,60,2,82,2,64,4
+1485779,2025,2nd innings,Delhi Capitals,Delhi Capitals,208,4,61,1,94,3,53,0
