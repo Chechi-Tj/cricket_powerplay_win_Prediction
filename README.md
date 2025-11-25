@@ -13,17 +13,6 @@ This project analyzes how the number of runs scored in the Powerplay (first 6 ov
 
 - **Tools Used:** Python, pandas, matplotlib, PyYAML  
 
-## Project Structure
-
-cricket_powerplay_win_Prediction/  
-│  
-├── data/raw/ # Cricsheet YAML match files  
-├── src/powerplay_analysis.py # Python script for analysis  
-├── output/figures/ # Plots  
-├── output/tables/ # Result tables  
-├── README.md  
-└── requirements.txt
-
 ## How to Run
 
 1. Clone the repository  
@@ -36,6 +25,7 @@ python src/powerplay_analysis.py
 
 Check output/figures/ for visualizations and output/tables/ for aggregated results.
 
+Dashbord analysis in progress 
 ## Future Work
 - Add logistic regression / ML model to predict match outcome in real time  
 - Compare across IPL teams or T20 international tournaments
