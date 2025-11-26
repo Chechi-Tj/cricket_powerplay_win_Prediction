@@ -1,0 +1,14 @@
+# Ignore processed and raw data
+/data/raw/
+/data/processed/
+/src/data/
+/src/output/
+
+# Ignore virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore specific Python files
+src/dashboardv1.py
+srcfeatured_engineeringv1
